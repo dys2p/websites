@@ -1,0 +1,47 @@
+{{define "head"}}
+	<!-- TODO icon -->
+	<meta name="description" content="strengthening digital self-defense | research and development | providing privacy-focused goods and services">
+	<style>
+		/* make all images responsive */
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+
+		/* style all blockquotes independently from bootstrap */
+		blockquote {
+			border-left: solid 5px #d0d0d0;
+			font-style: italic;
+			padding-left: 0.5em;
+		}
+	</style>
+	<title>dys2p</title>
+{{end}}
+
+{{define "main"}}
+	<header>
+		<nav class="navbar navbar-expand-sm navbar-light bg-light">
+			<div class="container-fluid">
+				<input class="toggler" type="checkbox" id="toggle-navbar">
+				<label for="toggle-navbar" class="navbar-toggler">
+					<div class="navbar-toggler-icon"></div>
+				</label>
+				<label for="toggle-navbar" class="d-sm-none me-2">
+					<div class="navbar-text">dys2p</div>
+				</label>
+				<div class="collapse navbar-collapse">
+					<div class="navbar-nav mx-auto">
+						<a class="nav-item nav-link text-dark text-nowrap" href="index.html">dys2p</a>
+						<a class="nav-item nav-link text-dark text-nowrap" href="news.html">News</a>
+						<a class="nav-item nav-link text-dark text-nowrap" href="konzept.html">{{.Map "de" "Konzept" "en" "Concept"}}</a>
+						<a class="nav-item nav-link text-dark text-nowrap" href="support.html">{{.Map "de" "Unterstütze uns" "en" "Support us"}}</a>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+	<main class="container pt-4">
+		{{.Content}}
+	</main>
+	<!-- TODO footer without payment and delivery stuff -->
+{{end}}
