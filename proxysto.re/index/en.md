@@ -1,7 +1,7 @@
 <h1 class="text-center">ProxyStore</h1>
 
 <p class="lead text-center mb-2">Bernhard-Göring-Straße 162, 04277 Leipzig, Germany</p>
-<p class="lead text-center">Opening hours: Mon+Thu 10am-6pm, Tue+Wed+Fri+Sat 10am-2pm and by arrangement</p>
+<p class="lead text-center mb-2">Opening hours: Mon+Thu 10am-6pm, Tue+Wed+Fri+Sat 10am-2pm and by arrangement</p>
 <p class="lead text-center">Enter through store door or staircase (mostly open, else ring the bell). Both are unfortunately not wheelchair accessible.</p>
 
 ## Products from our online shops
