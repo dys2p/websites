@@ -133,5 +133,10 @@
 				</p>
 			</div>
 		</footer>
+
+		<!-- HTML noscript tag does not work with NoScript browser addon, so we go this way -->
+		<script>
+			document.querySelectorAll("[name='apply-changes-nojs']").forEach(e => e.remove());
+		</script>
 	</body>
 </html>
