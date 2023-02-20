@@ -39,25 +39,20 @@ Please use this phone number for Signal only (no SMS or calls). We use no other 
 
 `+49 178 123 9200`
 
-## XMPP with OTR Encryption
+## XMPP with OTR Encryption (new account)
+
+<code>proxystore <span class="ritole">ta</span> jabber.dys2p.com</code>
+
+OTR Fingerprints:
+
+* `30D426F8 2B7ACD2C 475D20B3 D3785469 1B0EB5A9`
+* `6B9B5483 324F7F61 4F2051E9 6ABA2924 69D8FF47`
+
+## XMPP with OTR Encryption (old account, until 2023-08-30)
 
 <code>proxystore <span class="ritole">ta</span> jabber.systemli.org</code>
 
-OTR Fingerprint:
+OTR Fingerprints:
 
 * `D3C20EE9 530CD74B A1C1D2C3 A9D5E4CD 23629ECA`
 * `861E80B0 16C886D2 EF4DEB78 377D8131 F2C08E96`
-
-## Frequently Asked Questions
-
-_Why are your Tor hidden services not using https?_
-
-Because it is not required and would be harder to implement. Read more on this topic at the Tor Project website: [HTTPS For Your Onion Service](https://community.torproject.org/onion-services/advanced/https/).
-
-_Why don't you use the messenger "Threema"?_
-
-One advantage of Threema is that users do not have to disclose their cell phone number. However, we do not like the fact that the computer version has to be activated with the smartphone every time it is started. That currently makes it too cumbersome for us to use.
-
-_Why don't you use OMEMO encryption for Jabber?_
-
-The clients we tested were either incompatible with each other or did not meet our requirements. For example, storing the chat history could not be disabled on some clients.
