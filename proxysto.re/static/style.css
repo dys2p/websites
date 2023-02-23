@@ -25,7 +25,22 @@
 input.toggler {
 	display: none;
 }
-input.toggler:checked ~ div {
+.close {
+	display: none;
+}
+:is(input.toggler:checked, input.toggler:target) ~ div {
+	display: block;
+}
+:is(input.toggler:checked, input.toggler:target) ~ .open {
+	display: none;
+}
+:is(input.toggler:checked, input.toggler:target) ~ * .open {
+	display: none;
+}
+:is(input.toggler:checked, input.toggler:target) ~ .close {
+	display: block;
+}
+:is(input.toggler:checked, input.toggler:target) ~ * .close {
 	display: block;
 }
 

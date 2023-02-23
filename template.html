@@ -11,15 +11,24 @@
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-expand-xl navbar-light py-0" style="background-color: rgba(240,242,244) !important">
+			<nav class="navbar navbar-expand-xl navbar-light py-0" style="background-color: rgb(240,242,244) !important">
 				<div class="container-fluid">
-					<input class="toggler" type="checkbox" id="toggle-shopbar">
-					<label for="toggle-shopbar" class="navbar-toggler my-2">
-						<div class="navbar-toggler-icon"></div>
+					<!-- checkbox -->
+					<input type="checkbox" class="toggler" aria-hidden="true" id="open-shopbar">
+					<!-- togglers -->
+					<label for="open-shopbar" class="navbar-toggler my-2">
+						<div class="open navbar-toggler-icon"></div>
+						<div class="close btn-close"></div>
 					</label>
-					<label for="toggle-shopbar" class="d-xl-none me-2">
+					<div class="d-xl-none">
+						<a class="open visually-hidden-focusable" role="button" href="#open-shopbar">Open shops menu</a>
+						<a class="close visually-hidden-focusable" role="button" href="#">Close shops menu</a>
+					</div>
+					<!-- closed -->
+					<label for="open-shopbar" class="d-xl-none me-2">
 						<div class="navbar-text">{{.Map "de" "Alle Angebote und Projekte" "en" "All Services and Projects"}}</div>
 					</label>
+					<!-- opened -->
 					<div class="collapse navbar-collapse">
 						<div class="navbar-brand equal-width-xl"></div>
 						<div class="navbar-nav equal-width-xl d-flex justify-content-center">
