@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Januar bis Juni 2023
+  * Spendensumme Februar 2023: 2,50 €
   * Spendensumme Januar 2023: 3,24 €
 * Spenden im Zeitraum Juli bis Dezember 2022
   * Nachweise: [Internet Archive](../assets/images/donations/2023-01/internet-archive.png), [Qubes OS](../assets/images/donations/2023-01/qubes-os.png), [Sci-Hub](../assets/images/donations/2023-01/sci-hub.png), [Tails](../assets/images/donations/2023-01/tails.png), [Whonix](../assets/images/donations/2023-01/whonix.png)
