@@ -100,7 +100,7 @@ Nachfolgend zeigen wir ein paar Beispiele für diese Angriffe, fassen bekannte G
               <a href="#vakuumieren-mit-dem-staubsauger">Vakuumieren mit dem Staubsauger</a>
             </li>
             <li>
-              <a href="#vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren einem Vakuumiergerät</a>
+              <a href="#vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren mit einem Vakuumiergerät</a>
             </li>
             <li>
               <a href="#kaskadierung">Kaskadierung</a>
@@ -312,7 +312,7 @@ Da viele Personen Staubsauger besitzen und es auch öffentliche Staubsauger an T
 
 ![Thinkpad unter buntem Reis im Staubsaugerbeutel](../assets/images/tamper-evident-protection/vakuum_04.jpg)
 
-<h4 id="vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren einem Vakuumiergerät</h4>
+<h4 id="vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren mit einem Vakuumiergerät</h4>
 
 Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe unterscheiden. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Passenden Beutel gibt es in vielen Größen, sie können aber nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden.
 
