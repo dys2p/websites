@@ -1308,7 +1308,7 @@ Offene Hardware und freie Firmware (oder entsprechendes Reverse Engineering) kö
 
 Wir möchten uns an dieser Stelle bei allen bedanken, die die Grundlagen und Verfahren entwickelt haben, die wir für diesen Text nutzen konnten.
 
-Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben, dann [schreib uns gern](https://proxysto.re/contact.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/tree/master/2022-09-print-scan-traces) an diesem Projekt.
+Solltest du weitere Ideen, Hinweise oder Verbesserungsvorschläge haben, dann [schreib uns gern](https://proxysto.re/contact.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/tree/master/2022-09-print-scan-traces) an diesem Projekt.
 
 Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale Kaffeekasse](https://dys2p.com/support.html). Auch unseren Plan, einen öffentlich zugänglichen und kostenfrei nutzbaren Shredder für Datenträger aufstellen, könnt ihr dort unterstützen. Um professionelle Druckprodukte datensparsam zu bestellen, könnt ihr unseren **[Druckservice](https://druck.proxysto.re/)** nutzen.
 
