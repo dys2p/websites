@@ -306,7 +306,7 @@ Insbesondere beim Versand sensibler Gegenstände sehen wir den Bedarf, unautoris
 
 Da die farbigen Elemente im obigen Vorschlag ihre Position beim Transport nicht halten würden, ändern wir das Verfahren. Der Gegenstand kommt jetzt in eine luftundurchlässige Hülle. Diese wird mit unserer bunten Substanz gefüllt, sodass der Gegenstand möglichst von allen Seiten verdeckt ist, und im Anschluss vakuumiert. Dadurch werden die farbigen Elemente an ihrer Position gehalten. Falls die Hülle beschädigt wird und ein Druckausgleich stattfindet, spätestens aber wenn ein Zugriff auf das umschlossene Objekt erfolgt, ändern die Elemente ihre Position.
 
-<h4 id="vakuumieren-mit-dem-staubsauger">Vakuumieren mit dem Staubsauger</h4>
+<h4 id="vakuumieren-mit-dem-staubsauger">Vakuumieren mit einem Staubsauger</h4>
 
 Da viele Personen Staubsauger besitzen und es auch öffentliche Staubsauger an Tankstellen gibt, steht dieses Verfahren für uns an erster Stelle. Es gibt spezielle, wiederverwendbare Vakuumbeutel, um z. B. Kleidung und Decken platzsparend und geschützt zu lagern. Die Luft aus dem Beutel wird dabei mit dem Staubsauger oder einer Handpumpe durch ein Ventil entfernt. Im Handel sind nur größere Beutel erhältlich, die sich z. B. gut für Laptops eignen, jedoch weniger für kleine Gegenstände.
 
@@ -342,7 +342,7 @@ Danach wechselt Blink Comparison beim Berühren des Bildschirms zwischen beiden 
 
 Wir möchten uns an dieser Stelle bei allen bedanken, die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen, die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack, Nitrokey und Purism für den Austausch zum Versiegeln mit Nagellack und [Insurgo](https://insurgo.ca) für den Hinweis zu Blink Comparison.
 
-Solltest du weitere Ideen, Hinweise oder Verbessrungsvorschläge haben, dann [schreib uns gerne](https://proxysto.re/contact.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.
+Solltest du weitere Ideen, Hinweise oder Verbesserungsvorschläge haben, dann [schreib uns gerne](https://proxysto.re/contact.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.
 
 <h2 id="erwaehnungen">Erwähnungen</h2>
 
