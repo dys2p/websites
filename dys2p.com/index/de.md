@@ -12,8 +12,7 @@
 * [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re/) ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)): VPN, E-Mail und mehr – kaufe Coupons für datenschutzfreundliche Anbieter mit Monero oder Bitcoin, Bargeldversand oder SEPA-Überweisung.
 * [druck.proxysto.re](https://druck.proxysto.re) ([onion](http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion/)): Bestelle ganz komfortabel in unserer Onlinedruckerei – datensparsam oder anonym.
 * [order.proxysto.re](https://order.proxysto.re) ([onion](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion/)): Privatsphäre-freundlicher Bestellservice. Wir bestellen Waren für dich – datensparsam oder anonym.
-* [shop.proxysto.re](https://shop.proxysto.re): Hier findest du Hardware, Bücher, Datenschutz-Zubehör und physische Guthabenkarten für Mullvad VPN.
-* [toolbox77.de](https://toolbox77.de) – Mittel zur physischen Selbstverteidigung, Outdoorbedarf und vieles mehr findest du im Onlineshop und im Ladengeschäft.
+* [shop.proxysto.re](https://shop.proxysto.re): Hier findest du Hardware, Bücher, Datenschutz-Zubehör und Guthabenkarten für Mullvad VPN. Außerden Outdoorbedarf, Mittel zur physischen Selbstverteidigung und Pyrotechnik.
 
 ## Projekte
 
