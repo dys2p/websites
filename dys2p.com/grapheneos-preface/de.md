@@ -8,9 +8,9 @@ Deshalb sollten Smartphones möglichst sicher sein und unsere Privatsphäre resp
 
 _– [madaidan](https://madaidans-insecurities.github.io/android.html#conclusion), Sicherheitsforscher/-in_
 
-> If I were configuring a smartphone today, I'd use @DanielMicay's @GrapheneOS as the base operating system.
+> I use GrapheneOS every day.
 
-_– [Edward Snowden](https://twitter.com/Snowden/status/1175430722733129729), NSA-Whistleblower_
+_– [Edward Snowden](https://twitter.com/Snowden/status/1588472045960327168), NSA-Whistleblower_
 
 Mit unserer deutschen Übersetzung möchten wir die Verbreitung von GrapheneOS fördern und die sprachliche Hürde bei der Installation senken. Wir bemühen uns, die Texte aktuell zu halten. Am Anfang der jeweiligen Übersetzung findest du den Commit-Hash und das Datum der zugrundeliegenden Originalversion.
 
