@@ -6,7 +6,7 @@
 
 ## Products from our online shops
 
-Our range of [digital goods](https://digitalgoods.proxysto.re) and products from our online shops [shop.proxysto.re](https://shop.proxysto.re) and [toolbox77.de](https://toolbox77.de) are fully available in our local store.
+Our range of [digital goods](https://digitalgoods.proxysto.re) and products from [our online shop](https://shop.proxysto.re) is fully available in our local store. You can also pay and pick up orders from [our order service](https://order.proxysto.re) and [our online printing service](https://druck.proxysto.re) here.
 
 ## Books and brochures
 

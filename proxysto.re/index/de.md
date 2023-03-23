@@ -6,7 +6,7 @@
 
 ## Onlinesortiment
 
-Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) und Produkten aus unseren Onlineshops [shop.proxysto.re](https://shop.proxysto.re) und [toolbox77.de](https://toolbox77.de) ist vollumfänglich in unserem Ladengeschäft erhältlich.
+Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) und Produkten aus [unserem Onlineshop](https://shop.proxysto.re) ist vollumfänglich in unserem Ladengeschäft erhältlich. Auch Aufträge aus [unserem Bestellservice](https://order.proxysto.re) und [unserem Onlinedruck-Service](https://druck.proxysto.re) kannst du hier bezahlen und abholen.
 
 ## Bücher und Broschüren
 
