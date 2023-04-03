@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Januar bis Juni 2023
+  * Spendensumme März 2023: 6,02 € + 3,50 €
   * Spendensumme Februar 2023: 2,50 €
   * Spendensumme Januar 2023: 3,24 €
 * Spenden im Zeitraum Juli bis Dezember 2022
