@@ -57,7 +57,7 @@ Our site [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) exists sin
 * SimpleLogin Premium voucher code: 1 year 26,00 €
 
 #### Tutanota
-With built-in encryption and open source code, <a rel="noreferrer" target="_blank"  href="https://tutanota.com/">Tutanota</a> claims to be the world''s most secure email provider. Each gift card is a web address. We are an official <a rel="noreferrer" target="_blank" href="https://tutanota.com/faq/#cryptocurrency">reseller of Tutanota</a>.
+With built-in encryption and open source code, <a rel="noreferrer" target="_blank"  href="https://tutanota.com/">Tutanota</a> claims to be the world''s most secure email provider. Each gift card is a web address. We are an <a rel="noreferrer" target="_blank" href="https://tutanota.com/faq/#cryptocurrency">official reseller of Tutanota</a>.
 
 * Tutanota Gift Card 12 EUR (all countries) 13,00 €
 * Tutanota Gift Card 24 EUR (all countries) 26,00 €
@@ -65,7 +65,7 @@ With built-in encryption and open source code, <a rel="noreferrer" target="_blan
 
 ### Network
 #### Mullvad VPN
-<a rel="noreferrer" target="_blank" href="https://mullvad.net/">Mullvad VPN</a> helps you keep your online activity, identity and location secret. Just install the <a rel="noreferrer" target="_blank" href="https://mullvad.net/en/download/">Mullvad app</a> or set up <a rel="noreferrer" target="_blank" href="https://mullvad.net/en/help/">WireGuard or OpenVPN</a>. We are an official <a rel="noreferrer" target="_blank" href="https://mullvad.net/en/help/partnerships-and-resellers/">reseller of Mullvad VPN</a>.
+<a rel="noreferrer" target="_blank" href="https://mullvad.net/">Mullvad VPN</a> helps you keep your online activity, identity and location secret. Just install the <a rel="noreferrer" target="_blank" href="https://mullvad.net/en/download/">Mullvad app</a> or set up <a rel="noreferrer" target="_blank" href="https://mullvad.net/en/help/">WireGuard or OpenVPN</a>. We are an <a rel="noreferrer" target="_blank" href="https://mullvad.net/en/help/partnerships-and-resellers/">official reseller of Mullvad VPN</a>.
 
 * Mullvad VPN voucher code: 1 month, 5 devices (10% discount) 4,50 €
 * Mullvad VPN voucher code: 3 months, 5 devices (10% discount) 13,50 €
