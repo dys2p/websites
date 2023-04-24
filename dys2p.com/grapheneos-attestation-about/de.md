@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/c4e6ea304a13be8cbc7d80af57612fce0a18f1b1/static/about.html">c4e6ea3</a> vom 2022-12-09. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/2482f029190640a3474ca7ee212fe1ac2bfa8d2d/static/about.html">2482f02</a> vom 2023-04-15. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -47,7 +47,7 @@ Die Sicherheitsverbesserungen, die künftige Hardware-Generationen und künftige
 
 <h2 id="device-support">Unterstützte Geräte</h2>
 
-Jedes Gerät mit Android 8.0 oder höher kann die Auditor-App ausführen und sie zur Überprüfung anderer Geräte verwenden. Allerdings haben nur Geräte, die mit Android 8.0 oder höher _auf den Markt gebracht_ wurden, die notwendige Hardware-Unterstützung, um verifiziert zu werden. Außerdem muss jedes Gerätemodell explizit in die App integriert werden. Die folgenden Geräte werden derzeit von der neuesten stabilen Version unterstützt:
+Jedes Gerät mit Android 10 oder höher kann die Auditor-App ausführen und sie zur Überprüfung anderer Geräte verwenden. Allerdings haben nur Geräte, die mit Android 8.0 oder höher _auf den Markt gebracht_ wurden, die notwendige Hardware-Unterstützung, um verifiziert zu werden. Außerdem muss jedes Gerätemodell explizit in die App integriert werden. Die folgenden Geräte werden derzeit von der neuesten stabilen Version unterstützt:
 
 * BlackBerry Key2 (BBF100-1 and BBF100-6 models)
 * BQ Aquaris X2 Pro
