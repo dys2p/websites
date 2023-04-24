@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/bcad62e7aa75e593e63e01348e40ed11d7930cb0/static/tutorial.html">bcad62e</a> vom 2021-11-27. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-tutorial/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/2482f029190640a3474ca7ee212fe1ac2bfa8d2d/static/tutorial.html">2482f02</a> vom 2023-04-15. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-tutorial/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -20,7 +20,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+all copies or substantial portions update to commit 2482f02 from 2023-04-15  of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -35,13 +35,15 @@ THE SOFTWARE.
 
 <h2 id="installation">Installation</h2>
 
-Auditor kann entweder über den [Google Play Store](https://play.google.com/store/apps/details?id=app.attestation.auditor) oder über die [Releases auf GitHub](https://github.com/GrapheneOS/Auditor/releases) installiert werden. Die Versionen aus beiden Quellen sind identisch und verwenden denselben Signierschlüssel, sodass Sie Updates aus beiden Quellen beziehen können, unabhängig davon, wie Sie die App installiert haben.
+Diese App ist [über den Play Store mit der App-ID `app.attestation.auditor.play` erhältlich](https://play.google.com/store/apps/details?id=app.attestation.auditor.play). Veröffentlichungen im Play Store durchlaufen einer Überprüfung und es dauert in der Regel 1 bis 3 Tage, bis der Play Store das Update an die Nutzer herausgibt. Die Veröffentlichungen im Play Store verwenden Play Signing, wir verwenden daher eine eigene App-ID für die Veröffentlichungen, die wir selbst herausgeben, um Konflikte zu vermeiden und die beiden zu unterscheiden.
 
-[GrapheneOS](https://grapheneos.org/) hat Auditor bereits vorinstalliert.
+Von GrapheneOS signierte Versionen der App mit der App-ID `app.attestation.auditor` werden im GrapheneOS app repository und auf GitHub veröffentlicht. Diese Versionen werden auch als Teil von GrapheneOS gebündelt. Sie können den [GrapheneOS app repository](https://github.com/GrapheneOS/Apps/releases) Client auf Android 12 oder höher für automatische Updates verwenden.
+
+Veröffentlichungen werden zunächst über den Alpha-Kanal für den Play Store und unser app repository veröffentlicht, dann in den Beta-Kanal und schließlich in den Stable-Kanal verschoben.
 
 <h2 id="local-verification">Lokale Überprüfung</h2>
 
-Das zu überprüfende Gerät (Auditee) muss eines der unterstützten Geräte sein. Android Developer Previews werden nicht unterstützt, da die verifizierte Hardwareversion bei ihnen auf einen Platzhalterwert gesetzt ist. Das Gerät, das die Überprüfung durchführt (Auditor), muss ein beliebiges Android 8.0+-kompatibles Gerät mit einer Kamera sein.
+Das zu überprüfende Gerät (Auditee) muss eines der unterstützten Geräte sein. Android Developer Previews werden nicht unterstützt, da die verifizierte Hardwareversion bei ihnen auf einen Platzhalterwert gesetzt ist. Bei dem Gerät, das die Überprüfung durchführt (Auditor), muss es sich lediglich um ein beliebiges Gerät mit Android 10 oder höher handeln, das über eine Kamera verfügt.
 
 1. Drücken Sie "Auditor" auf dem Gerät, das die Überprüfung des Auditee durchführen soll.
 2. Drücken Sie "Auditee" auf dem Gerät, das überprüft werden soll.
