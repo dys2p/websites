@@ -20,7 +20,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in
-all copies or substantial portions update to commit 2482f02 from 2023-04-15  of the Software.
+all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -35,9 +35,9 @@ THE SOFTWARE.
 
 <h2 id="installation">Installation</h2>
 
-Diese App ist [über den Play Store mit der App-ID `app.attestation.auditor.play` erhältlich](https://play.google.com/store/apps/details?id=app.attestation.auditor.play). Veröffentlichungen im Play Store durchlaufen einer Überprüfung und es dauert in der Regel 1 bis 3 Tage, bis der Play Store das Update an die Nutzer herausgibt. Die Veröffentlichungen im Play Store verwenden Play Signing, wir verwenden daher eine eigene App-ID für die Veröffentlichungen, die wir selbst herausgeben, um Konflikte zu vermeiden und die beiden zu unterscheiden.
+Diese App ist [über den Play Store mit der App-ID `app.attestation.auditor.play` erhältlich](https://play.google.com/store/apps/details?id=app.attestation.auditor.play). Veröffentlichungen im Play Store durchlaufen eine Überprüfung und es dauert in der Regel 1 bis 3 Tage, bis der Play Store das Update an die Nutzer herausgibt. Die Veröffentlichungen im Play Store verwenden Play Signing, wir verwenden daher eine eigene App-ID für die Veröffentlichungen, die wir selbst herausgeben, um Konflikte zu vermeiden und die beiden zu unterscheiden.
 
-Von GrapheneOS signierte Versionen der App mit der App-ID `app.attestation.auditor` werden im GrapheneOS app repository und auf GitHub veröffentlicht. Diese Versionen werden auch als Teil von GrapheneOS gebündelt. Sie können den [GrapheneOS app repository](https://github.com/GrapheneOS/Apps/releases) Client auf Android 12 oder höher für automatische Updates verwenden.
+Von GrapheneOS signierte Versionen der App mit der App-ID `app.attestation.auditor` werden im GrapheneOS app repository und auf GitHub veröffentlicht. Diese Versionen liegen GrapheneOS bei. Sie können den [GrapheneOS app repository](https://github.com/GrapheneOS/Apps/releases) Client auf Android 12 oder höher für automatische Updates verwenden.
 
 Veröffentlichungen werden zunächst über den Alpha-Kanal für den Play Store und unser app repository veröffentlicht, dann in den Beta-Kanal und schließlich in den Stable-Kanal verschoben.
 
