@@ -5,6 +5,7 @@
 
 * {
 	hyphens: auto;
+	word-break: break-all;
 }
 
 @media (min-width: 1200px) {
