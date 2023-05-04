@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Januar bis Juni 2023
+  * Spendensumme April 2023: 13,55 € (+ 1,00 € an das Internet Archive)
   * Spendensumme März 2023: 6,02 € + 3,50 €
   * Spendensumme Februar 2023: 2,50 €
   * Spendensumme Januar 2023: 3,24 €
