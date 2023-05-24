@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/a8f2424a5c1b9a7a589b9c231e9b6cfa15e20811/static/install/cli.html">a8f2424</a> vom 2023-03-11. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/71c5907a1470d9b701c33458c0af3bbd84e44111/static/install/cli.html">71c5907</a> vom 2023-05-16. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -182,8 +182,6 @@ Unter Arch Linux installieren Sie `android-tools` und überspringen Sie den folg
 
     sudo pacman -S android-tools
 
-Das Arch-Linux-Paket muss Version `33.0.3-3` oder neuer sein, da frühere Versionen teilweise veralteten Code enthielten und daher nicht mit dem Pixel 7 und Pixel 7 Pro funktionierten.
-
 Debian und Ubuntu haben kein brauchbares Paket für fastboot. Ihre Pakete für diese Werkzeuge sind sowohl kaputt als auch viele Jahre veraltet. Folgen Sie den nachfolgenden Anweisungen für Plattformen ohne ein geeignetes Paket.
 
 <h3 id="standalone-platform-tools">Standalone Platform Tools</h3>
@@ -192,23 +190,23 @@ Wenn Ihr Betriebssystem keine brauchbare Version von fastboot enthält, können 
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Debian und Ubuntu:
 
-    sudo apt install libarchive-tools
-    curl -O https://dl.google.com/android/repository/platform-tools_r34.0.1-linux.zip
-    echo '09aa9346b7c61adbf79f15378cbd61666899a20678b8cb9872f078c38fe3833f  platform-tools_r34.0.1-linux.zip' | sha256sum -c
-    bsdtar xvf platform-tools_r34.0.1-linux.zip
+	sudo apt install libarchive-tools
+	curl -O https://dl.google.com/android/repository/platform-tools_r33.0.3-linux.zip
+	echo 'ab885c20f1a9cb528eb145b9208f53540efa3d26258ac3ce4363570a0846f8f7  platform-tools_r33.0.3-linux.zip' | sha256sum -c
+	bsdtar xvf platform-tools_r33.0.3-linux.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter macOS:
 
-    curl -O https://dl.google.com/android/repository/platform-tools_r34.0.1-darwin.zip
-    echo 'SHA256 (platform-tools_r34.0.1-darwin.zip) = ef3dd374ebd2dddf5d8ab6179feb8016462ad25473ccc44555a98fb37adc9d63' | shasum -c
-    tar xvf platform-tools_r34.0.1-darwin.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r33.0.3-darwin.zip
+	echo 'SHA256 (platform-tools_r33.0.3-darwin.zip) = 84acbbd2b2ccef159ae3e6f83137e44ad18388ff3cc66bb057c87d761744e595' | shasum -c
+	tar xvf platform-tools_r33.0.3-darwin.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Windows:
 
-    curl -O https://dl.google.com/android/repository/platform-tools_r34.0.1-windows.zip
-    (Get-FileHash platform-tools_r34.0.1-windows.zip).hash -eq "5dd9c2be744c224fa3a7cbe30ba02d2cb378c763bd0f797a7e47e9f3156a5daa"
-    tar xvf platform-tools_r34.0.1-windows.zip
-
+	curl -O https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip
+	(Get-FileHash platform-tools_r33.0.3-windows.zip).hash -eq "1e59afd40a74c5c0eab0a9fad3f0faf8a674267106e0b19921be9f67081808c2"
+	tar xvf platform-tools_r33.0.3-windows.zip
+	
 Als Nächstes fügen Sie die Tools zu Ihrem `PATH` in der aktuellen Shell hinzu, sodass sie ohne Angabe des Dateipfads verwendet werden können, was die Verwendung durch das Flash-Skript ermöglicht.
 
 Unter Debian, Ubuntu und macOS:
@@ -227,7 +225,7 @@ Dies ändert nur den `PATH` für die aktuelle Shell und muss erneut durchgeführ
 
 Beispiel für die Ausgabe nach dem Ausführen der obigen Anweisungen für die Standalone platform-tools:
 
-    fastboot version 34.0.1-9680074
+    fastboot version 33.0.3-8952118
     Installed as /home/username/platform-tools/fastboot
 
 <h2 id="flashing-as-non-root">Flash als Nicht-Root-Benutzer</h2>
@@ -391,6 +389,7 @@ Die letzte Bootphase der Firmware vor dem Betriebssystem ist für die Verifizier
 
 Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Pixels der 6. und 7. Generation zeigen den vollständigen Hashwert, den Sie mit den offiziellen Verified-Boot-Hashwerten von GrapheneOS vergleichen können:
 
+* Pixel 7a: `508d75dea10c5cbc3e7632260fc0b59f6055a8a49dd84e693b6d8899edbb01e4`
 * Pixel 7 Pro: `bc1c0dd95664604382bb888412026422742eb333071ea0b2d19036217d49182f`
 * Pixel 7: `3efe5392be3ac38afb894d13de639e521675e62571a8a9b3ef9fc8c44fd17fa1`
 * Pixel 6a: `08c860350a9600692d10c8512f7b8e80707757468e8fbfeea2a870c0a83d6031`
