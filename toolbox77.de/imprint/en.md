@@ -1,8 +1,8 @@
 # Imprint
 
-<span class="ritole">RbG gnisnaW &amp; nnamretI</span><br />
-Bernhard-Göring-Straße 162<br />
-04277 Leipzig<br />
+<span class="ritole">RbG gnisnaW &amp; nnamretI</span><br>
+Bernhard-Göring-Straße 162<br>
+04277 Leipzig<br>
 Germany
 
 E-Mail: info <span class="ritole">ta</span> toolbox77.de
