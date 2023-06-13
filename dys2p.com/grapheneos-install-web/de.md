@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/7c23e60d0f67ba2e599e57bd09e55fae478baf46/static/install/web.html">7c23e60</a> vom 2023-05-13. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-web/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/b0ea3af8d8a4c69852857050451392628e699775/static/install/cli.html">b0ea3af</a> vom 2023-06-10. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -118,9 +118,11 @@ Offiziell unterstützte Betriebssysteme für die Web-Installationsmethode:
 * Arch Linux
 * Debian 10 (buster)
 * Debian 11 (bullseye)
+* Debian 12 (bookworm)
 * Ubuntu 20.04 LTS
 * Ubuntu 22.04 LTS
 * Ubuntu 22.10
+* Ubuntu 23.04
 * ChromeOS
 * GrapheneOS
 * Google Android (das Stock-Betriebssystem der Pixel-Smartphones) and other certified Android variants
