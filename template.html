@@ -108,6 +108,9 @@
 							<li><a href="/{{.Locale}}/privacy.html">{{.Map "de" "Datenschutz" "en" "Privacy policy"}}</a></li>
 							<li><a href="/{{.Locale}}/imprint.html">{{.Map "de" "Impressum" "en" "Imprint"}}</a></li>
 							<li><a href="/{{.Locale}}/cancellation-policy.html">{{.Map "de" "Widerrufs&shy;belehrung" "en" "Cancellation Policy"}}</a></li>
+							{{if or (eq .Website "order.proxysto.re") (eq .Website "shop.proxysto.re")}}
+								<li><a href="/{{.Locale}}/battery-disposal.html">{{.Map "de" "Hinweise zur Batterieentsorgung" "en" "Battery Disposal"}}</a></li>
+							{{end}}
 						</ul>
 					</div>
 					<div class="col-md-2">
