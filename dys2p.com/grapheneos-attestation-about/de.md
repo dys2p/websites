@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/7d9489ad3fde5ad6f80d0451bddd4c4114877fc5/static/about.html">7d9489a</a> vom 2023-05-12. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/a63c93075f0baf5cc7063abd495f1a940c017cca/static/about.html">74e54eb</a> vom 2023-06-128. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -69,6 +69,8 @@ Jedes Gerät mit Android 10 oder höher kann die Auditor-App ausführen und sie 
 * Google Pixel 7
 * Google Pixel 7 Pro
 * Google Pixel 7a
+* Google Pixel Tablet
+* Google Pixel Fold
 * Huawei Honor 7A Pro (AUM-L29 model)
 * Honor 9 Lite (LLD-L31 model)
 * Huawei Honor 10 (COL-L29 model)
@@ -143,6 +145,9 @@ Die folgenden Geräte bieten ein HSM mit StrongBox-Unterstützung, das von Audit
 * Google Pixel 6a
 * Google Pixel 7
 * Google Pixel 7 Pro
+* Google Pixel 7a
+* Google Pixel Tablet
+* Google Pixel Fold
 * Samsung Galaxy Note 10 (SM-N970U model)
 * Samsung Galaxy Note 10+ (SM-N975U model)
 
@@ -154,6 +159,8 @@ Die folgenden Geräte unterstützen die Attest-Key-Funktion zur Erzeugung eines 
 * Google Pixel 7
 * Google Pixel 7 Pro
 * Google Pixel 7a
+* Google Pixel Tablet
+* Google Pixel Fold
 
 Die Auditor-App unterstützt auch die Überprüfung von alternativen Betriebssystemen auf unterstützten Geräten. Sie kann [GrapheneOS](https://grapheneos.org/) auf den folgenden Geräten überprüfen:
 
@@ -175,6 +182,8 @@ Die Auditor-App unterstützt auch die Überprüfung von alternativen Betriebssys
 * Google Pixel 7
 * Google Pixel 7 Pro
 * Google Pixel 7a
+* Google Pixel Tablet
+* Google Pixel Fold
 
 Bei alternativen Betriebssystemen muss der Verified-Boot-Schlüssel in der Auditor-App bzw. dem Attestierungs-Server enthalten sein. Die App und der Dienst zeigen den Namen des Betriebssystems an, das auf dem Gerät verifiziert wird. Leider bieten die meisten alternativen Betriebssysteme keine Unterstützung für vollständig verifiziertes Booten und die meisten Geräte unterstützen die Verwendung von verifiziertem Booten mit einem benutzerdefinierten Schlüssel nicht. Die App ist außerdem davon abhängig, dass das Betriebssystem das grundlegende Sicherheitsmodell für Erweiterungen über die grundlegende hardwarebasierte Attestierungsunterstützung hinaus beibehält.
 
