@@ -10,6 +10,7 @@ Seit Anfang April 2023 ist es möglich, neben Euro auch mit Bargeld in den nachf
 * CZK (Tschechische Kronen)
 * DKK (Dänische Kronen)
 * GBP (Britische Pfund)
+* ILS (Israelischer Schekel)
 * ISK (Isländische Kronen)
 * JPY (Japanische Yen)
 * NOK (Norwegische Kronen)

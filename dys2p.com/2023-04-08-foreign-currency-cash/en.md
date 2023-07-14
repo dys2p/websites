@@ -1,6 +1,6 @@
 # Cash payments in foreign currencies
 
-Since the beginning of April 2023 it is possible to pay with cash in these foreign currencies (besides Euro) at [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) and [shop.proxysto.re](https://shop.proxysto.re):
+Since the beginning of April 2023 it is possible to pay with cash in these foreign currencies (in addition to Euro) at [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) and [shop.proxysto.re](https://shop.proxysto.re):
 
 * AUD (Australian dollars)
 * BGN (Bulgarian lev)
@@ -10,6 +10,7 @@ Since the beginning of April 2023 it is possible to pay with cash in these forei
 * CZK (Czech koruna)
 * DKK (Danish krone)
 * GBP (Pound sterling)
+* ILS (New Israeli shekel, NIS)
 * ISK (Icelandic króna)
 * JPY (Japanese yen)
 * NOK (Norwegian krone)
