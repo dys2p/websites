@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/959ea0412e0e7afacfabf753e80c66394d1e2727/static/install/cli.html">959ea04</a> vom 2023-06-28. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/ca66d0a3c42b0d7894ac73de79f36e6c50044e64/static/install/cli.html">ca66d0a</a> vom 2023-07-15. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -178,7 +178,7 @@ Führen Sie unter Windows den folgenden Befehl aus, um das veraltete curl-Alias 
 
 <h2 id="obtaining-fastboot">fastboot beschaffen</h2>
 
-Sie benötigen eine aktuelle Kopie des `fastboot`-Tools und das Verzeichnis, das es enthält, muss in die Umgebungsvariable `PATH` aufgenommen werden. Mit `fastboot --version` können Sie die aktuell installierte Version ermitteln. Sie muss mindestens `33.0.3` sein. Sie können dafür die Paketverwaltung Ihrer genutzten Distribution verwenden, aber die meisten Distributionen paketieren fälschlicherweise Entwicklungs-Snapshots von fastboot, verstecken das Standard-Versionsschema der Platform Tools (adb, fastboot, etc.) hinter ihrem eigenen Schema und halten es nicht auf dem neuesten Stand, obwohl das entscheidend ist.
+Sie benötigen eine aktuelle Kopie des `fastboot`-Tools und das Verzeichnis, das es enthält, muss in die Umgebungsvariable `PATH` aufgenommen werden. Mit `fastboot --version` können Sie die aktuell installierte Version ermitteln. Sie muss mindestens `34.0.4` sein. Sie können dafür die Paketverwaltung Ihrer genutzten Distribution verwenden, aber die meisten Distributionen paketieren fälschlicherweise Entwicklungs-Snapshots von fastboot, verstecken das Standard-Versionsschema der Platform Tools (adb, fastboot, etc.) hinter ihrem eigenen Schema und halten es nicht auf dem neuesten Stand, obwohl das entscheidend ist.
 
 Unter Arch Linux installieren Sie `android-tools` und überspringen Sie den folgenden Abschnitt über das Verwenden der eigenständigen Versionen der Android Platform Tools:
 
@@ -193,21 +193,21 @@ Wenn Ihr Betriebssystem keine brauchbare Version von fastboot enthält, können 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Debian und Ubuntu:
 
 	sudo apt install libarchive-tools
-	curl -O https://dl.google.com/android/repository/platform-tools_r33.0.3-linux.zip
-	echo 'ab885c20f1a9cb528eb145b9208f53540efa3d26258ac3ce4363570a0846f8f7  platform-tools_r33.0.3-linux.zip' | sha256sum -c
-	bsdtar xvf platform-tools_r33.0.3-linux.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-linux.zip
+	echo 'f2eee6e8220f3dfde6e1acc93c5b25d3d8bd215c0b03585b21665f1ea30d66ba  platform-tools_r34.0.4-linux.zip' | sha256sum -c
+	bsdtar xvf platform-tools_r34.0.4-linux.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter macOS:
 
-	curl -O https://dl.google.com/android/repository/platform-tools_r33.0.3-darwin.zip
-	echo 'SHA256 (platform-tools_r33.0.3-darwin.zip) = 84acbbd2b2ccef159ae3e6f83137e44ad18388ff3cc66bb057c87d761744e595' | shasum -c
-	tar xvf platform-tools_r33.0.3-darwin.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-darwin.zip
+	echo 'SHA256 (platform-tools_r34.0.4-darwin.zip) = bd09b834c150181a383deba63e157e9a53a6eb5a9cf4849b2b79dd89d0a2ddf1' | shasum -c
+	tar xvf platform-tools_r34.0.4-darwin.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Windows:
 
-	curl -O https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip
-	(Get-FileHash platform-tools_r33.0.3-windows.zip).hash -eq "1e59afd40a74c5c0eab0a9fad3f0faf8a674267106e0b19921be9f67081808c2"
-	tar xvf platform-tools_r33.0.3-windows.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-windows.zip
+	(Get-FileHash platform-tools_r34.0.4-windows.zip).hash -eq "0938352ecc4952222c1fefe3845c4574fdeaa6228bf9dbe17716090f02cc3893"
+	tar xvf platform-tools_r34.0.4-windows.zip
 	
 Als Nächstes fügen Sie die Tools zu Ihrem `PATH` in der aktuellen Shell hinzu, sodass sie ohne Angabe des Dateipfads verwendet werden können, was die Verwendung durch das Flash-Skript ermöglicht.
 
@@ -227,7 +227,7 @@ Dies ändert nur den `PATH` für die aktuelle Shell und muss erneut durchgeführ
 
 Beispiel für die Ausgabe nach dem Ausführen der obigen Anweisungen für die Standalone platform-tools:
 
-    fastboot version 33.0.3-8952118
+    fastboot version 34.0.4-10411341
     Installed as /home/username/platform-tools/fastboot
 
 <h2 id="flashing-as-non-root">Flash als Nicht-Root-Benutzer</h2>
