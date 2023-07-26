@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/ca66d0a3c42b0d7894ac73de79f36e6c50044e64/static/install/cli.html">ca66d0a</a> vom 2023-07-15. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/684029d074823e7f7dbe0554a793404b28485c7b/static/install/cli.html">684029d</a> vom 2023-07-23. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -200,13 +200,13 @@ Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unte
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter macOS:
 
 	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-darwin.zip
-	echo 'SHA256 (platform-tools_r34.0.4-darwin.zip) = bd09b834c150181a383deba63e157e9a53a6eb5a9cf4849b2b79dd89d0a2ddf1' | shasum -c
+	echo 'SHA256 (platform-tools_r34.0.4-darwin.zip) = c60d9ee0acade673b649543b2d53c632ba54f9ca083ed612176105117fa16102' | shasum -c
 	tar xvf platform-tools_r34.0.4-darwin.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Windows:
 
 	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-windows.zip
-	(Get-FileHash platform-tools_r34.0.4-windows.zip).hash -eq "0938352ecc4952222c1fefe3845c4574fdeaa6228bf9dbe17716090f02cc3893"
+	(Get-FileHash platform-tools_r34.0.4-windows.zip).hash -eq "520a453af1d0baf1939a80038a816cb8de40d000542b1a71bf60ba6fc80784d9"
 	tar xvf platform-tools_r34.0.4-windows.zip
 	
 Als Nächstes fügen Sie die Tools zu Ihrem `PATH` in der aktuellen Shell hinzu, sodass sie ohne Angabe des Dateipfads verwendet werden können, was die Verwendung durch das Flash-Skript ermöglicht.
