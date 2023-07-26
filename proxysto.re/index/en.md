@@ -35,7 +35,7 @@ You can use these devices free of charge or for a small fee during our opening h
 			<img src="../assets/images/shredder.jpg" class="card-img-top" alt="Shredder">
 			<div class="card-body">
 				<h3 class="card-title">Shredder</h3>
-				<p class="card-text">The Dahle 706air with security levels P-7/F-3/T-6 shreds paper and plastic cards cards into millimeter-small shreds. If that is not enough for you, you can bring a bag and take the scraps with you.</p>
+				<p class="card-text">The Dahle 706air with security levels P-7/F-3/T-6 shreds paper and plastic cards into millimeter-small shreds. If that is not enough for you, you can bring a bag and take the scraps with you.</p>
 			</div>
 		</div>
 	</div>
