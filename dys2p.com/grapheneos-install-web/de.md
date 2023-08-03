@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/959ea0412e0e7afacfabf753e80c66394d1e2727/static/install/cli.html">959ea04</a> vom 2023-06-28. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/7989b02e85126e5ba0b780de64ec459211e43960/static/install/cli.html">719a823</a> vom 2023-07-30. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -55,7 +55,7 @@ Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen
       <a href="#booting-into-the-bootloader-interface">Booten in den Bootloader-Modus</a>
     </li>
     <li>
-      <a href="#connecting-phone">Das Telefon verbinden</a>
+      <a href="#connecting-phone">Das Gerät verbinden</a>
     </li>
     <li>
       <a href="#unlocking-the-bootloader">Den Bootloader entsperren</a>
@@ -145,13 +145,13 @@ Verwenden Sie keinen Inkognito-Modus oder andere private Browsing-Modi. Diese Mo
 
 Sie benötigen eines der offiziell unterstützten Geräte. Um sicherzustellen, dass das Gerät für die Installation von GrapheneOS freigeschaltet werden kann, sollten Sie netzbetreiber-spezifische Geräte vermeiden. Netzbetreiber-spezifische Varianten der Pixel-Smartphones verwenden dasselbe Stock-Betriebssystem und dieselbe Firmware, aber mit einer Carrier-ID ungleich Null, die bei der Herstellung auf die persistente Partition geflasht wurde. Die Carrier-ID aktiviert eine netzbetreiber-spezifische Konfiguration im Stock-Betriebssystem, einschließlich einer Deaktivierung der Netzbetreiber- und Bootloader-Entsperrung. Der Netzbetreiber kann dies möglicherweise aus der Ferne deaktivieren, aber seine Support-Mitarbeiter wissen das möglicherweise nicht und werden es wahrscheinlich auch nicht tun. Holen Sie sich ein netzbetreiberunabhängiges Gerät, um das Risiko und möglichen Ärger zu vermeiden. Wenn Sie einen Weg finden _können_, ein netzbetreiber-spezifisches Gerät zu entsperren, ist das kein Problem, da GrapheneOS die Carrier-ID einfach ignorieren kann und die Hardware die gleiche ist.
 
-Es hat sich bewährt, das Gerät vor der Installation von GrapheneOS zu aktualisieren, um beim Anschluss des Telefons an den Computer und in der frühen Phase des Installationsprozesses die neueste Firmware zu haben. So oder so, GrapheneOS flasht die neueste Firmware zu Beginn des Installationsprozesses.
+Es hat sich bewährt, das Gerät vor der Installation von GrapheneOS zu aktualisieren, um beim Anschluss des Gerätes an den Computer und in der frühen Phase des Installationsprozesses die neueste Firmware zu haben. So oder so, GrapheneOS flasht die neueste Firmware zu Beginn des Installationsprozesses.
 
 <h2 id="enabling-oem-unlocking">OEM-Entsperrung aktivieren</h2>
 
 Die OEM-Entsperrung muss innerhalb des Betriebssystems aktiviert werden.
 
-Aktivieren Sie das Menü "Entwickleroptionen", indem Sie zu Einstellungen ➔ Über das Telefon gehen und wiederholt auf den Menüeintrag "Build-Nummer" drücken, bis die Entwickleroptionen aktiviert sind.
+Aktivieren Sie das Menü "Entwickleroptionen", indem Sie zu Einstellungen ➔ Über das Telefon/Tablet gehen und wiederholt auf den Menüeintrag "Build-Nummer" drücken, bis die Entwickleroptionen aktiviert sind.
 
 Gehen Sie dann zu Einstellungen ➔ System ➔ Entwickleroptionen und aktivieren Sie die Einstellung "OEM-Entsperrung". Bei Gerätevarianten (SKUs), die von Netzbetreibern als gesperrte Geräte verkauft werden können, erfordert die Aktivierung der "OEM-Entsperrung" einen Internetzugang, damit das Stock-Betriebssystem prüfen kann, ob das Gerät von einem Netzbetreiber als gesperrt verkauft wurde.
 
@@ -165,17 +165,17 @@ Unter Arch Linux installieren Sie das Paket `android-udev`. Unter Debian und Ubu
 
 <h2 id="booting-into-the-bootloader-interface">Booten in den Bootloader-Modus</h2>
 
-Sie müssen Ihr Telefon in den Bootloader-Modus booten. Um das zu tun, müssen Sie die Leiser-Taste gedrückt lassen, während das Telefon bootet.
+Sie müssen Ihr Gerät in den Bootloader-Modus booten. Um das zu tun, müssen Sie die Leiser-Taste gedrückt lassen, während das Gerät bootet.
 
-Am einfachsten ist es, das Telefon neu zu starten und die Leiser-Taste gedrückt zu halten, bis es im Bootloader-Modus startet.
+Am einfachsten ist es, das Gerät neu zu starten und die Leiser-Taste gedrückt zu halten, bis es im Bootloader-Modus startet.
 
-Alternativ schalten Sie das Telefon aus und starten Sie es dann, wobei Sie die Leiser-Taste während des Bootvorgangs gedrückt halten. Sie können es entweder mit der Einschalttaste oder durch das Anschließen des Kabels starten, was im nächsten Abschnitt ohnehin nötig ist.
+Alternativ schalten Sie das Gerät aus und starten Sie es dann, wobei Sie die Leiser-Taste während des Bootvorgangs gedrückt halten. Sie können es entweder mit der Einschalttaste oder durch das Anschließen des Kabels starten, was im nächsten Abschnitt ohnehin nötig ist.
 
-<h2 id="connecting-phone">Das Telefon verbinden</h2>
+<h2 id="connecting-phone">Das Gerät verbinden</h2>
 
-Verbinden Sie das Telefon mit dem Computer. Unter Linux müssen Sie das erneut tun, falls Sie die udev-Regeln beim Anschließen des Telefons noch nicht eingerichtet hatten.
+Verbinden Sie das Gerät mit dem Computer. Unter Linux müssen Sie das erneut tun, falls Sie die udev-Regeln beim Anschließen des Gerätes noch nicht eingerichtet hatten.
 
-Unter Linux hat GNOME einen Fehler, der Kompatibilitätsprobleme mit dem Installationsprozess verursacht. Es erkennt das Telefon im Fastboot- oder Fastbootd-Modus fälschlicherweise als MTP-Gerät und beansprucht die alleinige Kontrolle über das Gerät. Das führt dazu, dass der Installationsprozess nicht fortgesetzt werden kann. Sie können den folgenden Befehl ausführen, um dieses Problem zu umgehen:
+Unter Linux hat GNOME einen Fehler, der Kompatibilitätsprobleme mit dem Installationsprozess verursacht. Es erkennt das Gerät im Fastboot- oder Fastbootd-Modus fälschlicherweise als MTP-Gerät und beansprucht die alleinige Kontrolle über das Gerät. Das führt dazu, dass der Installationsprozess nicht fortgesetzt werden kann. Sie können den folgenden Befehl ausführen, um dieses Problem zu umgehen:
 
     echo 0 | sudo tee /sys/bus/usb/drivers_autoprobe
 
@@ -213,7 +213,7 @@ Warten Sie, bis der Flashvorgang abgeschlossen ist. Die Firmware wird automatisc
 
 Das Sperren des Bootloaders ist wichtig, da es einen vollständig verifizierten Bootvorgang ermöglicht. Es verhindert auch die Verwendung von fastboot zum Flashen, Formatieren oder Löschen von Partitionen. Ein verifizierter Bootvorgang erkennt Änderungen an den Betriebssystempartitionen und verhindert das Lesen von veränderten oder beschädigten Daten. Wenn Änderungen erkannt werden, wird mit Hilfe von Fehlerkorrekturdaten versucht, die ursprünglichen Daten zu erhalten, die dann erneut verifiziert werden, was das verifizierte Booten gegen nicht-bösartige Datenveränderungen abhärtet.
 
-Während sich das Handy im Bootloader-Modus befindet, setzen Sie es auf "locked":
+Während sich das Gerät im Bootloader-Modus befindet, setzen Sie es auf "locked":
 
 Drücken Sie im Web-Installer unter [Locking the bootloader](https://grapheneos.org/install/web#locking-the-bootloader) die Schaltfläche <kbd>Lock bootloader</kbd>.
 
