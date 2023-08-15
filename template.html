@@ -76,11 +76,11 @@
 		<footer class="footer">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-2">
+					<div class="col-md">
 						<h4><a href="/{{.Locale}}/payment.html">{{.Map "de" "Bezahlung" "en" "Payment"}}</a></h4>
 						<ul>
 							<li>{{.Map "de" "Barzahlung im Ladengeschäft" "en" "Cash payment"}}</li>
-							<li>{{.Map "de" "Bargeld per Post" "en" "Cash letter"}}</li>
+							<li>{{.Map "de" "Bargeld per Post in 20 Währungen" "en" "Cash by mail in 20 currencies"}}</li>
 							<li>{{.Map "de" "Monero und Bitcoin" "en" "Monero and Bitcoin"}}</li>
 							<li>{{.Map "de" "SEPA-Überweisung" "en" "SEPA bank transfer"}}</li>
 							{{if and (ne .Website "digitalgoods.proxysto.re") (ne .Website "order.proxysto.re")}}
@@ -88,7 +88,7 @@
 							{{end}}
 						</ul>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md">
 						{{if ne .Website "digitalgoods.proxysto.re"}}
 							<h4><a href="/{{.Locale}}/delivery.html">{{.Map "de" "Versand" "en" "Delivery"}}</a></h4>
 							<ul>
