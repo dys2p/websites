@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Januar bis Juni 2023
+  * Nachweise: [Internet Archive](../assets/images/donations/2023-07/internet-archive.png), [Qubes OS](../assets/images/donations/2023-07/qubes-os.png), [Sci-Hub](../assets/images/donations/2023-07/sci-hub.png), [Tails](../assets/images/donations/2023-07/tails.png), [Whonix](../assets/images/donations/2023-07/whonix.png)
   * Spendensumme Juni 2023: 6,77 €
   * Spendensumme Mai 2023: 10,84 €
   * Spendensumme April 2023: 13,55 € (+ 1,00 € an das Internet Archive)
