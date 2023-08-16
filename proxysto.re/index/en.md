@@ -10,7 +10,7 @@ Our range of [digital goods](https://digitalgoods.proxysto.re) and products from
 
 ## Books and brochures
 
-In addition to some brochures on data security and digital self-defense, we also have [a small range of books in stock](https://shop.proxysto.re/category/7). For every book you buy directly from us, we donate five percent of the book price to a total of five selected projects. The projects will be selected for a minimum of three months. The donations (one percent for each project) will be transferred every three months and published here. The current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.boum.org/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
+In addition to some brochures on data security and digital self-defense, we also have [a small range of books in stock](https://shop.proxysto.re/category/7). For every book you buy directly from us, we donate five percent of the book price to a total of five selected projects. The projects will be selected for a minimum of three months. The donations (one percent for each project) will be transferred every three months and published here. The current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
 
 ## CryptoParty
 
@@ -26,7 +26,7 @@ You can use these devices free of charge or for a small fee during our opening h
 			<img src="../assets/images/tails.jpg" class="card-img-top" alt="Computer with Tails">
 			<div class="card-body">
 				<h3 class="card-title">Tails Computer</h3>
-				<p class="card-text">This Computer has no hard drive. It's booting the <a href="https://tails.boum.org/">Tails</a> operating system from a DVD, allowing you to move anonymously on the Internet. A cabin protects you from prying eyes.</p>
+				<p class="card-text">This Computer has no hard drive. It's booting the <a href="https://tails.net/">Tails</a> operating system from a DVD, allowing you to move anonymously on the Internet. A cabin protects you from prying eyes.</p>
 			</div>
 		</div>
 	</div>

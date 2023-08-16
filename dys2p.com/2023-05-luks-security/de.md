@@ -145,8 +145,8 @@ mjg59 schreibt (übersetzt):
 >
 > und folgen Sie den Aufforderungen. Wenn Ihr Laufwerk mit mehreren Passwörtern verknüpft ist, haben Sie mehrere Keyslots, und Sie müssen diesen Vorgang für jedes Passwort wiederholen.
 
-Das Upgrade des [Persistent Storage in Tails](https://tails.boum.org/doc/persistent_storage/) erfordert Administratorrechte, die du erhälst, indem du beim
-Anmeldebildschirm ein [Administrationspasswort](https://tails.boum.org/doc/first_steps/welcome_screen/administration_password/index.de.html) vergibst. Außerdem darf beim Upgrade von LUKS1 auf LUKS2 der persistente Speicher nicht eingebunden sein.
+Das Upgrade des [Persistent Storage in Tails](https://tails.net/doc/persistent_storage/) erfordert Administratorrechte, die du erhälst, indem du beim
+Anmeldebildschirm ein [Administrationspasswort](https://tails.net/doc/first_steps/welcome_screen/administration_password/index.de.html) vergibst. Außerdem darf beim Upgrade von LUKS1 auf LUKS2 der persistente Speicher nicht eingebunden sein.
 
 <h3 id="history">Schlüsselableitungsfunktionen von Linux-Distributionen</h3>
 

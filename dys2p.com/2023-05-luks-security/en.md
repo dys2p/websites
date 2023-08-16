@@ -144,7 +144,7 @@ mjg59 wrote:
 >
 > and follow the prompts. If you have multiple passwords associated with your drive you'll have multiple keyslots, and you'll need to repeat this for each password.
 
-Upgrading [persistent storage in Tails](https://tails.boum.org/doc/persistent_storage/) requires administrator privileges, which you obtain by assigning an [administration password](https://tails.boum.org/doc/first_steps/welcome_screen/administration_password/) at the login screen. Also, when upgrading from LUKS1 to LUKS2, persistent storage must not be mounted.
+Upgrading [persistent storage in Tails](https://tails.net/doc/persistent_storage/) requires administrator privileges, which you obtain by assigning an [administration password](https://tails.net/doc/first_steps/welcome_screen/administration_password/) at the login screen. Also, when upgrading from LUKS1 to LUKS2, persistent storage must not be mounted.
 
 <h3 id="history">Key derivation functions of Linux distributions</h3>
 

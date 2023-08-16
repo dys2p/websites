@@ -10,7 +10,7 @@ Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) und Produ
 
 ## Bücher und Broschüren
 
-Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein [kleines Büchersortiment vorrätig](https://shop.proxysto.re/category/7). Für jedes Buch, das ihr direkt bei uns kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und [hier veröffentlicht](spendenverlauf.html). Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.boum.org/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
+Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein [kleines Büchersortiment vorrätig](https://shop.proxysto.re/category/7). Für jedes Buch, das ihr direkt bei uns kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und [hier veröffentlicht](spendenverlauf.html). Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
 
 ## CryptoParty
 
@@ -26,7 +26,7 @@ Während unserer Öffnungszeiten könnt ihr kostenfrei oder gegen einen geringen
 			<img src="../assets/images/tails.jpg" class="card-img-top" alt="Computer mit Tails">
 			<div class="card-body">
 				<h3 class="card-title">Tails-Computer</h3>
-				<p class="card-text">Dieser Computer hat keine Festplatte. Auf ihm startet das Betriebssystem <a href="https://tails.boum.org/">Tails</a> von einer DVD. Damit kannst du dich anonym im Internet bewegen. Eine Kabine schützt dich dabei vor neugierigen Blicken.</p>
+				<p class="card-text">Dieser Computer hat keine Festplatte. Auf ihm startet das Betriebssystem <a href="https://tails.net/">Tails</a> von einer DVD. Damit kannst du dich anonym im Internet bewegen. Eine Kabine schützt dich dabei vor neugierigen Blicken.</p>
 			</div>
 		</div>
 	</div>
