@@ -25,13 +25,9 @@ Fingerprint des PGP public keys: `46C9 A8B2 8780 6904 3472 CFA0 76E2 D4C7 62CE 7
 
 `@proxystore:systemli.org`
 
-Mehr zum sicheren Umgang mit Matrix erfährst du im [Kuketz-Blog](https://www.kuketz-blog.de/element-messaging-ueber-die-matrix-messenger-teil7/) oder bei [systemli](https://www.systemli.org/service/matrix/).
-
 ## Session
 
 `056ab54005c858e3ffd2835d68621375006bbbe412b9824fd8cf669f459ea48328`
-
-[FAQ auf getsession.org](https://getsession.org/faq/)
 
 ## Signal
 
@@ -41,7 +37,7 @@ Bitte nur für Signal verwenden (keine SMS oder Anrufe). Wir benutzen unter dies
 
 Letzte Änderung der Sicherheitsnummer: 2023-06-22
 
-## XMPP mit OTR-Verschlüsselung (neuer Account)
+## XMPP mit OTR-Verschlüsselung
 
 <code>proxystore <span class="ritole">ta</span> jabber.dys2p.com</code>
 
@@ -49,15 +45,6 @@ OTR-Fingerprints:
 
 * `30D426F8 2B7ACD2C 475D20B3 D3785469 1B0EB5A9`
 * `6B9B5483 324F7F61 4F2051E9 6ABA2924 69D8FF47`
-
-## XMPP mit OTR-Verschlüsselung (alter Account, bis 2023-08-30)
-
-<code>proxystore <span class="ritole">ta</span> jabber.systemli.org</code>
-
-OTR-Fingerprints:
-
-* `D3C20EE9 530CD74B A1C1D2C3 A9D5E4CD 23629ECA`
-* `861E80B0 16C886D2 EF4DEB78 377D8131 F2C08E96`
 
 ## Tor Hidden Services
 

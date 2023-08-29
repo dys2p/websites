@@ -25,13 +25,9 @@ Fingerprint of this PGP public key: `7C57 30CB CDF7 D7E5 C5AD 211B 0B56 F1C6 583
 
 `@proxystore:systemli.org`
 
-Read how to use Matrix securely at [Kuketz-Blog (in German)](https://www.kuketz-blog.de/element-messaging-ueber-die-matrix-messenger-teil7/) oder [systemli (in German)](https://www.systemli.org/service/matrix/).
-
 ## Session
 
 `056ab54005c858e3ffd2835d68621375006bbbe412b9824fd8cf669f459ea48328`
-
-[FAQ at getsession.org](https://getsession.org/faq/)
 
 ## Signal
 
@@ -39,7 +35,7 @@ Please use this phone number for Signal only (no SMS or calls). We use no other 
 
 `+49 178 123 9200`
 
-## XMPP with OTR Encryption (new account)
+## XMPP with OTR Encryption
 
 <code>proxystore <span class="ritole">ta</span> jabber.dys2p.com</code>
 
@@ -47,12 +43,3 @@ OTR Fingerprints:
 
 * `30D426F8 2B7ACD2C 475D20B3 D3785469 1B0EB5A9`
 * `6B9B5483 324F7F61 4F2051E9 6ABA2924 69D8FF47`
-
-## XMPP with OTR Encryption (old account, until 2023-08-30)
-
-<code>proxystore <span class="ritole">ta</span> jabber.systemli.org</code>
-
-OTR Fingerprints:
-
-* `D3C20EE9 530CD74B A1C1D2C3 A9D5E4CD 23629ECA`
-* `861E80B0 16C886D2 EF4DEB78 377D8131 F2C08E96`
