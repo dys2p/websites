@@ -135,7 +135,7 @@ Offiziell unterstützte Browser für die Web-Installationsmethode:
 * Vanadium (GrapheneOS)
 * Google Chrome
 * Microsoft Edge
-* Brave ((mit deaktivierten Brave Shields, da es die Speichernutzung auf einen niedrigen Wert begrenzt, um ein Fingerprinting des verfügbaren Speichers zu vermeiden)
+* Brave (mit deaktivierten Brave Shields, da es die Speichernutzung auf einen niedrigen Wert begrenzt, um ein Fingerprinting des verfügbaren Speichers zu vermeiden)
 
 Sie sollten Flatpak- und Snap-Versionen von Browsern vermeiden, da diese dafür bekannt sind, während des Installationsvorgangs Probleme zu verursachen.
 
