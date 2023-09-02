@@ -125,7 +125,7 @@ Offiziell unterstützte Betriebssysteme für die Web-Installationsmethode:
 * Ubuntu 23.04
 * ChromeOS
 * GrapheneOS
-* Google Android (das Stock-Betriebssystem der Pixel-Smartphones) and other certified Android variants
+* Google Android (das Stock-Betriebssystem der Pixel-Smartphones) und andere zertifizierte Android-Varianten
 
 Stellen Sie sicher, dass Ihr Betriebssystem auf dem neuesten Stand ist, bevor Sie fortfahren.
 
