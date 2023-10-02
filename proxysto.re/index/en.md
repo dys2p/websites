@@ -10,7 +10,7 @@ Our range of [digital goods](https://digitalgoods.proxysto.re) and products from
 
 ## Books and brochures
 
-In addition to some brochures on data security and digital self-defense, we also have [a small range of books in stock](https://shop.proxysto.re/category/7). For every book you buy directly from us, we donate five percent of the book price to a total of five selected projects. The projects will be selected for a minimum of three months. The donations (one percent for each project) will be transferred every three months and published here. The current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
+In addition to some brochures on data security and digital self-defense, we also have [a small range of books in stock](https://shop.proxysto.re/category/7). For every book you buy directly from us, we donate five percent of the book price to a total of five selected projects. The projects will be selected for a minimum of three months. The donations (one percent for each project) will be transferred every three months and [published here](spendenverlauf.html). The current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
 
 ## CryptoParty
 
