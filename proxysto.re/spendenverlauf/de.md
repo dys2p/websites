@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Juli bis Dezember 2023
+  * September 2023: 12,94 €
   * Juli 2023: 5,50 €
 * Spenden im Zeitraum Januar bis Juni 2023
   * Nachweise: [Internet Archive](../assets/images/donations/2023-07/internet-archive.png), [Qubes OS](../assets/images/donations/2023-07/qubes-os.png), [Sci-Hub](../assets/images/donations/2023-07/sci-hub.png), [Tails](../assets/images/donations/2023-07/tails.png), [Whonix](../assets/images/donations/2023-07/whonix.png)
