@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/2482f029190640a3474ca7ee212fe1ac2bfa8d2d/static/tutorial.html">2482f02</a> vom 2023-04-15. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-tutorial/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/5142e62292f962cfae3204152bc81b4ca05b38d0/static/tutorial.html">5142e62</a> vom 2023-09-16. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-tutorial/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -70,5 +70,3 @@ So richten Sie eine regelmäßige Remote Verification über den Remote Attestati
 Die Unterstützung für die Verifizierung eines Gerätemodells muss der App auf Grundlage von mindestens einem gültigen Key Attestation Sample des Standardbetriebssystems mit gesperrtem Bootloader hinzugefügt werden. Die Auditor-App kann theoretisch die Verifizierung aller Android-Geräte unterstützen, die mit Android 8 oder höher auf den Markt gekommen sind. Ein Upgrade auf Android 8 ist nicht ausreichend, da die Hardwareunterstützung der Attestierung erforderlich, deren Mindestanforderungen erst mit Android 8 verbindlich wurden.
 
 Um ein Sample einzureichen, öffnen Sie das Menü in der Aktionsleiste und wählen Sie "Submit sample data". Dadurch werden eine Attestierungs-Stichprobe und Geräteinformationen übermittelt, was die Entwicklung der Unterstützung für das Gerätemodell ermöglicht. Es kann ein paar Wochen dauern, bis die Unterstützung in einer neuen Version der App bereitgestellt wird.
-
-Eine gültiges Key Attestation Sample für jedes Gerätemodell zusammen mit einer auf das Wesentliche reduzierten Teilmenge der Systemeigenschaften ist [auf GitHub](https://github.com/GrapheneOS/AttestationSamples) veröffentlicht, um anderen Projekten zu helfen, die an der Verwendung von schlüsselbasierter Attestierung interessiert sind.
