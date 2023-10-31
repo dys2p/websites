@@ -115,14 +115,15 @@ Offiziell unterstützte Betriebssysteme für die Web-Installationsmethode:
 * macOS Big Sur (11)
 * macOS Monterey (12)
 * macOS Ventura (13)
+* macOS Sonoma (14)
 * Arch Linux
 * Debian 10 (buster)
 * Debian 11 (bullseye)
 * Debian 12 (bookworm)
 * Ubuntu 20.04 LTS
 * Ubuntu 22.04 LTS
-* Ubuntu 22.10
 * Ubuntu 23.04
+* Ubuntu 23.10
 * ChromeOS
 * GrapheneOS
 * Google Android (das Stock-Betriebssystem der Pixel-Smartphones) und andere zertifizierte Android-Varianten
@@ -241,8 +242,10 @@ Die letzte Bootphase der Firmware vor dem Betriebssystem ist für die Verifizier
 
 <h4 id="verified-boot-key-hash">Hash des öffentlichen Verified-Boot-Schlüssels</h4>
 
-Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Pixels der 6. und 7. Generation zeigen den vollständigen Hashwert, den Sie mit den offiziellen Verified-Boot-Hashwerten von GrapheneOS vergleichen können:
+Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Ab Pixels der 6. Generation wird der vollständigen Hashwert angezeigt, den Sie mit den offiziellen Verified-Boot-Hashwerten von GrapheneOS vergleichen können:
 
+* Pixel 8 Pro: `896db2d09d84e1d6bb747002b8a114950b946e5825772a9d48ba7eb01d118c1c`
+* Pixel 8: `cd7479653aa88208f9f03034810ef9b7b0af8a9d41e2000e458ac403a2acb233`
 * Pixel Fold: `ee0c9dfef6f55a878538b0dbf7e78e3bc3f1a13c8c44839b095fe26dd5fe2842`
 * Pixel Tablet: `94df136e6c6aa08dc26580af46f36419b5f9baf46039db076f5295b91aaff230`
 * Pixel 7a: `508d75dea10c5cbc3e7632260fc0b59f6055a8a49dd84e693b6d8899edbb01e4`
