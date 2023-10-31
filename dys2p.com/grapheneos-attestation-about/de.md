@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/2e4c3de355905a6fa9b298c1cfd1581293c7ecee/static/about.html">2e4c3de</a> vom 2023-07-30. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/ead0c0368a907bda565d8a041bf7239822c07b50/static/about.html">ead0c03</a> vom 2023-10-26. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -33,9 +33,9 @@ THE SOFTWARE.
 
 <h1 id="about">Über die Auditor-App</h1>
 
-Die [Auditor-App](https://play.google.com/store/apps/details?id=app.attestation.auditor) verwendet hardwarebasierte Sicherheitsfunktionen, um die Identität eines Geräts sowie die Authentizität und Integrität des Betriebssystems zu überprüfen. Sie prüft, ob auf dem Gerät das Stock-Betriebssystem mit gesperrtem Bootloader läuft und dass das Betriebssystem nicht manipuliert wurde. Ein Downgrade auf eine frühere Version wird ebenfalls erkannt. Sie baut auf der hardwarebasierten Überprüfung des Betriebssystems auf, welche sie mit der App verknüpft, um softwarebasierte Plausibilitätsprüfungen durchzuführen und zusätzliche Informationen über den Gerätestatus und die Konfiguration zu sammeln, die über das hinausgehen, was die Hardware direkt attestieren kann.
+Die [Auditor-App](https://play.google.com/store/apps/details?id=app.attestation.auditor.play) verwendet hardwarebasierte Sicherheitsfunktionen, um die Identität eines Geräts sowie die Authentizität und Integrität des Betriebssystems zu überprüfen. Sie prüft, ob auf dem Gerät das Stock-Betriebssystem mit gesperrtem Bootloader läuft und dass das Betriebssystem nicht manipuliert wurde. Ein Downgrade auf eine frühere Version wird ebenfalls erkannt. Sie baut auf der hardwarebasierten Überprüfung des Betriebssystems auf, welche sie mit der App verknüpft, um softwarebasierte Plausibilitätsprüfungen durchzuführen und zusätzliche Informationen über den Gerätestatus und die Konfiguration zu sammeln, die über das hinausgehen, was die Hardware direkt attestieren kann.
 
-Die Grundlage der Auditor-App ist die Erzeugung eines dauerhaften Schlüssels im [hardwaregestützten Schlüsselspeicher](https://source.android.com/security/keystore/), um die Identität des Geräts zu überprüfen und mittels Verified Boot sicherzustellen, dass das Betriebssystem nicht manipuliert oder downgegraded wurde. Es führt einen Paarungsprozess zwischen dem Gerät, das die Verifizierung durchführt (Auditor), und dem zu verifizierenden Gerät (Auditee) durch, um ein Trust-On-First-Use-Modell (TOFU) zu implementieren. Das Gerät, das die Verifizierung durchführt, kann entweder ein anderes Android-Gerät sein, auf dem die App im Auditor-Modus läuft, oder der Dienst [https://attestation.app/](https://attestation.app) für automatische, planmäßige Überprüfungen mit Unterstützung für E-Mail-Warnungen. Schauen Sie sich dafür die [Auditor-Anleitung](https://attestation.app/tutorial) [[deutsche Übersetzung](grapheneos-attestation-tutorial.html)]  an. Das Protokoll, das sowohl für die lokale als auch für die Remote-Attestierung verwendet wird, ist [im Quellcode dokumentiert](https://github.com/GrapheneOS/Auditor/blob/52/app/src/main/java/app/attestation/auditor/AttestationProtocol.java#L128-L202).
+Die Grundlage der Auditor-App ist die Erzeugung eines dauerhaften Schlüssels im [hardwaregestützten Schlüsselspeicher](https://source.android.com/security/keystore/), um die Identität des Geräts zu überprüfen und mittels Verified Boot sicherzustellen, dass das Betriebssystem nicht manipuliert oder downgegraded wurde. Es führt einen Paarungsprozess zwischen dem Gerät, das die Verifizierung durchführt (Auditor), und dem zu verifizierenden Gerät (Auditee) durch, um ein Trust-On-First-Use-Modell (TOFU) zu implementieren. Das Gerät, das die Verifizierung durchführt, kann entweder ein anderes Android-Gerät sein, auf dem die App im Auditor-Modus läuft, oder der Dienst [https://attestation.app/](https://attestation.app) für automatische, planmäßige Überprüfungen mit Unterstützung für E-Mail-Warnungen. Schauen Sie sich dafür die [Auditor-Anleitung](https://attestation.app/tutorial) [[deutsche Übersetzung](grapheneos-attestation-tutorial.html)]  an. Das Protokoll, das sowohl für die lokale als auch für die Remote-Attestierung verwendet wird, ist [im Quellcode dokumentiert](https://github.com/GrapheneOS/Auditor/blob/76/app/src/main/java/app/attestation/auditor/AttestationProtocol.java#L120-L193).
 
 [Verified Boot](https://source.android.com/security/verifiedboot/) validiert die Integrität und Authentizität der Firmware und des gesamten Betriebssystems (Kernel und Userspace) anhand eines unveränderlichen Hardware-Root-of-Trust. Die Ergebnisse werden an den Hardware-gestützten Schlüsselspeicher weitergeleitet und für den Schutz der Schlüssel verwendet.
 
@@ -71,6 +71,8 @@ Jedes Gerät mit Android 10 oder höher kann die Auditor-App ausführen und sie 
 * Google Pixel 7a
 * Google Pixel Tablet
 * Google Pixel Fold
+* Google Pixel 8
+* Google Pixel 8 Pro
 * Huawei Honor 7A Pro (AUM-L29 model)
 * Honor 9 Lite (LLD-L31 model)
 * Huawei Honor 10 (COL-L29 model)
@@ -148,6 +150,8 @@ Die folgenden Geräte bieten ein HSM mit StrongBox-Unterstützung, das von Audit
 * Google Pixel 7a
 * Google Pixel Tablet
 * Google Pixel Fold
+* Google Pixel 8
+* Google Pixel 8 Pro
 * Samsung Galaxy Note 10 (SM-N970U model)
 * Samsung Galaxy Note 10+ (SM-N975U model)
 
@@ -161,6 +165,8 @@ Die folgenden Geräte unterstützen die Attest-Key-Funktion zur Erzeugung eines 
 * Google Pixel 7a
 * Google Pixel Tablet
 * Google Pixel Fold
+* Google Pixel 8
+* Google Pixel 8 Pro
 
 Die Auditor-App unterstützt auch die Überprüfung von alternativen Betriebssystemen auf unterstützten Geräten. Sie kann [GrapheneOS](https://grapheneos.org/) auf den folgenden Geräten überprüfen:
 
@@ -184,6 +190,8 @@ Die Auditor-App unterstützt auch die Überprüfung von alternativen Betriebssys
 * Google Pixel 7a
 * Google Pixel Tablet
 * Google Pixel Fold
+* Google Pixel 8
+* Google Pixel 8 Pro
 
 Bei alternativen Betriebssystemen muss der Verified-Boot-Schlüssel in der Auditor-App bzw. dem Attestierungs-Server enthalten sein. Die App und der Dienst zeigen den Namen des Betriebssystems an, das auf dem Gerät verifiziert wird. Leider bieten die meisten alternativen Betriebssysteme keine Unterstützung für vollständig verifiziertes Booten und die meisten Geräte unterstützen die Verwendung von verifiziertem Booten mit einem benutzerdefinierten Schlüssel nicht. Die App ist außerdem davon abhängig, dass das Betriebssystem das grundlegende Sicherheitsmodell für Erweiterungen über die grundlegende hardwarebasierte Attestierungsunterstützung hinaus beibehält.
 
