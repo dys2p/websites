@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/84fd23d4cba5b0ec47025fcc51385fd327c757e4/static/install/cli.html">84fd23d</a> vom 2023-10-29. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/fd2170de159bcfe7136fbbb6418a6f09ec26fba3/static/install/cli.html"> 41387d5</a> vom 2023-11-07. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -175,14 +175,6 @@ Alternativ schalten Sie das Gerät aus und starten Sie es dann, wobei Sie die Le
 <h2 id="connecting-phone">Das Gerät verbinden</h2>
 
 Verbinden Sie das Gerät mit dem Computer. Unter Linux müssen Sie das erneut tun, falls Sie die udev-Regeln beim Anschließen des Gerätes noch nicht eingerichtet hatten.
-
-Unter Linux hat GNOME einen Fehler, der Kompatibilitätsprobleme mit dem Installationsprozess verursacht. Es erkennt das Gerät im Fastboot- oder Fastbootd-Modus fälschlicherweise als MTP-Gerät und beansprucht die alleinige Kontrolle über das Gerät. Das führt dazu, dass der Installationsprozess nicht fortgesetzt werden kann. Sie können den folgenden Befehl ausführen, um dieses Problem zu umgehen:
-
-    echo 0 | sudo tee /sys/bus/usb/drivers_autoprobe
-
-Nach der Installation können Sie dies rückgängig machen, indem Sie neustarten oder den folgenden Befehl ausführen:
-
-    echo 1 | sudo tee /sys/bus/usb/drivers_autoprobe
 
 Unter Windows müssen Sie einen Treiber für fastboot installieren, sofern Sie ihn nicht bereits haben. Für andere Betriebssysteme ist kein Treiber erforderlich. Sie können den Treiber über Windows Update beziehen, das ihn als optionales Update erkennt, wenn das Gerät im Bootloader-Modus ist und mit dem Computer verbunden ist. Öffnen Sie Windows Update, führen Sie eine Prüfung auf Updates durch und gehen Sie danach auf "Optionale Updates anzeigen". Installieren Sie den Treiber für die Android-Bootloader-Schnittstelle als optionales Update.
 
