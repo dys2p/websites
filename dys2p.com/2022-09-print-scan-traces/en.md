@@ -1320,6 +1320,7 @@ If you want to support our work, [you can tip us](https://dys2p.com/support.html
 
 <h2 id="references">References</h2>
 
+* [anarsec.guide -  Remove Identifying Metadata From Files](https://www.anarsec.guide/posts/metadata/)
 * [Cipherbrain - Neues zu den gelben Punkten auf Laser-Ausdrucken](https://scienceblogs.de/klausis-krypto-kolumne/2022/10/16/neues-zu-den-gelben-punkten-auf-laser-ausdrucken/)
 * [kryptografie.de - Yellow Dots Code (Machine Identification Code für Farblaserdrucker)](https://kryptografie.de/kryptografie/chiffre/yellow-dots-code.htm)
 

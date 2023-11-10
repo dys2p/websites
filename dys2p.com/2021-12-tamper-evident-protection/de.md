@@ -346,8 +346,10 @@ Solltest du weitere Ideen, Hinweise oder Verbesserungsvorschläge haben, dann [s
 
 <h2 id="erwaehnungen">Erwähnungen</h2>
 
+* [anarsec.guide - Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
 * [c't 16/2022](https://www.heise.de/select/ct/2022/16), p. 44
 * [Hacker News - Detecting unauthorized physical access with beans, lentils and colored rice (2021) (dys2p.com)](https://news.ycombinator.com/item?id=31897530)
 * [heise.de - Random Mosaic: Fremdzugriffe mit Bohnen, Linsen oder buntem Reis erkennen ](https://web.archive.org/web/20220627170123/https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html)
+* [Tokimarks - Tamper-evident Ballot Boxes](https://github.com/mleonhard/tokimark#tamper-evident-ballot-boxes)
 * [UNREDACTED Magazine - The Privacy, Security, & OSINT Magazine, Ausgabe 004](https://unredactedmagazine.com/issues/004.pdf)
 * [Yahoo Finanzen - Linsen, Bohnen und Glitzernagellack: Wie man Ware beim Versand vor Fremdzugriff schützt](https://de.nachrichten.yahoo.com/linsen-bohnen-und-glitzernagellack-wie-man-ware-beim-versand-vor-fremdzugriff-schutzt-121805730.html)
