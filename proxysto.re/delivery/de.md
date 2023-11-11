@@ -29,7 +29,7 @@ Um unautorisierte Zugriffsversuche und dadurch mögliche Manipulationen an einem
 2. Wir platzieren den Artikel im Inneren eines Vakuumierbeutels, sodass die verwendete Substanz (beispielsweise verschiedenfarbige Linsen) ihn vollständig umhüllt.
 3. Wir vakuumieren und verschweißen den Vakuumierbeutel.
 4. Zur besseren Abdichtung bringen wir am oberen Ende des Beutels eine weitere Schweißnaht an.
-5. Wir fertigen Fotos des Musters an.
+5. Wir fertigen beidseitig Fotos des Musters an.
 6. Zur besseren Abdichtung kommt der Beutel mit der Öffnung voran in einen weiteren Vakuumierbeutel, der ebenfalls vakuumiert und zweimal verschweißt wird.
 
 Wir entfernen mit [mat2](https://0xacab.org/jvoisin/mat2) die Metadaten der Fotos und übermitteln sie per E-Mail an dich. Bitte achte beim Bestellen darauf, eine funktionierende E-Mail-Adresse anzugeben. Wir signieren und, falls wir einen PGP-Key von dir haben, verschlüsseln die E-Mail mit PGP. Um das Muster nicht zu beschädigen, versenden wir die Waren gut gepolstert.

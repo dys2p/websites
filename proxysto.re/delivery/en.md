@@ -29,7 +29,7 @@ For a better detection of unauthorized access attempts and thereby possible tamp
 2. We place the item inside a vacuum bag so that the substance (for example, different colored lentils) completely envelops it.
 3. We vacuum and seal the vacuum bag.
 4. For better sealing, we apply another weld seam at the top of the bag.
-5. We take photos of the pattern.
+5. We take photos of the pattern on both sides.
 6. For better sealing, the bag goes into another vacuum bag with the opening first, which is also vacuumed and sealed twice.
 
 We remove the metadata of the photos with [mat2](https://0xacab.org/jvoisin/mat2) and send it to you via email. Please make sure to provide a working email address when ordering. We sign and, if we have a PGP key from you, encrypt the email with PGP. In order not to damage the pattern, we ship the goods well padded.
