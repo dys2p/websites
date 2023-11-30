@@ -439,7 +439,6 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <th>Druck in Farbe / Schwarzweiß</th>
       <th>MIC</th>
       <th>Pattern</th>
-      <th></th>
     </tr>
   </thead>
   <tbody>

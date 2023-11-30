@@ -425,7 +425,6 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
       <th>Printing in color / black and white</th>
       <th>MIC</th>
       <th>Pattern</th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
