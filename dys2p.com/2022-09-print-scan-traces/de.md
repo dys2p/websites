@@ -783,7 +783,6 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>058</td>
