@@ -430,7 +430,7 @@ Wir können die Ergebnisse dieser Arbeiten bestätigen: Wir finden ein Muster au
 
 <h3 id="mics-in-freier-wildbahn">MICs in freier Wildbahn</h3>
 
-Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, haben wir 100 Dokumente von 100 verschiedenen Unternehmen, Vereinen und Behörden untersucht, die wir unabhängig von dieser Untersuchung erhalten hatten. Das älteste Dokument kommt aus dem Jahr 2013, die meisten sind aus dem Zeitraum 2020-2022. Wir haben die Dokumente zufällig ausgewählt und jeweils meist das erste Blatt mittels Scan und Bearbeitung mit GIMP, wie oben beschrieben, und mit dem Mikroskop bei 120 facher Vergrößerung untersucht.
+Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, haben wir 200 Dokumente von 200 verschiedenen Unternehmen, Vereinen und Behörden untersucht, die wir unabhängig von dieser Untersuchung erhalten hatten. Das älteste Dokument kommt aus dem Jahr 2009, die meisten sind aus dem Zeitraum 2020-2023. Wir haben die Dokumente zufällig ausgewählt und jeweils meist das erste Blatt mittels Scan und Bearbeitung mit GIMP, wie oben beschrieben, und mit dem Mikroskop bei 120 facher Vergrößerung untersucht.
 
 <table class="table">
   <thead>
@@ -448,20 +448,17 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>002</td>
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-002.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>003</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -469,13 +466,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>005</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -483,13 +478,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>007</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -497,13 +490,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-008.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>009</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -511,13 +502,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>011</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -525,13 +514,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>013</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -539,13 +526,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>015</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -553,13 +538,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>017</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -567,13 +550,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>019</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -581,20 +562,17 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td>unsicher (CMYK-Dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>021</td>
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-021.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>022</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -602,13 +580,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>024</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -616,13 +592,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>026</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -630,13 +604,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>unsicher (CMYK-Dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>028</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -644,13 +616,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>030</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -658,13 +628,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>032</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -672,13 +640,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-033.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>034</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -686,13 +652,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>unsicher (CMYK-Dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>036</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -700,13 +664,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-037.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>038</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -714,13 +676,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-039.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>040</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -728,34 +688,29 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>042</td>
       <td>SW</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-042.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>043</td>
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-043.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>044</td>
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-044.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>045</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -763,13 +718,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>047</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -777,13 +730,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>049</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -791,13 +742,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>051</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -805,13 +754,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>053</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -819,20 +766,17 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>055</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>056</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -847,20 +791,17 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>059</td>
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-059.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>060</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -868,13 +809,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>062</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -882,13 +821,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>064</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -896,13 +833,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>066</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -910,13 +845,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>068</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -924,13 +857,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>070</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -938,13 +869,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>072</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -952,13 +881,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-073.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>074</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -966,20 +893,17 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>076</td>
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-076.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>077</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -987,13 +911,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>unsicher (CMYK-Dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>079</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1001,13 +923,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>081</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1015,13 +935,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>083</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1029,13 +947,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>085</td>
       <td>SW/Farbe</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1043,13 +959,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-086.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>087</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1057,13 +971,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>089</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1071,13 +983,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-090.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>091</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1085,13 +995,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-092.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>093</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1099,13 +1007,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>095</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1113,13 +1019,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>Farbe</td>
       <td><strong>MIC festgestellt</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-096.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>097</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1127,13 +1031,11 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>099</td>
       <td>SW</td>
       <td>kein MIC festgestellt</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1141,6 +1043,605 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
       <td>SW</td>
       <td>kein MIC festgestellt</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-101.png"></td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-129.png"></td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-130.png"></td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>133</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-138.png"></td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-145.png"></td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-146.png"></td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>Sw</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-159.png"></td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>Sw</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-173.png"></td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-174.png"></td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-175.png"></td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-184.png"></td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-185.png"></td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-186.png"></td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-187.png"></td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-189.png"></td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>Farbe</td>
+      <td><strong>MIC festgestellt</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-192.png"></td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>SW</td>
+      <td>kein MIC feststellbar</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>Farbe</td>
+      <td>kein MIC feststellbar</td>
       <td></td>
     </tr>
   </tbody>
@@ -1150,7 +1651,7 @@ Die Drucke und Kopien stammen von uns unbekannten Laser- und Tintenstrahldrucker
 
 Bei vier Dokumenten konnten wir mit dem Mikroskop zwar gelbe Punkte auf dem Papier feststellen, doch da sich jeweils auf der gesamten Seite farbige Punkte in CMYK-Farben befanden, konnten wir nicht eindeutig ein Muster identifizieren und haben es als <q>unsicher (CMYK-Dots)</q> gewertet.
 
-Insgesamt wurde bei 16 von 100 Dokumenten ein Machine Identification Code erkannt, davon bei 14 von 16 farbigen Dokumenten.
+Insgesamt wurde bei 32 von 200 Dokumenten ein Machine Identification Code erkannt, davon bei 29 von 32 farbigen Dokumenten.
 
 <h3 id="deda-toolkit">Deda Toolkit</h3>
 
@@ -1284,7 +1785,7 @@ Der Vollständigkeit halber sei an dieser Stelle erwähnt, dass auch Papiere for
 
 Forensische Analysen von Druckerzeugnissen nutzen weitere Indikatoren zur Identifizierung bzw. zum Einschränken des Gerätespektrums. Dabei wird u. a. das Druckbild betrachtet, das sich zwischen verschiedenen Druckermodellen oft unterscheidet. Über individuelle Abnutzungserscheinungen und daraus resultierende kleine einzigartige Ungenauigkeiten können zudem einzelne Drucker und Scanner identifiziert werden.
 
-Auch die Druckfarben selbst können untersucht werden. Dies findet zunächst mit einer Reihe zerstörungsfreien Methoden statt und wird ggf. mit einem kleinen Stück Papier, welches herausgeschnitten und untersucht wird, fortgesetzt. Die Ergebnisse können mit Datenbanken abgeglichen werden. So unterhält das z. B. FBI die [International Ink Library](https://en.wikipedia.org/wiki/International_Ink_Library), welche mehr als 15.000 Vergleichswerte beinhalten soll. Ähnliche Datenbanken sind auch auf Bundes- und EU-Ebene denkbar. So gibt es beispielsweise mit der <q>European Collection of Automotive Paints</q> (EUCAP) bereits eine Datenbank für Fahrzeuglacke, die zusätzlich mit Informationen aus Japan, Kanada und den USA gespeist wird.
+Auch die Druckfarben selbst können untersucht werden. Dies findet zunächst mit einer Reihe zerstörungsfreien Methoden statt und wird ggf. mit einem kleinen Stück Papier, welches herausgeschnitten und untersucht wird, fortgesetzt. Die Ergebnisse können mit Datenbanken abgeglichen werden. So unterhält z. B. das FBI die [International Ink Library](https://en.wikipedia.org/wiki/International_Ink_Library), welche mehr als 15.000 Vergleichswerte beinhalten soll. Auf EU-Ebene gibt es seit 2010 eine weitere Datenbank zur Klassifizierung von Tintenstrahldruckern, welche mit [Stand 2011 bereits mehr als 70 Prozent aller Druckerdaten](https://web.archive.org/web/20230323082658/https://www.bmi.gv.at/magazinfiles/2011/03_04/files/kriminaltechnik_ii.pdf) umfassen soll und diese Informationen direkt von den Druckerherstellern erhält. Die Existenz weiterer Datenbanken für Toner und andere Farben ist wahrscheinlich.
 
 Da wir auf diese Faktoren keinen Einfluss nehmen können, gehen wir hier nicht näher darauf ein und verweisen auf die unten genannte weiterführende Literatur.
 

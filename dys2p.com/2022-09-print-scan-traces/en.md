@@ -416,7 +416,7 @@ We can confirm the results of that work: We find a pattern of 18 dots, which we 
 
 <h3 id="mics-in-freier-wildbahn">MICs in the wild</h3>
 
-To determine how common MICs are "in the wild," we analyzed 100 documents from 100 different companies, associations, and government agencies that we had received independently of this research. The oldest document is from 2013, and most are from 2020-2022. We randomly selected the documents and analyzed mostly the first sheet of each using scanning and processing with GIMP, as described above, and with a microscope at 120x magnification.
+To determine how common MICs are "in the wild," we analyzed 200 documents from 200 different companies, associations, and government agencies that we had received independently of this research. The oldest document is from 2009, and most are from 2020-2023. We randomly selected the documents and analyzed mostly the first sheet of each using scanning and processing with GIMP, as described above, and with a microscope at 120x magnification.
 
 <table class="table">
   <thead>
@@ -434,20 +434,17 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>002</td>
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-002.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>003</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -455,13 +452,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>005</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -469,13 +464,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>007</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -483,13 +476,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-008.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>009</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -497,13 +488,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>011</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -511,13 +500,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>013</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -525,13 +512,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>015</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -539,13 +524,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>017</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -553,13 +536,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>019</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -567,20 +548,17 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td>uncertain (CMYK dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>021</td>
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-021.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>022</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -588,13 +566,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>024</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -602,13 +578,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>026</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -616,13 +590,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>uncertain (CMYK dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>028</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -630,13 +602,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>030</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -644,13 +614,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>032</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -658,13 +626,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-033.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>034</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -672,13 +638,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>uncertain (CMYK dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>036</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -686,13 +650,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-037.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>038</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -700,13 +662,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-039.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>040</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -714,34 +674,29 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>042</td>
       <td>bw</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-042.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>043</td>
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-043.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>044</td>
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-044.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>045</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -749,13 +704,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>047</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -763,13 +716,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>049</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -777,13 +728,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>051</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -791,13 +740,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>053</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -805,13 +752,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>055</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -819,13 +764,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>057</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -833,20 +776,17 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>059</td>
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-059.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>060</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -854,13 +794,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>062</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -868,13 +806,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>064</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -882,13 +818,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>066</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -896,13 +830,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>068</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -910,13 +842,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>070</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -924,13 +854,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>072</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -938,13 +866,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-073.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>074</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -952,20 +878,17 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>076</td>
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-076.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>077</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -973,13 +896,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>uncertain (CMYK dots)</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>079</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -987,13 +908,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>081</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1001,13 +920,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>083</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1015,13 +932,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>085</td>
       <td>bw/color</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1029,13 +944,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-086.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>087</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1043,13 +956,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>089</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1057,13 +968,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-090.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>091</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1071,13 +980,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-092.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>093</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1085,13 +992,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>095</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1099,13 +1004,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>color</td>
       <td><strong>MIC detected</strong></td>
       <td><img src="../assets/images/print-scan-traces/sample-096.png"></td>
-      <td></td>
     </tr>
     <tr>
       <td>097</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1113,13 +1016,11 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>099</td>
       <td>bw</td>
       <td>no MIC detected</td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1127,6 +1028,605 @@ To determine how common MICs are "in the wild," we analyzed 100 documents from 1
       <td>bw</td>
       <td>no MIC detected</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-101.png"></td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-129.png"></td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-130.png"></td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>133</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-138.png"></td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-145.png"></td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-146.png"></td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>bw</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-159.png"></td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-173.png"></td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-174.png"></td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-175.png"></td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-184.png"></td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-185.png"></td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-186.png"></td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-187.png"></td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-189.png"></td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>color</td>
+      <td><strong>MIC detected</strong></td>
+      <td><img src="../assets/images/print-scan-traces/sample-192.png"></td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>color</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>bw</td>
+      <td>no MIC detected</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>color</td>
+      <td>no MIC detected</td>
       <td></td>
     </tr>
   </tbody>
@@ -1136,7 +1636,7 @@ The printouts and copies were from laser and inkjet printers unknown to us and w
 
 With four documents, we were able to detect yellow dots on the paper with the microscope, but since there were colored dots in CMYK colors on the entire page in each document, we could not clearly identify a pattern and rated it as <q>uncertain (CMYK dots)</q>.
 
-In total, a Machine Identification Code was detected in 16 out of 100 documents, including 14 out of 16 color documents.
+In total, a Machine Identification Code was detected in 32 out of 200 documents, including 29 out of 32 color documents.
 
 <h3 id="deda-toolkit">Deda Toolkit</h3>
 
@@ -1270,7 +1770,7 @@ For the sake of completeness, it should be mentioned at this point that paper sh
 
 Forensic analyses of printed products use other indicators to identify or narrow down the range of devices. Among other things, this involves looking at the print image, which often differs between different printer models. Individual printers and scanners can also be identified via individual signs of wear and resulting small unique inaccuracies.
 
-The printing colors themselves can also be analyzed. This starts using a range of non-destructive methods and, if necessary, is followed up with a small piece of paper that is cut out and analyzed. The results can be checked against databases. For example, the FBI maintains the [International Ink Library](https://en.wikipedia.org/wiki/International_Ink_Library), which is said to contain more than 15,000 data records. Similar databases are also conceivable at the federal and EU levels. For example, there is already a database for automotive paints, the <q>European Collection of Automotive Paints</q> (EUCAP), which is also fed with information from Japan, Canada and the USA.
+The printing colors themselves can also be analyzed. This starts using a range of non-destructive methods and, if necessary, is followed up with a small piece of paper that is cut out and analyzed. The results can be checked against databases. For example, the FBI maintains the [International Ink Library](https://en.wikipedia.org/wiki/International_Ink_Library), which is said to contain more than 15,000 data records. At EU level, there has been another database for classifying inkjet printers since 2010, which [as of 2011](https://web.archive.org/web/20230323082658/https://www.bmi.gv.at/magazinfiles/2011/03_04/files/kriminaltechnik_ii.pdf) is said to cover more than 70 percent of all printer data and receives this information directly from the printer manufacturers. The existence of further databases for toner and other colors is likely.
 
 Since we cannot influence these factors, we do not go into more detail here and refer to the further literature mentioned below.
 
