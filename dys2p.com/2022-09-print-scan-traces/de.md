@@ -1649,7 +1649,7 @@ Die Drucke und Kopien stammen von uns unbekannten Laser- und Tintenstrahldrucker
 
 Bei vier Dokumenten konnten wir mit dem Mikroskop zwar gelbe Punkte auf dem Papier feststellen, doch da sich jeweils auf der gesamten Seite farbige Punkte in CMYK-Farben befanden, konnten wir nicht eindeutig ein Muster identifizieren und haben es als <q>unsicher (CMYK-Dots)</q> gewertet.
 
-Insgesamt wurde bei 32 von 200 Dokumenten ein Machine Identification Code erkannt, davon bei 29 von 32 farbigen Dokumenten.
+Insgesamt wurde bei 32 von 200 Dokumenten ein Machine Identification Code erkannt. Von diesen 32 Dokumenten enthielten 29 Dokumente erkennbare farbige Inhalte, während die übrigen 3 schwarzweiß wirkten.
 
 <h3 id="deda-toolkit">Deda Toolkit</h3>
 

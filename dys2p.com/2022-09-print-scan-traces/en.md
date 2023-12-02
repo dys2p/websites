@@ -1635,7 +1635,7 @@ The printouts and copies were from laser and inkjet printers unknown to us and w
 
 With four documents, we were able to detect yellow dots on the paper with the microscope, but since there were colored dots in CMYK colors on the entire page in each document, we could not clearly identify a pattern and rated it as <q>uncertain (CMYK dots)</q>.
 
-In total, a Machine Identification Code was detected in 32 out of 200 documents, including 29 out of 32 color documents.
+In total, a Machine Identification Code was detected in 32 out of 200 documents. Of these 32 documents, 29 documents contained recognizable colored contents, while the remaining 3 seemed black and white.
 
 <h3 id="deda-toolkit">Deda Toolkit</h3>
 
