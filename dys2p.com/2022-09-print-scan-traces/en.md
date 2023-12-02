@@ -5,7 +5,7 @@ q { font-family: monospace; }
 
 # Revealing Traces in printouts and scans
 
-_September 2022_
+_September 2022 (list of samples [updated 2023-12-02](https://github.com/dys2p/websites/commit/35a78a79245050003a055a5bf0ca1d20529fdae3))_
 
 In our [store](https://proxysto.re/index.html) in Leipzig (Germany), we offer to use a multi-function printer (printer, copier and scanner) as described in our [concept](https://dys2p.com/konzept.html). To ensure that this can be done in the most privacy-friendly way possible, we have addressed privacy issues and are taking a number of measures. Unlike many other copyshops, we have not installed any cameras, either in front of or inside our store.
 

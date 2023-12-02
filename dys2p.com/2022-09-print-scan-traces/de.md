@@ -5,7 +5,7 @@ q { font-family: monospace; }
 
 # Verräterische Spuren in Ausdrucken und Scans
 
-_September 2022_
+_September 2022 (Liste der Stichproben [aktualisiert 2023-12-02](https://github.com/dys2p/websites/commit/35a78a79245050003a055a5bf0ca1d20529fdae3))_
 
 In unserem [Ladengeschäft](https://proxysto.re/index.html) in Leipzig (Deutschland) ermöglichen wir es Personen, wie in unserem [Konzept](https://dys2p.com/konzept.html) beschrieben, ein Multifunktionsgerät (Drucker, Kopierer und Scanner) zu nutzen. Damit dies möglichst datenschutzfreundlich erfolgen kann, haben wir uns mit den Datenschutzaspekten auseinandergesetzt und treffen eine Reihe von Maßnahmen. Im Gegensatz zu vielen anderen Copyshops haben wir keine Kameras angebracht, weder vor noch in unserem Geschäft.
 
