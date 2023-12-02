@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/fd2170de159bcfe7136fbbb6418a6f09ec26fba3/static/install/cli.html"> 41387d5</a> vom 2023-11-07. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/399d28714f3a370f015641ff9e0a6da811f31f9e/static/install/web.html">399d287</a> vom 2023-11-26. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -50,6 +50,9 @@ Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen
     </li>
     <li>
       <a href="#flashing-as-non-root">Flash als Nicht-Root-Benutzer</a>
+    </li>
+    <li>
+      <a href="#working-around-fwupd-bug-on-linux-distributions">Umgehen des fwupd-Bugs auf Linux-Distributionen</a>
     </li>
     <li>
       <a href="#booting-into-the-bootloader-interface">Booten in den Bootloader-Modus</a>
@@ -163,6 +166,12 @@ Für das Pixel 6a wird die OEM-Entsperrung nicht mit der ab Werk installierten V
 Bei traditionellen Linux-Distributionen können USB-Geräte ohne udev-Regeln für den jeweiligen Gerätetyp nicht als Nicht-Root verwendet werden. Für andere Plattformen ist das kein Problem.
 
 Unter Arch Linux installieren Sie das Paket `android-udev`. Unter Debian und Ubuntu installieren Sie das Paket `android-sdk-platform-tools-common`.
+
+<h2 id="working-around-fwupd-bug-on-linux-distributions">Umgehen des fwupd-Bugs auf Linux-Distributionen</h2>
+
+Die fwupd-Software, die von vielen traditionellen Linux-Distributionen (nicht von Android oder ChromeOS) verwendet wird, hat einen Fehler, der die Verbindung zu Fastboot-Geräten unterbricht. Das Web-Installationsprogramm braucht etwas länger, um sich mit dem Gerät zu verbinden und ist daher stärker davon betroffen. Wenn Sie mit einer Linux-Distribution arbeiten, auf der fwupd läuft, sollten Sie es stoppen, bevor Sie fortfahren. Das kann mit nachfolgendem Befehl in einem Terminal ausgeführt werden:
+
+    sudo systemctl stop fwupd.service
 
 <h2 id="booting-into-the-bootloader-interface">Booten in den Bootloader-Modus</h2>
 
