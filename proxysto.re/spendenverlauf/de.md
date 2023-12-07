@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Juli bis Dezember 2023
+  * Spendensumme November 2023: 3,00 €
   * Spendensumme Oktober 2023: 35,64 €
   * Spendensumme September 2023: 12,94 €
   * Spendensumme August 2023: 3,00 €
