@@ -50,7 +50,7 @@ It's a good thing to overwrite storage devices that are no longer needed, such a
 
 ### Printer and copier
 
-A printer or a copier can provide a data-saving alternative to the traditional copy store. Models without a hard drive and without [Machine Identification Codes](https://en.wikipedia.org/wiki/Machine_Identification_Code) are preferable. If the device prints Machine Identification Codes, this should be pointed out and [obfuscative measures](https://tu-dresden.de/ing/informatik/sya/ps/die-professur/news/geheime-daten-auf-dem-druckpapier-diplominformatiker-der-tu-dresden-entwickeln-verfahren-gegen-druckerueberwachung?set_language=en) should be offered. In addition, users can be encouraged to disconnect the power cord after use to clear the contents of the RAM.
+A printer or a copier can provide a data-saving alternative to the traditional copy store. Models without a hard drive and without [Machine Identification Codes](https://dys2p.com/en/2022-09-print-scan-traces.html#machine-identification-codes) are preferable. If the device prints Machine Identification Codes, this should be pointed out and [obfuscative measures](https://tu-dresden.de/ing/informatik/sya/ps/die-professur/news/geheime-daten-auf-dem-druckpapier-diplominformatiker-der-tu-dresden-entwickeln-verfahren-gegen-druckerueberwachung?set_language=en) should be offered. In addition, users can be encouraged to disconnect the power cord after use to clear the contents of the RAM.
 
 ### ProxyStore
 

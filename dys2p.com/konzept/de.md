@@ -59,7 +59,7 @@ Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit
 
 ### Drucker und Kopierer
 
-Ein Drucker oder Kopiergerät kann eine datensparsame Alternative zum herkömmlichen Copyshop bieten. Modelle ohne Festplatte und ohne [Machine Identification Codes](https://de.wikipedia.org/wiki/Machine_Identification_Code) sind zu bevorzugen. Falls das Gerät Machine Identification Codes druckt, sollte darauf hingewiesen werden und [Möglichkeiten zur Unkenntlichmachung](https://web.archive.org/web/20180702093518/https://www.heise.de/newsticker/meldung/Dresdner-Forscher-ueberlisten-Tracking-Punkte-bei-Laserdruckern-4090876.html) angeboten werden. Zudem können Nutzerinnen und Nutzer dazu ermutigt werden, nach der Benutzung den Netzstecker zu ziehen, um den Inhalt des Arbeitsspeichers zu löschen.
+Ein Drucker oder Kopiergerät kann eine datensparsame Alternative zum herkömmlichen Copyshop bieten. Modelle ohne Festplatte und ohne [Machine Identification Codes](https://dys2p.com/de/2022-09-print-scan-traces.html#machine-identification-codes) sind zu bevorzugen. Falls das Gerät Machine Identification Codes druckt, sollte darauf hingewiesen werden und [Möglichkeiten zur Unkenntlichmachung](https://web.archive.org/web/20180702093518/https://www.heise.de/newsticker/meldung/Dresdner-Forscher-ueberlisten-Tracking-Punkte-bei-Laserdruckern-4090876.html) angeboten werden. Zudem können Nutzerinnen und Nutzer dazu ermutigt werden, nach der Benutzung den Netzstecker zu ziehen, um den Inhalt des Arbeitsspeichers zu löschen.
 
 ### ProxyStore
 
