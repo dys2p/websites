@@ -41,10 +41,6 @@ Die Sprechstunde findet **jeden 1. und 3. Montag im Monat** von **16:00 bis 18:0
 
 Die nächsten Termine:
 
-* 06.11.2023
-* 20.11.2023
-* 04.12.2023
-* 18.12.2023
 * 15.01.2024
 * 05.02.2024
 * 19.02.2024
