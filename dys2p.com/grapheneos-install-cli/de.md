@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/6526a2f1c710d360b2ae044c94742bae524b177b/static/install/cli.html">6526a2f</a> vom 2023-12-18. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/211db6850e453b43d7de55469a3bae611cad19c1/static/install/cli.html">211db68</a> vom 2023-12-31. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -139,7 +139,6 @@ Offiziell unterstützte Betriebssysteme für die CLI-Installationsmethode:
 
 * Windows 10
 * Windows 11
-* macOS Big Sur (11)
 * macOS Monterey (12)
 * macOS Ventura (13)
 * macOS Sonoma (14)
@@ -151,6 +150,9 @@ Offiziell unterstützte Betriebssysteme für die CLI-Installationsmethode:
 * Ubuntu 22.04 LTS
 * Ubuntu 23.04
 * Ubuntu 23.10
+* Linux Mint 20 (nutze die Anweisungen für Ubuntu 20.04 LTS)
+* Linux Mint 21 (nutze die Anweisungen für Ubuntu 22.04 LTS)
+* Linux Mint Debian Edition 6 (nutze die Anweisungen für Debian 12)
 
 Stellen Sie sicher, dass Ihr Betriebssystem auf dem neuesten Stand ist, bevor Sie fortfahren.
 
@@ -250,9 +252,13 @@ Die udev-Regeln unter Debian und Ubuntu sind sehr veraltet, aber das Paket enth�
 
 <h2 id="working-around-fwupd-bug-on-linux-distributions">Umgehen des fwupd-Bugs auf Linux-Distributionen</h2>
 
-Die fwupd-Software, die von vielen traditionellen Linux-Distributionen (nicht von Android oder ChromeOS) verwendet wird, hat einen Fehler, der die Verbindung zu Fastboot-Geräten unterbricht. Das Web-Installationsprogramm braucht etwas länger, um sich mit dem Gerät zu verbinden und ist daher stärker davon betroffen. Wenn Sie mit einer Linux-Distribution arbeiten, auf der fwupd läuft, sollten Sie es stoppen, bevor Sie fortfahren. Das kann mit nachfolgendem Befehl in einem Terminal ausgeführt werden:
+Debian Stable und Ubuntu haben ein veraltetes fwupd-Paket mit einem Fehler, der die Verbindung zu Androids Bootloader-Schnittstelle (fastboot) unterbricht, während fwupd läuft, da es versucht, sich mit beliebigen Geräten zu verbinden. Dieser Abschnitt kann auf Arch Linux und anderen Distributionen mit fwupd 1.9.10 oder höher übersprungen werden, da wir den Fehler gemeldet haben und er behoben wurde. Android oder ChromeOS waren davon nie betroffen.
+
+Sie können fwupd mit dem folgenden Befehl stoppen:
 
     sudo systemctl stop fwupd.service
+
+Der Dienst wird dadurch nicht dauerhaft deaktiviert und beim Neustart erneut gestartet.
 
 <h2 id="booting-into-the-bootloader-interface">Booten in den Bootloader-Modus</h2>
 
@@ -269,6 +275,8 @@ Verbinden Sie das Gerät mit dem Computer. Unter Linux müssen Sie das erneut tu
 Unter Windows müssen Sie einen Treiber für fastboot installieren, sofern Sie ihn nicht bereits haben. Für andere Betriebssysteme ist kein Treiber erforderlich. Sie können den Treiber über Windows Update beziehen, das ihn als optionales Update erkennt, wenn das Gerät im Bootloader-Modus ist und mit dem Computer verbunden ist. Öffnen Sie Windows Update, führen Sie eine Prüfung auf Updates durch und gehen Sie danach auf "Optionale Updates anzeigen". Installieren Sie den Treiber für die Android-Bootloader-Schnittstelle als optionales Update.
 
 Eine alternativer Weg, die Windows Fastboot-Treiber zu beziehen, besteht darin, den [neuesten Treiber für Pixels](https://developer.android.com/studio/run/win-usb) von Google herunterzuladen und ihn dann [manuell über den Windows-Geräte-Manager zu installieren](https://developer.android.com/studio/run/oem-usb#InstallingDriver).
+
+Trennen Sie das Pixel-Tablet vom Ladedock mit Lautsprecher, bevor Sie fortfahren. Das Ladedock verwendet USB zum Aufladen und für die Audioausgabe, aber das Tablet bietet keine Unterstützung für die gleichzeitige Verwendung des Ladedock und des USB-Anschlusses.
 
 <h2 id="unlocking-the-bootloader">Den Bootloader entsperren</h2>
 
