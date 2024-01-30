@@ -1,8 +1,39 @@
 <h1 class="text-center">ProxyStore</h1>
 
-<p class="lead text-center mb-2">Bernhard-Göring-Straße 162, 04277 Leipzig, Deutschland</p>
-<p class="lead text-center mb-2">Öffnungszeiten: Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr und nach Vereinbarung</p>
-<p class="lead text-center">Zugang durch Ladentür oder Treppenhaus (meist offen, sonst klingeln) möglich. Beide sind leider nicht rollstuhlgerecht.</p>
+<p class="text-center lead mb-2">Mo+Do&nbsp;10-18&nbsp;Uhr, Di+Mi+Fr+Sa&nbsp;10-14&nbsp;Uhr</p>
+<p class="text-center lead mb-2">Bernhard-Göring-Straße&nbsp;162, 04277&nbsp;Leipzig, Deutschland</p>
+<p class="text-center">Zugang durch Ladentür oder Treppenhaus (meist offen, sonst klingeln) möglich. Beide sind leider nicht rollstuhlgerecht.</p>
+
+<div class="row d-xl-none">
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://digitalgoods.proxysto.re"><i class="fa-solid fa-ticket"></i> Digitale Güter</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> Onlineshop</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://order.proxysto.re/"><i class="fa-solid fa-tags"></i> Bestellservice</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://druck.proxysto.re/"><i class="fa-solid fa-print"></i> Onlinedruckerei</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Onlinesortiment
 

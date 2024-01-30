@@ -1,8 +1,39 @@
 <h1 class="text-center">ProxyStore</h1>
 
-<p class="lead text-center mb-2">Bernhard-Göring-Straße 162, 04277 Leipzig, Germany</p>
-<p class="lead text-center mb-2">Opening hours: Mon+Thu 10am-6pm, Tue+Wed+Fri+Sat 10am-2pm and by arrangement</p>
-<p class="lead text-center">Enter through store door or staircase (mostly open, else ring the bell). Both are unfortunately not wheelchair accessible.</p>
+<p class="text-center lead mb-2">Mon+Thu&nbsp;10am-6pm, Tue+Wed+Fri+Sat&nbsp;10am-2pm</p>
+<p class="text-center lead mb-2">Bernhard-Göring-Straße&nbsp;162, 04277&nbsp;Leipzig, Germany</p>
+<p class="text-center">Enter through store door or staircase (mostly open, else ring the bell). Both are unfortunately not wheelchair accessible.</p>
+
+<div class="row d-xl-none">
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://digitalgoods.proxysto.re"><i class="fa-solid fa-ticket"></i> Digital Goods</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> Online Shop</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://order.proxysto.re/"><i class="fa-solid fa-tags"></i> Order Service</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-lg">
+		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+			<div class="card-body">
+				<a class="card-link stretched-link text-success" href="https://druck.proxysto.re/"><i class="fa-solid fa-print"></i> Online Printing</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Products from our online shops
 
