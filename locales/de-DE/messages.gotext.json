@@ -1,0 +1,150 @@
+{
+    "language": "de-DE",
+    "messages": [
+        {
+            "id": "All Services and Projects",
+            "message": "All Services and Projects",
+            "translation": "Alle Angebote und Projekte"
+        },
+        {
+            "id": "Why?",
+            "message": "Why?",
+            "translation": "Warum?"
+        },
+        {
+            "id": "Local Store",
+            "message": "Local Store",
+            "translation": "Ladengeschäft"
+        },
+        {
+            "id": "Digital Goods",
+            "message": "Digital Goods",
+            "translation": "Digitale Güter"
+        },
+        {
+            "id": "Online shop",
+            "message": "Online shop",
+            "translation": "Onlineshop"
+        },
+        {
+            "id": "Order Service",
+            "message": "Order Service",
+            "translation": "Bestellservice"
+        },
+        {
+            "id": "Online printing",
+            "message": "Online printing",
+            "translation": "Onlinedruckerei"
+        },
+        {
+            "id": "Payment",
+            "message": "Payment",
+            "translation": "Bezahlung"
+        },
+        {
+            "id": "Cash payment",
+            "message": "Cash payment",
+            "translation": "Barzahlung im Ladengeschäft"
+        },
+        {
+            "id": "Cash by mail in 20 currencies",
+            "message": "Cash by mail in 20 currencies",
+            "translation": "Bargeld per Post in 20 Währungen"
+        },
+        {
+            "id": "Monero and Bitcoin",
+            "message": "Monero and Bitcoin",
+            "translation": "Monero und Bitcoin"
+        },
+        {
+            "id": "SEPA bank transfer",
+            "message": "SEPA bank transfer",
+            "translation": "SEPA-Überweisung"
+        },
+        {
+            "id": "PayPal",
+            "message": "PayPal",
+            "translation": "PayPal"
+        },
+        {
+            "id": "Delivery",
+            "message": "Delivery",
+            "translation": "Versand"
+        },
+        {
+            "id": "Pickup in our local store",
+            "message": "Pickup in our local store",
+            "translation": "Abholung im Ladengeschäft"
+        },
+        {
+            "id": "Pickup from locker in our local store",
+            "message": "Pickup from locker in our local store",
+            "translation": "Abholung aus Schließfach im Ladengeschäft"
+        },
+        {
+            "id": "DHL parcel, franked handwritten",
+            "message": "DHL parcel, franked handwritten",
+            "translation": "DHL-Paket handschriftlich frankiert"
+        },
+        {
+            "id": "DHL parcel, franked digitally",
+            "message": "DHL parcel, franked digitally",
+            "translation": "DHL-Paket digital frankiert"
+        },
+        {
+            "id": "Legal",
+            "message": "Legal",
+            "translation": "Rechtliches"
+        },
+        {
+            "id": "Terms and Conditions",
+            "message": "Terms and Conditions",
+            "translation": "AGB"
+        },
+        {
+            "id": "Privacy policy",
+            "message": "Privacy policy",
+            "translation": "Datenschutz"
+        },
+        {
+            "id": "Imprint",
+            "message": "Imprint",
+            "translation": "Impressum"
+        },
+        {
+            "id": "Cancellation Policy",
+            "message": "Cancellation Policy",
+            "translation": "Widerrufsbelehrung"
+        },
+        {
+            "id": "Battery Disposal",
+            "message": "Battery Disposal",
+            "translation": "Hinweise zur Batterieentsorgung"
+        },
+        {
+            "id": "Contact \u0026 News",
+            "message": "Contact \u0026 News",
+            "translation": "Kontakt \u0026 News"
+        },
+        {
+            "id": "Contact us",
+            "message": "Contact us",
+            "translation": "Kontakt"
+        },
+        {
+            "id": "Germany",
+            "message": "Germany",
+            "translation": "Deutschland"
+        },
+        {
+            "id": "and by arrangement",
+            "message": "and by arrangement",
+            "translation": "und nach Vereinbarung"
+        },
+        {
+            "id": "Got an idea or found an error? Drop us a note!",
+            "message": "Got an idea or found an error? Drop us a note!",
+            "translation": "Fehler oder Hinweise? Schreib uns!"
+        }
+    ]
+}

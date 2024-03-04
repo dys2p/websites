@@ -507,6 +507,12 @@ readers do not read off random characters that represent icons */
 .fa-flask::before {
   content: "\f0c3"; }
 
+.fa-house::before {
+  content: "\f015"; }
+
+.fa-magnifying-glass::before {
+  content: "\f002"; }
+
 .fa-print::before {
   content: "\f02f"; }
 
@@ -524,6 +530,12 @@ readers do not read off random characters that represent icons */
 
 .fa-trash-can::before {
   content: "\f2ed"; }
+
+.fa-truck::before {
+  content: "\f0d1"; }
+
+.fa-user::before {
+  content: "\f007"; }
 
 .sr-only,
 .fa-sr-only {

@@ -1,0 +1,28 @@
+{{define "head"}}
+	<link rel="icon" type="image/png" href="../assets/images/favicon-96.png" sizes="96x96">
+	<meta name="author" content="ProxyStore">
+	<meta name="description" content="Buy goods from our online shops and use our devices in our local store in Leipzig (Germany).">
+	<title>ProxyStore</title>
+	{{.Hreflangs}}
+{{end}}
+
+{{define "main"}}
+	<!-- shop -->
+	<!-- no breakpoint -->
+	<nav class="navbar navbar-expand navbar-light bg-light py-1 border-bottom">
+		<div class="container-fluid">
+			<div class="navbar-nav mx-auto">
+				{{with $.Languages}}
+					{{range .}}
+						<li class="nav-item">
+							<a class="nav-link {{if .Selected}}active{{end}}" href="/{{.Prefix}}/{{$.Path}}">{{.Name}}</a>
+						</li>
+					{{end}}
+				{{end}}
+			</div>
+		</div>
+	</nav>
+	<main class="container pt-4">
+		{{template "content" .}}
+	</main>
+{{end}}

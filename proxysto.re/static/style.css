@@ -8,12 +8,6 @@
 	overflow-wrap: break-word;
 }
 
-@media (min-width: 1200px) {
-	.equal-width-xl {
-		flex: 1 1 0px;
-	}
-}
-
 /* https://payalord.github.io/xZoom/docs/index.html#usefultips */
 
 .xzoom-gallery {
@@ -29,7 +23,7 @@ input.toggler {
 .close {
 	display: none;
 }
-:is(input.toggler:checked, input.toggler:target) ~ div {
+:is(input.toggler:checked, input.toggler:target) ~ div.collapse {
 	display: block;
 }
 :is(input.toggler:checked, input.toggler:target) ~ .open {

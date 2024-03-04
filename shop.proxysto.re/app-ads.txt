@@ -1,0 +1,1 @@
+../proxysto.re/app-ads.txt
