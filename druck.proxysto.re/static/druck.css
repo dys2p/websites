@@ -1,0 +1,12 @@
+/* h1 margin */
+h1:first-of-type {
+	margin-top: 1rem!important; /* .mt-3 */
+}
+
+/* filtering */
+.list-group-horizontal {
+	overflow: auto;
+}
+.list-group-horizontal .list-group-item {
+	white-space: nowrap;
+}

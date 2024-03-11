@@ -111,3 +111,13 @@
 	</body>
 </html>
 {{end}}
+
+{{define "languages"}}
+	{{with $.Languages}}
+		<div class="btn-group btn-group-sm align-self-center px-2">
+			{{range .}}
+				<a class="btn btn-outline-secondary {{if .Selected}}active{{end}}" href="/{{.Prefix}}/{{$.Path}}">{{.Name}}</a>
+			{{end}}
+		</div>
+	{{end}}
+{{end}}

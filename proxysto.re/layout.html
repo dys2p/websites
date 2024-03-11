@@ -7,22 +7,15 @@
 {{end}}
 
 {{define "main"}}
-	<!-- shop -->
 	<!-- no breakpoint -->
-	<nav class="navbar navbar-expand navbar-light bg-light py-1 border-bottom">
-		<div class="container-fluid">
-			<div class="navbar-nav mx-auto">
-				{{with $.Languages}}
-					{{range .}}
-						<li class="nav-item">
-							<a class="nav-link {{if .Selected}}active{{end}}" href="/{{.Prefix}}/{{$.Path}}">{{.Name}}</a>
-						</li>
-					{{end}}
-				{{end}}
+	<nav class="navbar navbar-expand pt-2 pb-0">
+		<div class="container">
+			<div class="navbar-nav ms-auto py-1">
+				{{template "languages" .}}
 			</div>
 		</div>
 	</nav>
-	<main class="container pt-4">
+	<main class="container">
 		{{template "content" .}}
 	</main>
 {{end}}
