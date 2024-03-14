@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/caa7ae7177ec6dc1b9b9d4cde89379dc32b9ca49/static/install/index.html">caa7ae7</a> vom 2022-11-27. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/4f3bee20cda71458d60985b3713028a7d6460b9e/static/install/index.html">4f3bee2</a> vom 2024-02-14. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -39,4 +39,4 @@ Wir empfehlen dringend, eine der offiziellen Installationsmethoden zu verwenden.
 
 Wenn Sie Probleme mit dem Installationsprozess haben, bitten Sie im [offiziellen GrapheneOS-Chat](https://grapheneos.org/contact#community) um Hilfe. Dort gibt es fast immer Leute, die bereit sind zu helfen. Bevor Sie um Hilfe bitten, versuchen Sie, der Anleitung selbst zu folgen und bitten Sie erst dann um Hilfe, wenn Sie nicht weiterkommen.
 
-Der Weg über die Kommandozeile ist eine Möglichkeit, GrapheneOS zu installieren, ohne unserer Serverinfrastruktur vertrauen zu müssen. Dies erfordert ein Betriebssystem mit den richtigen fastboot- und signify-Paketen sowie ein ausreichendes Verständnis der Abläufe, um nicht blindlings den Anweisungen unserer Website zu vertrauen. Für die meisten Benutzer ist der webbasierte Installationsansatz nicht weniger sicher und erfordert keine weitere Software als einen Browser mit WebUSB-Unterstützung.
+Der Weg über die Kommandozeile ist eine Möglichkeit, GrapheneOS zu installieren, ohne unserer Serverinfrastruktur vertrauen zu müssen. Dies erfordert ein Betriebssystem mit den richtigen fastboot- und OpenSSH-Paketen sowie ein ausreichendes Verständnis der Abläufe, um nicht blindlings den Anweisungen unserer Website zu vertrauen. Für die meisten Benutzer ist der webbasierte Installationsansatz nicht weniger sicher und erfordert keine weitere Software als einen Browser mit WebUSB-Unterstützung.

@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/211db6850e453b43d7de55469a3bae611cad19c1/static/install/cli.html">211db68</a> vom 2023-12-31. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/93036db66112859748d45eeb60bc024ef51a151f/static/install/cli.html">93036db</a> vom 2024-03-03. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -80,7 +80,7 @@ Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen
       <a href="#unlocking-the-bootloader">Den Bootloader entsperren</a>
     </li>
     <li>
-      <a href="#obtaining-signify">signify beschaffen</a>
+      <a href="#obtaining-openssh">OpenSSH beschaffen</a>
     </li>
     <li>
       <a href="#obtaining-factory-images">Factory Images beschaffen</a>
@@ -118,10 +118,10 @@ Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen
             </li>
       	  </ul>
         <li>
-          <a href="#replacing-grapheneos-with-the-stock-os">GrapheneOS durch das Standardbetriebssystem ersetzen</a>
+          <a href="#further-information">Weitere Informationen</a>
         </li>
         <li>
-          <a href="#further-information">Weitere Informationen</a>
+          <a href="#replacing-grapheneos-with-the-stock-os">GrapheneOS durch das Standardbetriebssystem ersetzen</a>
         </li>
       </ul>
   </ul>
@@ -143,7 +143,6 @@ Offiziell unterstützte Betriebssysteme für die CLI-Installationsmethode:
 * macOS Ventura (13)
 * macOS Sonoma (14)
 * Arch Linux
-* Debian 10 (buster)
 * Debian 11 (bullseye)
 * Debian 12 (bookworm)
 * Ubuntu 20.04 LTS
@@ -166,9 +165,9 @@ Es hat sich bewährt, das Gerät vor der Installation von GrapheneOS zu aktualis
 
 Die OEM-Entsperrung muss innerhalb des Betriebssystems aktiviert werden.
 
-Aktivieren Sie das Menü "Entwickleroptionen", indem Sie zu Einstellungen ➔ Über das Telefon/Tablet gehen und wiederholt auf den Menüeintrag "Build-Nummer" drücken, bis die Entwickleroptionen aktiviert sind.
+Aktivieren Sie das Menü "Entwickleroptionen", indem Sie zu <b>Einstellungen&#160;<span aria-label="and then">></span> Über das Telefon/Tablet</b> gehen und wiederholt auf den Menüeintrag <b>Build-Nummer</b> drücken, bis die Entwickleroptionen aktiviert sind.
 
-Gehen Sie dann zu Einstellungen ➔ System ➔ Entwickleroptionen und aktivieren Sie die Einstellung "OEM-Entsperrung". Bei Gerätevarianten (SKUs), die von Netzbetreibern als gesperrte Geräte verkauft werden können, erfordert die Aktivierung der "OEM-Entsperrung" einen Internetzugang, damit das Stock-Betriebssystem prüfen kann, ob das Gerät von einem Netzbetreiber als gesperrt verkauft wurde.
+Gehen Sie dann zu <b>Einstellungen&#160;<span aria-label="and then">></span> System&#160;<span aria-label="and then">></span> Entwickleroptionen</b> und aktivieren Sie die Einstellung <b>OEM-Entsperrung</b>. Bei Gerätevarianten (SKUs), die von Netzbetreibern als gesperrte Geräte verkauft werden können, erfordert die Aktivierung der <b>OEM-Entsperrung</b> einen Internetzugang, damit das Stock-Betriebssystem prüfen kann, ob das Gerät von einem Netzbetreiber als gesperrt verkauft wurde.
 
 Für das Pixel 6a wird die OEM-Entsperrung nicht mit der ab Werk installierten Version des Stock-Betriebssystems funktionieren. Sie müssen es mit einem Over-the-Air-Update auf die Version von Juni 2022 oder später aktualisieren. Nach der Aktualisierung müssen Sie das Gerät auf die Werkseinstellungen zurücksetzen, um die OEM-Entsperrung zu ermöglichen.
 
@@ -199,21 +198,21 @@ Wenn Ihr Betriebssystem keine brauchbare Version von fastboot enthält, können 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Debian und Ubuntu:
 
 	sudo apt install libarchive-tools
-	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-linux.zip
-	echo 'f2eee6e8220f3dfde6e1acc93c5b25d3d8bd215c0b03585b21665f1ea30d66ba  platform-tools_r34.0.4-linux.zip' | sha256sum -c
-	bsdtar xvf platform-tools_r34.0.4-linux.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.0-linux.zip
+	echo '62fc977c1b7622ef8dbd6fe1312987d9b139aa8a0b06e88573c1b60129399d49  platform-tools_r35.0.0-linux.zip' | sha256sum -c
+	bsdtar xvf platform-tools_r35.0.0-linux.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter macOS:
 
-	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-darwin.zip
-	echo 'SHA256 (platform-tools_r34.0.4-darwin.zip) = c60d9ee0acade673b649543b2d53c632ba54f9ca083ed612176105117fa16102' | shasum -c
-	tar xvf platform-tools_r34.0.4-darwin.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.0-darwin.zip
+	echo 'SHA256 (platform-tools_r35.0.0-darwin.zip) = 85c75ac31556dc95712cf1bdec592098e6c5067dc485356591d85932178bf8cd' | shasum -c
+	tar xvf platform-tools_r35.0.0-darwin.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Windows:
 
-	curl -O https://dl.google.com/android/repository/platform-tools_r34.0.4-windows.zip
-	(Get-FileHash platform-tools_r34.0.4-windows.zip).hash -eq "520a453af1d0baf1939a80038a816cb8de40d000542b1a71bf60ba6fc80784d9"
-	tar xvf platform-tools_r34.0.4-windows.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.0-windows.zip
+	(Get-FileHash platform-tools_r35.0.0-windows.zip).hash -eq "7ab78a8f8b305ae4d0de647d99c43599744de61a0838d3a47bda0cdffefee87e"
+	tar xvf platform-tools_r35.0.0-windows.zip
 	
 Als Nächstes fügen Sie die Tools zu Ihrem `PATH` in der aktuellen Shell hinzu, sodass sie ohne Angabe des Dateipfads verwendet werden können, was die Verwendung durch das Flash-Skript ermöglicht.
 
@@ -233,7 +232,7 @@ Dies ändert nur den `PATH` für die aktuelle Shell und muss erneut durchgeführ
 
 Beispiel für die Ausgabe nach dem Ausführen der obigen Anweisungen für die Standalone platform-tools:
 
-    fastboot version 34.0.4-10411341
+    fastboot version 35.0.0-11411520
     Installed as /home/username/platform-tools/fastboot
 
 <h2 id="flashing-as-non-root">Flash als Nicht-Root-Benutzer</h2>
@@ -286,20 +285,19 @@ Entsperren Sie den Bootloader, damit Sie das Betriebssystem und die Firmware fla
 
 Der Befehl muss auf dem Gerät bestätigt werden und löscht alle Daten. Verwenden Sie eine der Lautstärketasten, um Ihre Auswahl zu treffen, und die Einschalttaste, um diese zu bestätigen.
 
-<h2 id="obtaining-signify">signify beschaffen</h2>
+<h2 id="obtaining-openssh">OpenSSH beschaffen</h2>
 
-Auf den unterstützten Linux-Distributionen wird das signify-Tool verwendet, um den Download des Betriebssystems über die durch HTTPS gebotene Sicherheit hinaus zu überprüfen. Unter macOS und Windows sollten Sie dies überspringen. Es macht nur Sinn, dies zu tun, wenn Sie signify aus den Paketquellen der Distribution beziehen können. GrapheneOS-Releases werden auf unseren Servern gehostet und wir haben keine Mirrors von Drittanbietern.
+OpenSSH wird verwendet, um den Download des Betriebssystems über die durch HTTPS gebotene Sicherheit hinaus zu überprüfen.
+
+macOS und Windows enthalten OpenSSH bereits in ihrer Grundinstallation.
 
 Unter Arch Linux:
 
-    sudo pacman -S signify
+    sudo pacman -S openssh
 
 Unter Debian und Ubuntu:
 
-    sudo apt install signify-openbsd
-    alias signify=signify-openbsd
-
-Auf Debian-basierten Distributionen sind das Paket und der Befehl `signify` ein [nicht gepflegtes E-Mail-bezogenes Werkzeug zur Erzeugung von E-Mail-Signaturen (keine kryptographischen Signaturen)](http://signify.sourceforge.net/). Stellen Sie sicher, dass Sie `signify-openbsd` installieren.
+    sudo apt install openssh-client
 
 <h2 id="obtaining-factory-images">Factory Images beschaffen</h2>
 
@@ -307,27 +305,46 @@ Um mit dem Installationsprozess fortzufahren, müssen Sie die GrapheneOS Factory
 
 Sie können die Dateien entweder mit Ihrem Browser oder mit einem Befehl wie `curl` herunterladen. In der Regel ist es einfacher, die Kommandozeile zu verwenden, da Sie sie bereits für den Rest des Installationsprozesses nutzen. Daher verwendet diese Anleitung `curl`.
 
-Laden Sie [den öffentlichen Schlüssel der Factory Images (factory.pub)](https://releases.grapheneos.org/factory.pub) herunter, um die Factory Images zu verifizieren:
+Laden Sie [den öffentlichen Schlüssel der Factory Images (allowed_signers)](https://releases.grapheneos.org/allowed_signers) herunter, um die Factory Images zu verifizieren:
 
-    curl -O https://releases.grapheneos.org/factory.pub
+    curl -O https://releases.grapheneos.org/allowed_signers
 
-Das ist der Inhalt von `factory.pub`:
+Das ist der Inhalt von `allowed_signers`:
 
-    untrusted comment: GrapheneOS factory images public key
-    RWQZW9NItOuQYJ86EooQBxScfclrWiieJtAO9GpnfEjKbCO/3FriLGX3
+    contact@grapheneos.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIUg/m5CoP83b0rfSCzYSVA4cw4ir49io5GPoxbgxdJE
 
-Der öffentliche Schlüssel wurde auch auf dem offiziellen [@GrapheneOS-Twitter-Account](https://twitter.com/GrapheneOS/status/1145259815851253762), [dem /u/GrapheneOS-Reddit-Account](https://www.reddit.com/r/GrapheneOS/comments/c7gb3f/grapheneos_factory_images_are_now_signed_with/esewpm9) und [auf GitHub veröffentlicht](https://github.com/GrapheneOS/releases.grapheneos.org/blob/main/static/factory.pub). Wenn der aktuelle Signierschlüssel ersetzt wird, wird der neue Schlüssel mit diesem signiert.
+Andere Stellen an denen Sie den Signierschlüssel erhalten können:
+<ul>
+<li><a href="https://bsky.app/profile/grapheneos.org/post/3kleyygkptm2x">Bluesky</a></li>
+<li><a href="https://twitter.com/GrapheneOS/status/1757758688952009209">Twitter</a></li>
+<li><a href="https://github.com/GrapheneOS/releases.grapheneos.org/blob/main/static/allowed_signers">GitHub</a></li>
+</ul>
 
-Laden Sie die Factory Images für das Gerät von der [Unterseite "Releases"](https://grapheneos.org/releases) herunter. Um beispielsweise die Version 2021110122 für ein Gerät mit dem Codenamen `DEVICE_NAME` herunterzuladen:
+Der aktuelle öffentliche Schlüssel wurde mit dem vorherigen signify-Schlüssel signiert. Wenn Sie bereits im Besitz des vorherigen signify-Schlüssels (factory.pub) sind und den neuen Schlüssel damit verifizieren wollen:
 
-    curl -O https://releases.grapheneos.org/DEVICE_NAME-factory-2021110122.zip
-    curl -O https://releases.grapheneos.org/DEVICE_NAME-factory-2021110122.zip.sig
+    curl -O https://releases.grapheneos.org/allowed_signers.sig
+    signify -V -m allowed_signers -x allowed_signers.sig -p factory.pub
 
-Überprüfen Sie die Factory Images anhand der Signatur, wenn Sie `signify` aus vertrauenswürdigen Paketquellen beziehen konnten (siehe oben), andernfalls fahren Sie mit dem nächsten Abschnitt fort, ohne dies zu tun:
+Wenn der aktuelle Signierschlüssel ersetzt wird, wird der neue Schlüssel mit diesem signiert.
 
-    signify -Cqp factory.pub -x DEVICE_NAME-factory-2021110122.zip.sig && echo verified
+Laden Sie die Factory Images für das Gerät von der [Unterseite "Releases"](https://grapheneos.org/releases) herunter. Um zum Beispiel die `VERSION`-Version für ein Gerät mit dem Codenamen `DEVICE_NAME` herunterzuladen:
 
-Wenn die Überprüfung erfolgreich war, wird `verified` ausgegeben. Wenn etwas schief geht, wird eine Fehlermeldung und nicht `verified` ausgegeben.
+    curl -O https://releases.grapheneos.org/DEVICE_NAME-factory-VERSION.zip
+    curl -O https://releases.grapheneos.org/DEVICE_NAME-factory-VERSION.zip.sig
+
+Überprüfen Sie anschließend die Images anhand der Signatur.
+
+Unter Linux und macOS:
+
+    ssh-keygen -Y verify -f allowed_signers -I contact@grapheneos.org -n "factory images" -s DEVICE_NAME-factory-VERSION.zip.sig < DEVICE_NAME-factory-VERSION.zip
+
+Unter Windows:
+
+    cmd /c 'ssh-keygen -Y verify -f allowed_signers -I contact@grapheneos.org -n "factory images" -s DEVICE_NAME-factory-VERSION.zip.sig < DEVICE_NAME-factory-VERSION.zip'
+
+Wenn die Überprüfung erfolgreich war, wird die folgende Ausgabe angezeigt:
+
+    Good "factory images" signature for contact@grapheneos.org with ED25519 key SHA256:AhgHif0mei+9aNyKLfMZBh2yptHdw/aN7Tlh/j2eFwM
 
 <h2 id="flashing-factory-images">Factory Images flashen</h2>
 
@@ -337,15 +354,15 @@ Extrahieren Sie als Nächstes die Factory Images.
 
 Unter Linux:
 
-    bsdtar xvf DEVICE_NAME-factory-2021110122.zip
+    bsdtar xvf DEVICE_NAME-factory-VERSION.zip
 
 Unter macOS und Windows:
 
-    tar xvf DEVICE_NAME-factory-2021110122.zip
+    tar xvf DEVICE_NAME-factory-VERSION.zip
 
 Wechseln Sie in das Verzeichnis:
 
-    cd DEVICE_NAME-factory-2021110122
+    cd DEVICE_NAME-factory-VERSION
 
 Flashen Sie die Images mit dem flash-all-Script in dem Verzeichnis.
 

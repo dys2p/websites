@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/b4bce9b51036dccb80c740e2451d7c3a94985d75/static/install/web.html">b4bce9b</a> vom 2023-12-31. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-web/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/93036db66112859748d45eeb60bc024ef51a151f/static/install/web.html">93036db</a> vom 2024-03-03. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-web/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -94,10 +94,10 @@ Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen
             </li>
       	  </ul>
         <li>
-          <a href="#replacing-grapheneos-with-the-stock-os">GrapheneOS durch das Standardbetriebssystem ersetzen</a>
+          <a href="#further-information">Weitere Informationen</a>
         </li>
         <li>
-          <a href="#further-information">Weitere Informationen</a>
+          <a href="#replacing-grapheneos-with-the-stock-os">GrapheneOS durch das Standardbetriebssystem ersetzen</a>
         </li>
       </ul>
   </ul>
@@ -119,7 +119,6 @@ Offiziell unterstützte Betriebssysteme für die Web-Installationsmethode:
 * macOS Ventura (13)
 * macOS Sonoma (14)
 * Arch Linux
-* Debian 10 (buster)
 * Debian 11 (bullseye)
 * Debian 12 (bookworm)
 * Ubuntu 20.04 LTS
@@ -160,9 +159,9 @@ Es hat sich bewährt, das Gerät vor der Installation von GrapheneOS zu aktualis
 
 Die OEM-Entsperrung muss innerhalb des Betriebssystems aktiviert werden.
 
-Aktivieren Sie das Menü "Entwickleroptionen", indem Sie zu Einstellungen ➔ Über das Telefon/Tablet gehen und wiederholt auf den Menüeintrag "Build-Nummer" drücken, bis die Entwickleroptionen aktiviert sind.
+Aktivieren Sie das Menü "Entwickleroptionen", indem Sie zu <b>Einstellungen&#160;<span aria-label="and then">></span> Über das Telefon/Tablet</b> gehen und wiederholt auf den Menüeintrag <b>Build-Nummer</b> drücken, bis die Entwickleroptionen aktiviert sind.
 
-Gehen Sie dann zu Einstellungen ➔ System ➔ Entwickleroptionen und aktivieren Sie die Einstellung "OEM-Entsperrung". Bei Gerätevarianten (SKUs), die von Netzbetreibern als gesperrte Geräte verkauft werden können, erfordert die Aktivierung der "OEM-Entsperrung" einen Internetzugang, damit das Stock-Betriebssystem prüfen kann, ob das Gerät von einem Netzbetreiber als gesperrt verkauft wurde.
+Gehen Sie dann zu <b>Einstellungen&#160;<span aria-label="and then">></span> System&#160;<span aria-label="and then">></span> Entwickleroptionen</b> und aktivieren Sie die Einstellung <b>OEM-Entsperrung</b>. Bei Gerätevarianten (SKUs), die von Netzbetreibern als gesperrte Geräte verkauft werden können, erfordert die Aktivierung der <b>OEM-Entsperrung</b> einen Internetzugang, damit das Stock-Betriebssystem prüfen kann, ob das Gerät von einem Netzbetreiber als gesperrt verkauft wurde.
 
 Für das Pixel 6a wird die OEM-Entsperrung nicht mit der ab Werk installierten Version des Stock-Betriebssystems funktionieren. Sie müssen es mit einem Over-the-Air-Update auf die Version von Juni 2022 oder später aktualisieren. Nach der Aktualisierung müssen Sie das Gerät auf die Werkseinstellungen zurücksetzen, um die OEM-Entsperrung zu ermöglichen.
 
