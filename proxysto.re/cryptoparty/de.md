@@ -41,11 +41,10 @@ Die Sprechstunde findet **jeden 1. und 3. Montag im Monat** von **16:00 bis 18:0
 
 Die nächsten Termine:
 
-* 15.01.2024
-* 05.02.2024
-* 19.02.2024
-* 04.03.2024
-* 18.03.2024
+* 15.04.2024
+* 06.05.2024
+* 03.06.2024
+* 17.06.2024
 
 Keine Zeit am Montag oder wir konnten dir nicht helfen? Dann schau doch bei der [Techniksprechstunde in der Dezentrale](https://dezentrale.space/events/techniksprechstunde/) vorbei. Diese findet jeden Donnerstag von 17:30 Uhr bis 21:00 Uhr statt.
 
