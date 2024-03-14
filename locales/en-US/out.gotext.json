@@ -2,6 +2,76 @@
     "language": "en-US",
     "messages": [
         {
+            "id": "Legal",
+            "message": "Legal",
+            "translation": "Legal",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Terms and Conditions",
+            "message": "Terms and Conditions",
+            "translation": "Terms and Conditions",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Privacy policy",
+            "message": "Privacy policy",
+            "translation": "Privacy policy",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Imprint",
+            "message": "Imprint",
+            "translation": "Imprint",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Cancellation Policy",
+            "message": "Cancellation Policy",
+            "translation": "Cancellation Policy",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Payment",
+            "message": "Payment",
+            "translation": "Payment",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Cash",
+            "message": "Cash",
+            "translation": "Cash",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Cash by mail in 20 currencies",
+            "message": "Cash by mail in 20 currencies",
+            "translation": "Cash by mail in 20 currencies",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Monero and Bitcoin",
+            "message": "Monero and Bitcoin",
+            "translation": "Monero and Bitcoin",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "SEPA bank transfer",
+            "message": "SEPA bank transfer",
+            "translation": "SEPA bank transfer",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
             "id": "All Services and Projects",
             "message": "All Services and Projects",
             "translation": "All Services and Projects",
@@ -51,44 +121,51 @@
             "fuzzy": true
         },
         {
-            "id": "Payment",
-            "message": "Payment",
-            "translation": "Payment",
+            "id": "Contact \u0026 News",
+            "message": "Contact \u0026 News",
+            "translation": "Contact \u0026 News",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "Cash payment",
-            "message": "Cash payment",
-            "translation": "Cash payment",
+            "id": "Contact us",
+            "message": "Contact us",
+            "translation": "Contact us",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "Cash by mail in 20 currencies",
-            "message": "Cash by mail in 20 currencies",
-            "translation": "Cash by mail in 20 currencies",
+            "id": "Germany",
+            "message": "Germany",
+            "translation": "Germany",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "Monero and Bitcoin",
-            "message": "Monero and Bitcoin",
-            "translation": "Monero and Bitcoin",
+            "id": "Mon+Thu 10am-6pm",
+            "message": "Mon+Thu 10am-6pm",
+            "translation": "Mon+Thu 10am-6pm",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "SEPA bank transfer",
-            "message": "SEPA bank transfer",
-            "translation": "SEPA bank transfer",
+            "id": "Tue+Wed+Fri+Sat 10am-2pm",
+            "message": "Tue+Wed+Fri+Sat 10am-2pm",
+            "translation": "Tue+Wed+Fri+Sat 10am-2pm",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "PayPal",
-            "message": "PayPal",
-            "translation": "PayPal",
+            "id": "and by arrangement",
+            "message": "and by arrangement",
+            "translation": "and by arrangement",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Got an idea or found an error? Drop us a note!",
+            "message": "Got an idea or found an error? Drop us a note!",
+            "translation": "Got an idea or found an error? Drop us a note!",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
@@ -128,37 +205,37 @@
             "fuzzy": true
         },
         {
-            "id": "Legal",
-            "message": "Legal",
-            "translation": "Legal",
+            "id": "UPS parcel directly from our contractor",
+            "message": "UPS parcel directly from our contractor",
+            "translation": "UPS parcel directly from our contractor",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "Terms and Conditions",
-            "message": "Terms and Conditions",
-            "translation": "Terms and Conditions",
+            "id": "Cash payment in our store",
+            "message": "Cash payment in our store",
+            "translation": "Cash payment in our store",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "Privacy policy",
-            "message": "Privacy policy",
-            "translation": "Privacy policy",
+            "id": "PayPal",
+            "message": "PayPal",
+            "translation": "PayPal",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "Imprint",
-            "message": "Imprint",
-            "translation": "Imprint",
+            "id": "Concept",
+            "message": "Concept",
+            "translation": "Concept",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
         {
-            "id": "Cancellation Policy",
-            "message": "Cancellation Policy",
-            "translation": "Cancellation Policy",
+            "id": "Support us",
+            "message": "Support us",
+            "translation": "Support us",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
@@ -166,41 +243,6 @@
             "id": "Battery Disposal",
             "message": "Battery Disposal",
             "translation": "Battery Disposal",
-            "translatorComment": "Copied from source.",
-            "fuzzy": true
-        },
-        {
-            "id": "Contact \u0026 News",
-            "message": "Contact \u0026 News",
-            "translation": "Contact \u0026 News",
-            "translatorComment": "Copied from source.",
-            "fuzzy": true
-        },
-        {
-            "id": "Contact us",
-            "message": "Contact us",
-            "translation": "Contact us",
-            "translatorComment": "Copied from source.",
-            "fuzzy": true
-        },
-        {
-            "id": "Germany",
-            "message": "Germany",
-            "translation": "Germany",
-            "translatorComment": "Copied from source.",
-            "fuzzy": true
-        },
-        {
-            "id": "and by arrangement",
-            "message": "and by arrangement",
-            "translation": "and by arrangement",
-            "translatorComment": "Copied from source.",
-            "fuzzy": true
-        },
-        {
-            "id": "Got an idea or found an error? Drop us a note!",
-            "message": "Got an idea or found an error? Drop us a note!",
-            "translation": "Got an idea or found an error? Drop us a note!",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         }

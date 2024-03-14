@@ -2,6 +2,56 @@
     "language": "de-DE",
     "messages": [
         {
+            "id": "Legal",
+            "message": "Legal",
+            "translation": "Rechtliches"
+        },
+        {
+            "id": "Terms and Conditions",
+            "message": "Terms and Conditions",
+            "translation": "AGB"
+        },
+        {
+            "id": "Privacy policy",
+            "message": "Privacy policy",
+            "translation": "Datenschutz"
+        },
+        {
+            "id": "Imprint",
+            "message": "Imprint",
+            "translation": "Impressum"
+        },
+        {
+            "id": "Cancellation Policy",
+            "message": "Cancellation Policy",
+            "translation": "Widerrufsbelehrung"
+        },
+        {
+            "id": "Payment",
+            "message": "Payment",
+            "translation": "Bezahlung"
+        },
+        {
+            "id": "Cash",
+            "message": "Cash",
+            "translation": "Bargeld"
+        },
+        {
+            "id": "Cash by mail in 20 currencies",
+            "message": "Cash by mail in 20 currencies",
+            "translation": "Bargeld per Post in 20 Währungen"
+        },
+        {
+            "id": "Monero and Bitcoin",
+            "message": "Monero and Bitcoin",
+            "translation": "Monero und Bitcoin"
+        },
+        {
+            "id": "SEPA bank transfer",
+            "message": "SEPA bank transfer",
+            "translation": "SEPA-Überweisung"
+        },
+        {
             "id": "All Services and Projects",
             "message": "All Services and Projects",
             "translation": "Alle Angebote und Projekte"
@@ -37,34 +87,39 @@
             "translation": "Onlinedruckerei"
         },
         {
-            "id": "Payment",
-            "message": "Payment",
-            "translation": "Bezahlung"
+            "id": "Contact \u0026 News",
+            "message": "Contact \u0026 News",
+            "translation": "Kontakt \u0026 News"
         },
         {
-            "id": "Cash payment",
-            "message": "Cash payment",
-            "translation": "Barzahlung im Ladengeschäft"
+            "id": "Contact us",
+            "message": "Contact us",
+            "translation": "Kontakt"
         },
         {
-            "id": "Cash by mail in 20 currencies",
-            "message": "Cash by mail in 20 currencies",
-            "translation": "Bargeld per Post in 20 Währungen"
+            "id": "Germany",
+            "message": "Germany",
+            "translation": "Deutschland"
         },
         {
-            "id": "Monero and Bitcoin",
-            "message": "Monero and Bitcoin",
-            "translation": "Monero und Bitcoin"
+            "id": "Mon+Thu 10am-6pm",
+            "message": "Mon+Thu 10am-6pm",
+            "translation": "Mo+Do 10-18 Uhr"
         },
         {
-            "id": "SEPA bank transfer",
-            "message": "SEPA bank transfer",
-            "translation": "SEPA-Überweisung"
+            "id": "Tue+Wed+Fri+Sat 10am-2pm",
+            "message": "Tue+Wed+Fri+Sat 10am-2pm",
+            "translation": "Di+Mi+Fr+Sa 10-14 Uhr"
         },
         {
-            "id": "PayPal",
-            "message": "PayPal",
-            "translation": "PayPal"
+            "id": "and by arrangement",
+            "message": "and by arrangement",
+            "translation": "und nach Vereinbarung"
+        },
+        {
+            "id": "Got an idea or found an error? Drop us a note!",
+            "message": "Got an idea or found an error? Drop us a note!",
+            "translation": "Fehler oder Hinweise? Schreib uns!"
         },
         {
             "id": "Delivery",
@@ -92,59 +147,34 @@
             "translation": "DHL-Paket digital frankiert"
         },
         {
-            "id": "Legal",
-            "message": "Legal",
-            "translation": "Rechtliches"
+            "id": "UPS parcel directly from our contractor",
+            "message": "UPS parcel directly from our contractor",
+            "translation": "UPS-Paket direkt von der Druckerei"
         },
         {
-            "id": "Terms and Conditions",
-            "message": "Terms and Conditions",
-            "translation": "AGB"
+            "id": "Cash payment in our store",
+            "message": "Cash payment in our store",
+            "translation": "Barzahlung im Ladengeschäft"
         },
         {
-            "id": "Privacy policy",
-            "message": "Privacy policy",
-            "translation": "Datenschutz"
+            "id": "PayPal",
+            "message": "PayPal",
+            "translation": "PayPal"
         },
         {
-            "id": "Imprint",
-            "message": "Imprint",
-            "translation": "Impressum"
+            "id": "Concept",
+            "message": "Concept",
+            "translation": "Konzept"
         },
         {
-            "id": "Cancellation Policy",
-            "message": "Cancellation Policy",
-            "translation": "Widerrufsbelehrung"
+            "id": "Support us",
+            "message": "Support us",
+            "translation": "Unterstütze uns"
         },
         {
             "id": "Battery Disposal",
             "message": "Battery Disposal",
             "translation": "Hinweise zur Batterieentsorgung"
-        },
-        {
-            "id": "Contact \u0026 News",
-            "message": "Contact \u0026 News",
-            "translation": "Kontakt \u0026 News"
-        },
-        {
-            "id": "Contact us",
-            "message": "Contact us",
-            "translation": "Kontakt"
-        },
-        {
-            "id": "Germany",
-            "message": "Germany",
-            "translation": "Deutschland"
-        },
-        {
-            "id": "and by arrangement",
-            "message": "and by arrangement",
-            "translation": "und nach Vereinbarung"
-        },
-        {
-            "id": "Got an idea or found an error? Drop us a note!",
-            "message": "Got an idea or found an error? Drop us a note!",
-            "translation": "Fehler oder Hinweise? Schreib uns!"
         }
     ]
 }
