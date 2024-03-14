@@ -1,1 +1,10 @@
-../proxysto.re/delivery.html
+{{define "delivery"}}
+	<h4><a href="/{{.Lang.Prefix}}/delivery.html">{{.Tr "Delivery"}}</a></h4>
+	<ul>
+		<li>{{.Tr "Pickup in our local store"}}</li>
+		<li>{{.Tr "Pickup from locker in our local store"}}</li>
+		<li>{{.Tr "DHL parcel, franked handwritten"}}</li>
+		<li>{{.Tr "DHL parcel, franked digitally"}}</li>
+		<li>{{.Tr "UPS parcel directly from our contractor"}}</li>
+	</ul>
+{{end}}
