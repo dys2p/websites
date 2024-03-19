@@ -252,7 +252,7 @@ Das [Unabhängige Landeszentrum für Datenschutz Schleswig-Holstein (ULD)](https
 
 Bei Experimenten hat Markus Kuhn die [EURion-Konstellation](https://de.wikipedia.org/wiki/EURion-Konstellation) auf Euro-Banknoten entdeckt und [im Jahr 2002 veröffentlicht](https://www.cl.cam.ac.uk/%7Emgk25/eurion.pdf). Das Muster findet sich auch auf [den Banknoten anderer Länder](https://people.duke.edu/~ng46/collections/steg-eurion-constellation.htm). Es soll im Zusammenspiel mit unterstützender Soft- und Firmware von Hard- und Softwareherstellern das Scannen, Bearbeiten und Drucken von Banknoten verhindern. Weitere Untersuchungen von Steven J. Murdoch und Ben Laurie zeigen, dass die EURion-Konstellation nicht das einzige Merkmal ist, an dem Geldscheine erkannt werden.<sup><a href="#fn7" id="fnref7">7</a></sup> <sup><a href="#fn8" id="fnref8">8</a></sup> <sup><a href="#fn9" id="fnref9">9</a></sup>
 
-![Meme](../assets/images/print-scan-traces/meme-photoshop.webp)
+![Meme](/assets/images/print-scan-traces/meme-photoshop.webp)
 
 Sowohl unsere eigenen Untersuchungen als auch die des Unabhängigen Landeszentrums für Datenschutz Schleswig-Holstein bestätigen dies. Wird ein Teil der EURion-Konstellation, welcher sich bei neuen Euro-Scheinen zwischen den Ziffern befindet, vom Gerät identifiziert, lässt es beim Drucken entweder Bereiche aus oder verändert das Gesamtbild etwa durch Schwärzungen oder Streifen. Wir haben dies mit der Vorderseite von Euro-Banknoten von 5 bis 50 Euro ausprobiert und dabei festgestellt, dass beim Abdecken eines Teils der EURion-Konstellation die Identifizierung fehlschlägt und keine weiteren Stellen verändert werden.
 
@@ -302,13 +302,13 @@ Für sämtliche nachfolgenden Untersuchungen haben wir, sofern nicht anders bena
 
 Wir haben zunächst unbedruckte Blätter genommen, eine Stelle markiert und diese vor und nach dem Druck mit einem Taschenmikroskop (Vergrößerung 60 bis 120) untersucht. Damit konnten wir die Ergebnisse des ULD bei uns bestätigen. Auf Ausdrucken, die mit dem Profil <q>Farbe</q> gedruckt wurden, haben wir mehrere winzige gelbe Punkte festgestellt. Bei Ausdrucken, die mit dem Farbprofil <q>Schwarz</q> erstellt wurden, waren diese nicht vorhanden.
 
-![Gelbe Punkte unter dem Mikroskop](../assets/images/print-scan-traces/microscope-1.png) ![Gelbe Punkte unter dem Mikroskop](../assets/images/print-scan-traces/microscope-2.png)
+![Gelbe Punkte unter dem Mikroskop](/assets/images/print-scan-traces/microscope-1.png) ![Gelbe Punkte unter dem Mikroskop](/assets/images/print-scan-traces/microscope-2.png)
 
 <h3 id="untersuchung-mit-schwarzlicht">Untersuchung mit Schwarzlicht</h3>
 
 Im Gegensatz zu dem Ergebnis des ULD konnten wir unter Schwarzlicht mit bloßem Auge keine gelben Punkte sichtbar machen. Zu besseren Veranschaulichung nachfolgend ein Foto der vergrößerten und mit Schwarzlicht angestrahlten Aufnahme der Untersuchung des ULD.
 
-![Bildquelle: [Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein](https://www.datenschutzzentrum.de/uploads/it/2019_ULD_Report-Yellow-Dots.pdf)](../assets/images/print-scan-traces/uv-uld.jpg)
+![Bildquelle: [Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein](https://www.datenschutzzentrum.de/uploads/it/2019_ULD_Report-Yellow-Dots.pdf)](/assets/images/print-scan-traces/uv-uld.jpg)
 
 <h3 id="untersuchung-am-computer">Untersuchung am Computer</h3>
 
@@ -327,7 +327,7 @@ Wir haben mit [GIMP (GNU Image Manipulation Program)](https://www.gimp.org) dies
 5. ggf. weitere Anpassungen z. B. über die Farbkurven
 6. Farben > Komponenten > Mono Mixer: Blaukanal hervorheben, z. B. mit den Werten 0, 0, 1
 
-![Workflow in GIMP](../assets/images/print-scan-traces/gimp.webp)
+![Workflow in GIMP](/assets/images/print-scan-traces/gimp.webp)
 
 Ein vereinfachter Workflow, der hier jedoch nicht zur Anwendung kam, kann wie folgt aussehen:
 
@@ -337,7 +337,7 @@ Ein vereinfachter Workflow, der hier jedoch nicht zur Anwendung kam, kann wie fo
 
 Je höher die Auflösung (300, 600, 1200, 2400 dpi), desto besser lässt sich das Muster erkennen und untersuchen:
 
-![Unterschiede in der Scan-Auflösung](../assets/images/print-scan-traces/scan-resolution.webp)
+![Unterschiede in der Scan-Auflösung](/assets/images/print-scan-traces/scan-resolution.webp)
 
 Wir haben Ausdrucke vom Computer und vom USB-Stick sowie Kopien mit einer Auflösung von 600x600 dpi gescannt und in GIMP bearbeitet, um sie auf Machine Identification Codes zu untersuchen. In den Druckmodi <q>Einzelfarbe</q> und <q>Zwei Farben</q> haben wir nur einen Teil der verfügbaren Farben untersucht.
 
@@ -426,7 +426,7 @@ Alle festgestellten Muster sind sogenannte <dfn>skewed small patterns</dfn>, wel
 
 Wir können die Ergebnisse dieser Arbeiten bestätigen: Wir finden ein Muster aus 18 Punkten vor, die unserer Einschätzung nach in einem Raster von 16x32 angeordnet sind, wahrscheinlich die Seriennummer unseres Gerätes (JWF11162) repräsentieren und sich über die gesamte Seite wiederholen. Das Muster ändert sich nicht mit der Zeit, dem Datum oder dem Inhalt des gedruckten Dokuments. Es hat die Form eines um etwa 30 Grad geneigten Parallelogramms. Die Ausrichtung, Start und Ende könnten jedoch auch anders als hier abgebildet sein. Das folgende Bild zeigt vier Wiederholungen des Musters, die wir unterschiedlich eingefärbt haben.
 
-![Hervorhebung von vier Wiederholungen des Musters in verschiedenen Farben](../assets/images/print-scan-traces/canon-points4x18.jpg)
+![Hervorhebung von vier Wiederholungen des Musters in verschiedenen Farben](/assets/images/print-scan-traces/canon-points4x18.jpg)
 
 <h3 id="mics-in-freier-wildbahn">MICs in freier Wildbahn</h3>
 
@@ -454,7 +454,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>002</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-002.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-002.png"></td>
       </tr>
       <tr>
         <td>003</td>
@@ -490,7 +490,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>008</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-008.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-008.png"></td>
       </tr>
       <tr>
         <td>009</td>
@@ -568,7 +568,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>021</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-021.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-021.png"></td>
       </tr>
       <tr>
         <td>022</td>
@@ -640,7 +640,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>033</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-033.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-033.png"></td>
       </tr>
       <tr>
         <td>034</td>
@@ -664,7 +664,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>037</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-037.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-037.png"></td>
       </tr>
       <tr>
         <td>038</td>
@@ -676,7 +676,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>039</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-039.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-039.png"></td>
       </tr>
       <tr>
         <td>040</td>
@@ -694,19 +694,19 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>042</td>
         <td>SW</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-042.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-042.png"></td>
       </tr>
       <tr>
         <td>043</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-043.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-043.png"></td>
       </tr>
       <tr>
         <td>044</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-044.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-044.png"></td>
       </tr>
       <tr>
         <td>045</td>
@@ -796,7 +796,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>059</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-059.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-059.png"></td>
       </tr>
       <tr>
         <td>060</td>
@@ -880,7 +880,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>073</td>
         <td>SW</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-073.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-073.png"></td>
       </tr>
       <tr>
         <td>074</td>
@@ -898,7 +898,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>076</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-076.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-076.png"></td>
       </tr>
       <tr>
         <td>077</td>
@@ -958,7 +958,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>086</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-086.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-086.png"></td>
       </tr>
       <tr>
         <td>087</td>
@@ -982,7 +982,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>090</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-090.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-090.png"></td>
       </tr>
       <tr>
         <td>091</td>
@@ -994,7 +994,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>092</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-092.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-092.png"></td>
       </tr>
       <tr>
         <td>093</td>
@@ -1018,7 +1018,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>096</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-096.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-096.png"></td>
       </tr>
       <tr>
         <td>097</td>
@@ -1048,7 +1048,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>101</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-101.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-101.png"></td>
       </tr>
       <tr>
         <td>102</td>
@@ -1216,13 +1216,13 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>129</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-129.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-129.png"></td>
       </tr>
       <tr>
         <td>130</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-130.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-130.png"></td>
       </tr>
       <tr>
         <td>131</td>
@@ -1270,7 +1270,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>138</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-138.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-138.png"></td>
       </tr>
       <tr>
         <td>139</td>
@@ -1312,13 +1312,13 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>145</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-145.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-145.png"></td>
       </tr>
       <tr>
         <td>146</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-146.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-146.png"></td>
       </tr>
       <tr>
         <td>147</td>
@@ -1396,7 +1396,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>159</td>
         <td>Sw</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-159.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-159.png"></td>
       </tr>
       <tr>
         <td>160</td>
@@ -1480,19 +1480,19 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>173</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-173.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-173.png"></td>
       </tr>
       <tr>
         <td>174</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-174.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-174.png"></td>
       </tr>
       <tr>
         <td>175</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-175.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-175.png"></td>
       </tr>
       <tr>
         <td>176</td>
@@ -1546,25 +1546,25 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>184</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-184.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-184.png"></td>
       </tr>
       <tr>
         <td>185</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-185.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-185.png"></td>
       </tr>
       <tr>
         <td>186</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-186.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-186.png"></td>
       </tr>
       <tr>
         <td>187</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-187.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-187.png"></td>
       </tr>
       <tr>
         <td>188</td>
@@ -1576,7 +1576,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>189</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-189.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-189.png"></td>
       </tr>
       <tr>
         <td>190</td>
@@ -1594,7 +1594,7 @@ Um festzustellen, wie häufig MICs "in der freien Wildbahn" anzutreffen sind, ha
         <td>192</td>
         <td>Farbe</td>
         <td><strong>MIC festgestellt</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-192.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-192.png"></td>
       </tr>
       <tr>
         <td>193</td>
@@ -1778,7 +1778,7 @@ Manche Dateisysteme speichern mehrere Zeitstempel, die manchmal übersehen werde
 
 Während unserer Untersuchungen mit dem Mikroskop haben wir festgestellt, dass auf dem Großteil der untersuchten Papiere (DIN A4 und A3) und auch neue, aus der Originalverpackung entnommene unbedruckte Blätter (Recyclingpapier ebenso wie gebleichtes weißes) kleine blaue, manchmal violett erscheinende Punkte zu sehen sind. Wir haben es leider nicht geschafft, diese Punkte mittels Scans und Bildbearbeitung sichtbar zu machen. Die Menge und Anordnung der Punkte erscheint uns bei diesen stichprobenartigen Sichtungen nicht wiederholend und teilweise sehr unterschiedlich, weshalb wir unsicher sind, ob es sich dabei beispielsweise um einen Code handelt, der von Papierherstellern dem Papier beigefügt wird, oder um zufällige Artefakte, die beim Herstellungsprozess entstehen.
 
-![Blaue Punkte auf vielen Papiersorten](../assets/images/print-scan-traces/blue-dots.png)
+![Blaue Punkte auf vielen Papiersorten](/assets/images/print-scan-traces/blue-dots.png)
 
 Der Vollständigkeit halber sei an dieser Stelle erwähnt, dass auch Papiere forensisch analyisiert werden können, worauf wir hier jedoch nicht weiter eingehen.
 

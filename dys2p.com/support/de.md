@@ -78,10 +78,10 @@ Das Spendenziel für den Aktenvernichter wurde am 5. Mai 2021 durch eine Einzels
 
 <div class="row">
 	<div class="col-sm-6 mb-3">
-		<img src="../assets/images/paper-shredder-1.jpg" class="img-fluid">
+		<img src="/assets/images/paper-shredder-1.jpg" class="img-fluid">
 	</div>
 	<div class="col-sm-6 mb-3">
-		<img src="../assets/images/paper-shredder-2.jpg" class="img-fluid">
+		<img src="/assets/images/paper-shredder-2.jpg" class="img-fluid">
 	</div>
 </div>
 

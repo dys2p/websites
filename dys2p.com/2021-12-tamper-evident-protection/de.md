@@ -134,7 +134,7 @@ Während die US-Regierung seit Jahren behauptet, dass chinesische Firmen Überwa
 > Laut diesen sei es üblich, unter anderem Server, Router und andere Netzwerktechnik vor der Ausfuhr in Drittstaaten mit
 > Abhörtechnik zu präparieren. Danach werden die Geräte neu verpackt und wie geplant versendet.
 
-![TAO](../assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
+![TAO](/assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
 
 Es ist anzunehmen, dass derartige Angriffe auch in anderen Staaten stattfinden – sei es gegen Einzelpersonen oder großflächiger. [The Intercept veröffentlichte 2019 einen guten Artikel](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) zu Lieferkettenangriffen, Microsoft begann im selben Jahr eine eigene Artikelreihe: [Teil 1](http://microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Teil 2](https://web.archive.org/web/20210226030901/https://www.microsoft.com/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/) und [Teil 3](https://web.archive.org/web/20210303150737/https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
 
@@ -176,7 +176,7 @@ Bei dem von [Mullvad VPN beschriebenen Verfahren](https://mullvad.net/en/help/ho
 
 Das nachfolgende Bild ist eine Vorher-Nachher-Aufnahme eines unserer ersten Versuche. Bis auf 3-4 Glitzer-Elemente am linken oberen Rand des Aufklebers sind alle weiteren nach wie vor an der gleichen Stelle. In folgenden Versuchen konnte dies weiter reduziert werden, sodass wir dieses Verfahren nur als bedingt geeignet einstufen.
 
-![Vergleich](../assets/images/tamper-evident-protection/vergleich_versiegelt.png)
+![Vergleich](/assets/images/tamper-evident-protection/vergleich_versiegelt.png)
 
 Die linke Aufnahme zeigt eine mit dem Nagellack von Mullvad VPN versiegelte Schraube. Die rechte Aufnahme entstand, nachdem diese Versiegelung einmal wie oben beschrieben geöffnet wurde. Im linken oberen Teil der rechten Aufnahme ist zu erkennen, dass die Anordnung der Elemente an der Kante des Aufklebers etwas verändert ist. Die beiden größeren Elemente (linker Rand mittig und unten) wurden ebenfalls gebrochen, jedoch danach wieder auf ihre alte Position gebracht. In weiteren Versuchen haben wir ähnliche Ergebnisse erzielt. Ausschlaggebend ist bei diesem Verfahren die Menge der Elemente auf der Kante des Aufklebers. Zudem gibt es spezielle Siegel-Aufkleber, die beim Abziehen kaputt gehen und für dieses Verfahren vermutlich besser geeignet sind.
 
@@ -214,67 +214,67 @@ Um das Mischverhalten zu testen, waren für uns insbesondere die ersten drei Pun
 
 <h4 id="rote-linsen-und-belugalinsen">Rote Linsen & Belugalinsen</h4>
 
-![Linsen](../assets/images/tamper-evident-protection/linsen_01.jpg)
+![Linsen](/assets/images/tamper-evident-protection/linsen_01.jpg)
 
 Die Linsen haben eine gute Größe, ein gutes Mischverhalten und bilden ein kontrastreiches Mosaik.
 
 <h4 id="gelbe-erbsen-und-weiße-bohnen">Gelbe Erbsen & weiße Bohnen</h4>
 
-![Erbsen & Bohnen](../assets/images/tamper-evident-protection/eb_01.jpg)
+![Erbsen & Bohnen](/assets/images/tamper-evident-protection/eb_01.jpg)
 
 Sowohl die gelben Erbsen als auch die weißen Bohnen haben eine gute Größe, ein gutes Mischverhalten und bilden ein kontrastreiches Mosaik.
 
 <h4 id="gefaerbter-reis">Gefärbter Reis</h4>
 
-![Reis](../assets/images/tamper-evident-protection/reis_01.jpg)
+![Reis](/assets/images/tamper-evident-protection/reis_01.jpg)
 
 Der Reis ist etwas feinkörniger als die beiden zuvor genannten Substanzen. Er hat jedoch den Vorteil, dass man sich die gewünschten Farben selbst mit Lebensmittelfarbe (mehr dazu weiter unten) zusammenstellen kann.
 
 <h4 id="goldhirse">Goldhirse</h4>
 
-![Goldhirse](../assets/images/tamper-evident-protection/hirse_01.jpg)
+![Goldhirse](/assets/images/tamper-evident-protection/hirse_01.jpg)
 
 Hirse haben wir auf Grund seiner geringen Größe nur in Kombination mit anderen Substanzen getestet.
 
 <h4 id="vogelfutter">Vogelfutter</h4>
 
-![Vogelfutter](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
+![Vogelfutter](/assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
 Vogelfutter hat den Vorteil, dass es in kleineren Beuteln relativ normal aussieht und sein Geheimnis dadurch möglicherweise vor Angreifern verbergen kann. Je nach Zusammensetzung kann es jedoch verkleben.
 
 <h4 id="kugeln-aus-verschiedenen-farben-groessen-und-materialien">Kugeln aus verschiedenen Farben, Größen und Materialien</h4>
 
-![Kugeln](../assets/images/tamper-evident-protection/kugeln_01.jpg)
+![Kugeln](/assets/images/tamper-evident-protection/kugeln_01.jpg)
 
 Die Kugeln haben im Vergleich zu den anderen Artikeln wahrscheinlich die beste Beständigkeit, sind jedoch teurer und schwerer erhältlich als die meisten anderen Subtanzen.
 
 <h4 id="gefaerbtes-salz">Gefärbtes Salz</h4>
 
-![Salz](../assets/images/tamper-evident-protection/salz_01.jpg)
+![Salz](/assets/images/tamper-evident-protection/salz_01.jpg)
 
 Das Salz haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Aufgrund der Körnergröße ist ein Vergleich des Mosaiks schwerer.
 
 <h4 id="gefaerbter-zucker">Gefärbter Zucker</h4>
 
-![Zucker](../assets/images/tamper-evident-protection/zucker_01.jpg)
+![Zucker](/assets/images/tamper-evident-protection/zucker_01.jpg)
 
 Den Zucker haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Zucker verhält sich ähnlich wie Salz, es kommt jedoch gelegentlich zu leichter Klumpenbildung. Aufgrund der Körnergröße ist ein Vergleich des Mosaiks schwerer.
 
 <h4 id="gefaerbte-maisstärke">Gefärbte Maisstärke (DIY-Holi-Pulver)</h4>
 
-![Maisstärke](../assets/images/tamper-evident-protection/maisstaerke_01.jpg)
+![Maisstärke](/assets/images/tamper-evident-protection/maisstaerke_01.jpg)
 
 Die Maisstärke haben wir mit Lebensmittelfarben gefärbt (mehr dazu weiter unten). Sie ergibt ein Pulvergemisch, bei dem die einzelnen Farben teilweise nur noch schwer zu erkennen sind.
 
 <h4 id="kinetischer-sand">Kinetischer Sand</h4>
 
-![kinetischer Sand](../assets/images/tamper-evident-protection/ksand_01.jpg)
+![kinetischer Sand](/assets/images/tamper-evident-protection/ksand_01.jpg)
 
 Kinetischen Sand (auch als Modelliersand bezeichnet) erachten wir als unzweckmäßig. Er ist relativ kostenintensiv, in einer einzelnen Farbe ungeeignet, und nach mehrmaligem Durchmischen mehrerer Farben sieht alles gleich aus, sodass sich nicht mehr feststellen lässt, ob es einen Zugriffsversuch gab oder nicht.
 
 <h3 id="faerben-mit-lebensmittelfarbe">Färben mit Lebensmittelfarbe</h3>
 
-![Farben](../assets/images/tamper-evident-protection/farben_01.jpg)
+![Farben](/assets/images/tamper-evident-protection/farben_01.jpg)
 
 Wir haben zwei verschiedene Lebensmittelfarben getestet. Die Farben von _V2 Foods_ finden wir aufgrund der höheren Farbintensität besser als die von _Limino_. Dabei war das Vorgehen immer ähnlich:
 
@@ -310,21 +310,21 @@ Da die farbigen Elemente im obigen Vorschlag ihre Position beim Transport nicht 
 
 Da viele Personen Staubsauger besitzen und es auch öffentliche Staubsauger an Tankstellen gibt, steht dieses Verfahren für uns an erster Stelle. Es gibt spezielle, wiederverwendbare Vakuumbeutel, um z. B. Kleidung und Decken platzsparend und geschützt zu lagern. Die Luft aus dem Beutel wird dabei mit dem Staubsauger oder einer Handpumpe durch ein Ventil entfernt. Im Handel sind nur größere Beutel erhältlich, die sich z. B. gut für Laptops eignen, jedoch weniger für kleine Gegenstände.
 
-![Thinkpad unter buntem Reis im Staubsaugerbeutel](../assets/images/tamper-evident-protection/vakuum_04.jpg)
+![Thinkpad unter buntem Reis im Staubsaugerbeutel](/assets/images/tamper-evident-protection/vakuum_04.jpg)
 
 <h4 id="vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren mit einem Vakuumiergerät</h4>
 
 Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe unterscheiden. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Passenden Beutel gibt es in vielen Größen, sie können aber nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden.
 
-![Rote Linsen & Belugalinsen](../assets/images/tamper-evident-protection/vakuum_01.jpg)
+![Rote Linsen & Belugalinsen](/assets/images/tamper-evident-protection/vakuum_01.jpg)
 
-![bunter Reis](../assets/images/tamper-evident-protection/vakuum_02.jpg)
+![bunter Reis](/assets/images/tamper-evident-protection/vakuum_02.jpg)
 
 <h4 id="kaskadierung">Kaskadierung</h4>
 
 Bei beiden Verfahren lassen sich die Beuteln mit den Elementen auch kaskadieren. Dafür wird das Ergebnis des ersten Vorgangs nach dem Fotografieren erneut in einen Beutel mit weiteren Elementen gegeben und vakuumiert.
 
-![Bunter Reis und Linsenmischung kaskadiert](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
+![Bunter Reis und Linsenmischung kaskadiert](/assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
 <h3 id="auswertung">Auswertung</h3>
 
@@ -336,7 +336,7 @@ Mit Apps wie [Blink Comparison](https://github.com/proninyaroslav/blink-comparis
 
 Danach wechselt Blink Comparison beim Berühren des Bildschirms zwischen beiden Bildern und erleichtert den direkten Vergleich damit erheblich. Dies zeigt die nachfolgende, animierte Grafik. Das rot umrandete Foto ist das Ursprungsfoto. Vor der Aufnahme des Vergleichsfotos wurde eine schwarze Linse im unteren linken Bereich entfernt und dabei eine weitere Linse ein kleines Stück verschoben. Die Veränderung des Musters zwischen Ursprungsfoto und Vergleichsfoto ist schnell und gut sichtbar.
 
-![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)
+![Blink Comparison](/assets/images/tamper-evident-protection/blink.webp)
 
 <h2 id="danksagung-und-partizipation">Danksagung und Partizipation</h2>
 

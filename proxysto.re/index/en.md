@@ -54,7 +54,7 @@ You can use these devices free of charge or for a small fee during our opening h
 <div class="row row-cols-1 row-cols-md-3">
 	<div class="col mb-4">
 		<div class="card">
-			<img src="../assets/images/tails.jpg" class="card-img-top" alt="Computer with Tails">
+			<img src="/assets/images/tails.jpg" class="card-img-top" alt="Computer with Tails">
 			<div class="card-body">
 				<h3 class="card-title">Tails Computer</h3>
 				<p class="card-text">This Computer has no hard drive. It's booting the <a href="https://tails.net/">Tails</a> operating system from a DVD, allowing you to move anonymously on the Internet. A cabin protects you from prying eyes.</p>
@@ -63,7 +63,7 @@ You can use these devices free of charge or for a small fee during our opening h
 	</div>
 	<div class="col mb-4">
 		<div class="card">
-			<img src="../assets/images/shredder.jpg" class="card-img-top" alt="Shredder">
+			<img src="/assets/images/shredder.jpg" class="card-img-top" alt="Shredder">
 			<div class="card-body">
 				<h3 class="card-title">Shredder</h3>
 				<p class="card-text">The Dahle 706air with security levels P-7/F-3/T-6 shreds paper and plastic cards into millimeter-small shreds. If that is not enough for you, you can bring a bag and take the scraps with you.</p>
@@ -72,7 +72,7 @@ You can use these devices free of charge or for a small fee during our opening h
 	</div>
 	<div class="col mb-4">
 		<div class="card">
-			<img src="../assets/images/copier.jpg" class="card-img-top" alt="Multi-function printer">
+			<img src="/assets/images/copier.jpg" class="card-img-top" alt="Multi-function printer">
 			<div class="card-body">
 				<h3 class="card-title">Multi-function Printer</h3>
 				<p class="card-text">Prints, scans and copies A3 and A4, black and white and color. You can attach an USB stick or connect it to the Tails computer.</p>

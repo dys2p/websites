@@ -238,7 +238,7 @@ The [Independent Center for Data Protection Schleswig-Holstein (ULD)](https://ww
 
 In experiments, Markus Kuhn discovered the [EURion constellation](https://en.wikipedia.org/wiki/EURion_constellation) on euro banknotes and [published it in 2002](https://www.cl.cam.ac.uk/%7Emgk25/eurion.pdf). The pattern is also found on [other countries' banknotes](https://people.duke.edu/~ng46/collections/steg-eurion-constellation.htm). It is designed to work in conjunction with supporting software and firmware from hardware and software vendors to prevent the scanning, editing, and printing of banknotes. Further research by Steven J. Murdoch and Ben Laurie shows that the EURion constellation is not the only feature by which banknotes are recognized.<sup><a href="#fn7" id="fnref7">7</a></sup> <sup><a href="#fn8" id="fnref8">8</a></sup> <sup><a href="#fn9" id="fnref9">9</a></sup>
 
-![Meme](../assets/images/print-scan-traces/meme-photoshop.webp)
+![Meme](/assets/images/print-scan-traces/meme-photoshop.webp)
 
 Both our own investigations and those of the Independent Center for Data Protection Schleswig-Holstein confirm this. If a part of the EURion constellation, which is located between the digits on new euro bills, is identified by the device, it either omits areas when printing or changes the overall image, for example by blackening or streaking. We tried this with the front of euro banknotes from 5 to 50 euros and found that when part of the EURion constellation is covered, the identification fails and no other areas are changed.
 
@@ -288,13 +288,13 @@ For all the following investigations, unless otherwise stated, we have used prin
 
 We first took unprinted sheets of paper, marked a spot and analyzed it with a pocket microscope (magnification 60 to 120) before and after printing. This allowed us to confirm the results of the ULD in our case. On printouts printed with the profile <q>color</q>, we detected several tiny yellow dots. These were not present on printouts made with the color profile <q>black</q>.
 
-![Yellow dots under the microscope](../assets/images/print-scan-traces/microscope-1.png) ![Yellow dots under the microscope](../assets/images/print-scan-traces/microscope-2.png)
+![Yellow dots under the microscope](/assets/images/print-scan-traces/microscope-1.png) ![Yellow dots under the microscope](/assets/images/print-scan-traces/microscope-2.png)
 
 <h3 id="untersuchung-mit-schwarzlicht">Analysis with black light</h3>
 
 In contrast to the result of the ULD, we could not make any yellow dots visible to the naked eye under black light. For better illustration, the following is a photo of the magnified image of the ULD analysis illuminated with black light.
 
-![Image source: [Independent State Center for Data Protection Schleswig-Holstein](https://www.datenschutzzentrum.de/uploads/it/2019_ULD_Report-Yellow-Dots.pdf)](../assets/images/print-scan-traces/uv-uld.jpg)
+![Image source: [Independent State Center for Data Protection Schleswig-Holstein](https://www.datenschutzzentrum.de/uploads/it/2019_ULD_Report-Yellow-Dots.pdf)](/assets/images/print-scan-traces/uv-uld.jpg)
 
 <h3 id="untersuchung-am-computer">Analysis on the computer</h3>
 
@@ -313,7 +313,7 @@ We performed these steps with [GIMP (GNU Image Manipulation Program)](https://ww
 5. If necessary, further adjustments, e.g. with the color curves
 6. Colors > Components > Mono Mixer: Highlight blue channel, e.g. with the values 0, 0, 1
 
-![Workflow in GIMP](../assets/images/print-scan-traces/gimp.webp)
+![Workflow in GIMP](/assets/images/print-scan-traces/gimp.webp)
 
 A simplified workflow, which was not used here, can look as follows:
 
@@ -323,7 +323,7 @@ A simplified workflow, which was not used here, can look as follows:
 
 The higher the resolution (300, 600, 1200, 2400 dpi), the better the pattern can be recognized and analyzed:
 
-![Different scan resolutions](../assets/images/print-scan-traces/scan-resolution.webp)
+![Different scan resolutions](/assets/images/print-scan-traces/scan-resolution.webp)
 
 We scanned printouts made from a computer and an USB stick, as well as copies, at a resolution of 600x600 dpi, and processed them in GIMP to analyze them for Machine Identification Codes. In the <q>Single color</q> and <q>Two color</q> printing modes, we have analyzed only some of the available colors.
 
@@ -412,7 +412,7 @@ All detected patterns are so-called <dfn>skewed small patterns</dfn>, described 
 
 We can confirm the results of that work: We find a pattern of 18 dots, which we estimate to be arranged in a 16x32 grid, probably representing the serial number of our device (JWF11162) and repeating across the page. The pattern does not change with time, date, or the content of the printed document. It has the shape of a parallelogram tilted by about 30 degrees. However, the orientation, start and end could be different from what is shown here. The following image shows four repetitions of the pattern, which we have colored differently.
 
-![Four repetitions of the pattern in different colors](../assets/images/print-scan-traces/canon-points4x18.jpg)
+![Four repetitions of the pattern in different colors](/assets/images/print-scan-traces/canon-points4x18.jpg)
 
 <h3 id="mics-in-freier-wildbahn">MICs in the wild</h3>
 
@@ -440,7 +440,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>002</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-002.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-002.png"></td>
       </tr>
       <tr>
         <td>003</td>
@@ -476,7 +476,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>008</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-008.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-008.png"></td>
       </tr>
       <tr>
         <td>009</td>
@@ -554,7 +554,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>021</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-021.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-021.png"></td>
       </tr>
       <tr>
         <td>022</td>
@@ -626,7 +626,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>033</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-033.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-033.png"></td>
       </tr>
       <tr>
         <td>034</td>
@@ -650,7 +650,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>037</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-037.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-037.png"></td>
       </tr>
       <tr>
         <td>038</td>
@@ -662,7 +662,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>039</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-039.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-039.png"></td>
       </tr>
       <tr>
         <td>040</td>
@@ -680,19 +680,19 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>042</td>
         <td>bw</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-042.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-042.png"></td>
       </tr>
       <tr>
         <td>043</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-043.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-043.png"></td>
       </tr>
       <tr>
         <td>044</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-044.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-044.png"></td>
       </tr>
       <tr>
         <td>045</td>
@@ -782,7 +782,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>059</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-059.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-059.png"></td>
       </tr>
       <tr>
         <td>060</td>
@@ -866,7 +866,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>073</td>
         <td>bw</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-073.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-073.png"></td>
       </tr>
       <tr>
         <td>074</td>
@@ -884,7 +884,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>076</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-076.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-076.png"></td>
       </tr>
       <tr>
         <td>077</td>
@@ -944,7 +944,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>086</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-086.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-086.png"></td>
       </tr>
       <tr>
         <td>087</td>
@@ -968,7 +968,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>090</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-090.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-090.png"></td>
       </tr>
       <tr>
         <td>091</td>
@@ -980,7 +980,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>092</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-092.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-092.png"></td>
       </tr>
       <tr>
         <td>093</td>
@@ -1004,7 +1004,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>096</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-096.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-096.png"></td>
       </tr>
       <tr>
         <td>097</td>
@@ -1034,7 +1034,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>101</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-101.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-101.png"></td>
       </tr>
       <tr>
         <td>102</td>
@@ -1202,13 +1202,13 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>129</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-129.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-129.png"></td>
       </tr>
       <tr>
         <td>130</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-130.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-130.png"></td>
       </tr>
       <tr>
         <td>131</td>
@@ -1256,7 +1256,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>138</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-138.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-138.png"></td>
       </tr>
       <tr>
         <td>139</td>
@@ -1298,13 +1298,13 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>145</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-145.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-145.png"></td>
       </tr>
       <tr>
         <td>146</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-146.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-146.png"></td>
       </tr>
       <tr>
         <td>147</td>
@@ -1382,7 +1382,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>159</td>
         <td>bw</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-159.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-159.png"></td>
       </tr>
       <tr>
         <td>160</td>
@@ -1466,19 +1466,19 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>173</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-173.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-173.png"></td>
       </tr>
       <tr>
         <td>174</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-174.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-174.png"></td>
       </tr>
       <tr>
         <td>175</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-175.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-175.png"></td>
       </tr>
       <tr>
         <td>176</td>
@@ -1532,25 +1532,25 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>184</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-184.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-184.png"></td>
       </tr>
       <tr>
         <td>185</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-185.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-185.png"></td>
       </tr>
       <tr>
         <td>186</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-186.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-186.png"></td>
       </tr>
       <tr>
         <td>187</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-187.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-187.png"></td>
       </tr>
       <tr>
         <td>188</td>
@@ -1562,7 +1562,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>189</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-189.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-189.png"></td>
       </tr>
       <tr>
         <td>190</td>
@@ -1580,7 +1580,7 @@ To determine how common MICs are "in the wild," we analyzed 200 documents from 2
         <td>192</td>
         <td>color</td>
         <td><strong>MIC detected</strong></td>
-        <td><img src="../assets/images/print-scan-traces/sample-192.png"></td>
+        <td><img src="/assets/images/print-scan-traces/sample-192.png"></td>
       </tr>
       <tr>
         <td>193</td>
@@ -1764,7 +1764,7 @@ Some file systems store multiple timestamps, which are sometimes overlooked and 
 
 During our analysis with the microscope, we noticed that small blue, sometimes violet appearing dots could be seen on the majority of the analyzed papers (DIN A4 and A3) and also on new unprinted sheets (recycled paper as well as bleached white) just taken out of the original packaging. Unfortunately, we have not managed to make these dots visible by means of scans and image processing. The quantity and arrangement of the dots appear to be non-repetitive and sometimes very different to us in these random sightings, so we are unsure whether they are, for example, a code added to the paper by paper manufacturers, or random artifacts created during the manufacturing process.
 
-![Blaue Punkte auf vielen Papiersorten](../assets/images/print-scan-traces/blue-dots.png)
+![Blaue Punkte auf vielen Papiersorten](/assets/images/print-scan-traces/blue-dots.png)
 
 For the sake of completeness, it should be mentioned at this point that paper sheets can also be analyzed forensically, but we will not go into this further here.
 

@@ -134,7 +134,7 @@ While the U.S. government has claimed for years that Chinese companies are build
 > According to them, it is common practice to, among other things, prepare servers, routers, and other network technology with
 > eavesdropping technology before exporting them to third countries. The equipment is then repackaged and shipped as planned.
 
-![TAO](../assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
+![TAO](/assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
 
 It is likely that such attacks are taking place in other states as well - whether against individuals or on a larger scale. [The Intercept published a good article](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) on supply chain attacks in 2019, Microsoft started its own series of articles that same year: [Part 1](https://web.archive.org/web/20201029013253/https://www.microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Part 2](https://web.archive.org/web/20210226030901/https://www.microsoft.com/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/), and [Part 3](https://web.archive.org/web/20210303150737/https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
 
@@ -176,7 +176,7 @@ In the method described by [Mullvad VPN](https://mullvad.net/en/help/how-tamper-
 
 The picture below is a pre-post-comparison of one of our first attempts. Except for 3-4 glitter elements at the top left edge of the sticker, all others are still in the same place. This could be further reduced in subsequent attempts, so we rate this method as only partially suitable.
 
-![comparison](../assets/images/tamper-evident-protection/vergleich_versiegelt.png)
+![comparison](/assets/images/tamper-evident-protection/vergleich_versiegelt.png)
 
 The left image shows a screw sealed with Mullvad VPN nail polish. The right image was taken after this sealant was opened once as described above. In the upper left part of the right image, you can see that the arrangement of the elements at the edge of the sticker has changed a bit. The two larger elements (left edge in the middle and at the bottom) were also broken, but have been moved to their old position afterwards. In further tests we achieved similar results. The relevant factor in this process is the amount of elements on the edge of the sticker. In addition, there are special seal stickers available which break when peeled off. They are probably more suitable for this method.
 
@@ -214,67 +214,67 @@ To test the mixing behavior, the first three points in particular were relevant 
 
 <h4 id="rote-linsen-und-belugalinsen">Red lentils & Beluga lentils</h4>
 
-![Lentils](../assets/images/tamper-evident-protection/linsen_01.jpg)
+![Lentils](/assets/images/tamper-evident-protection/linsen_01.jpg)
 
 The lentils have good size, good mixing behavior and form a high contrast mosaic.
 
 <h4 id="gelbe-erbsen-und-weiße-bohnen">Yellow peas & white beans</h4>
 
-![Peas & Beans](../assets/images/tamper-evident-protection/eb_01.jpg)
+![Peas & Beans](/assets/images/tamper-evident-protection/eb_01.jpg)
 
 Both the yellow peas and white beans are a good size, mix well and create a high-contrast mosaic.
 
 <h4 id="gefaerbter-reis">Colored rice</h4>
 
-![Rice](../assets/images/tamper-evident-protection/reis_01.jpg)
+![Rice](/assets/images/tamper-evident-protection/reis_01.jpg)
 
 The rice is a little more fine-grained than the two previously mentioned substances. However, it has the advantage that you can compose your own desired colors with food coloring (more on this below).
 
 <h4 id="goldhirse">Golden millet</h4>
 
-![Golden millet](../assets/images/tamper-evident-protection/hirse_01.jpg)
+![Golden millet](/assets/images/tamper-evident-protection/hirse_01.jpg)
 
 We tested millet only in combination with other substances due to its small size.
 
 <h4 id="vogelfutter">Birdseed</h4>
 
-![Birdseed](../assets/images/tamper-evident-protection/vogelfutter_01.jpg)
+![Birdseed](/assets/images/tamper-evident-protection/vogelfutter_01.jpg)
 
 Birdseed has the advantage of looking relatively normal in smaller bags, which may allow it to hide its secret from attackers. However, depending on its composition, it can stick.
 
 <h4 id="kugeln-aus-verschiedenen-farben-groessen-und-materialien">Spheres of different colors, sizes and materials</h4>
 
-![Spheres](../assets/images/tamper-evident-protection/kugeln_01.jpg)
+![Spheres](/assets/images/tamper-evident-protection/kugeln_01.jpg)
 
 The spheres probably have the best resistance compared to the other items, but are more expensive and harder to get than most of the other subtances.
 
 <h4 id="gefaerbtes-salz">Colored salt</h4>
 
-![Salt](../assets/images/tamper-evident-protection/salz_01.jpg)
+![Salt](/assets/images/tamper-evident-protection/salz_01.jpg)
 
 We colored the salt with food coloring (more on this below). Because of the grain size, it is harder to compare the mosaic.
 
 <h4 id="gefaerbter-zucker">Colored sugar</h4>
 
-![Sugar](../assets/images/tamper-evident-protection/zucker_01.jpg)
+![Sugar](/assets/images/tamper-evident-protection/zucker_01.jpg)
 
 We colored the sugar with food coloring (more on this below). Sugar behaves similarly to salt, but there is occasional slight lumping. Because of the grain size, it is harder to compare the mosaic.
 
 <h4 id="gefaerbte-maisstärke">Colored Cornstarch (DIY Holi Powder)</h4>
 
-![Cornstarch](../assets/images/tamper-evident-protection/maisstaerke_01.jpg)
+![Cornstarch](/assets/images/tamper-evident-protection/maisstaerke_01.jpg)
 
 We colored the cornstarch with food coloring (more on that below). It makes a powder mixture where the individual colors are sometimes hard to see.
 
 <h4 id="kinetischer-sand">Kinetic sand</h4>
 
-![Kinetic sand](../assets/images/tamper-evident-protection/ksand_01.jpg)
+![Kinetic sand](/assets/images/tamper-evident-protection/ksand_01.jpg)
 
 We consider kinetic sand (also called modeling sand) to be impractical. It is relatively costly, unsuitable in a single color, and after mixing multiple colors several times everything looks the same, so that it is no longer possible to determine whether there was an attempted access or not.
 
 <h3 id="faerben-mit-lebensmittelfarbe">Coloring with food coloring</h3>
 
-![Colors](../assets/images/tamper-evident-protection/farben_01.jpg)
+![Colors](/assets/images/tamper-evident-protection/farben_01.jpg)
 
 We tested two different food colorings. We find the colors from _V2 Foods_ better than those from _Limino_ because of the higher color intensity. The procedure was always similar:
 
@@ -310,21 +310,21 @@ Since the colored elements in the above proposal would not hold their position d
 
 Since many people own vacuum cleaners and there are also public vacuum cleaners at gas stations, this method is our first priority. There are special reusable vacuum bags to store e.g. clothes and blankets in a space-saving and protected way. The air from the bag is removed with a vacuum cleaner or a hand pump through a valve. Commercially available bags are quite large, so they are well suited for laptops, for example, but less suited for small objects.
 
-![Thinkpad under colored rice in the vacuum cleaner bag](../assets/images/tamper-evident-protection/vakuum_04.jpg)
+![Thinkpad under colored rice in the vacuum cleaner bag](/assets/images/tamper-evident-protection/vakuum_04.jpg)
 
 <h4 id="vakuumieren-mit-einem-vakuumiergeraet">Vacuuming with a vacuum sealer</h4>
 
 There are many different vacuum sealer machines, which differ in quality and size. They are used, for example, to keep food fresh for longer. Suitable bags are available in many sizes, but they cannot be reused easily or only with loss of material.
 
-![Red lentils & Beluga lentils](../assets/images/tamper-evident-protection/vakuum_01.jpg)
+![Red lentils & Beluga lentils](/assets/images/tamper-evident-protection/vakuum_01.jpg)
 
-![Colored rice](../assets/images/tamper-evident-protection/vakuum_02.jpg)
+![Colored rice](/assets/images/tamper-evident-protection/vakuum_02.jpg)
 
 <h4 id="kaskadierung">Cascading</h4>
 
 In both methods, the bags containing the elements can also be cascaded. To do this, after photographing the result of the first process, it is placed in another bag with additional substance and vacuumed again.
 
-![Colored rice and lentil mixture cascaded](../assets/images/tamper-evident-protection/kaskadieren_01.jpg)
+![Colored rice and lentil mixture cascaded](/assets/images/tamper-evident-protection/kaskadieren_01.jpg)
 
 <h3 id="auswertung">Evaluation</h3>
 
@@ -336,7 +336,7 @@ With apps like [Blink Comparison](https://github.com/proninyaroslav/blink-compar
 
 Blink Comparison then switches between the two images when the screen is touched, making direct comparison much easier. This is shown in the following animated graphic. The photo outlined in red is the original photo. Before taking the comparison photo, a black lentil in the lower left area has been removed, thereby moving another lentil a little bit. The change of the pattern between the original photo and the comparison photo can be seen fast and easily.
 
-![Blink Comparison](../assets/images/tamper-evident-protection/blink.webp)
+![Blink Comparison](/assets/images/tamper-evident-protection/blink.webp)
 
 <h2 id="danksagung-und-partizipation">Acknowledgements and participation</h2>
 

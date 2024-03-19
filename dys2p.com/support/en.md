@@ -78,10 +78,10 @@ The donation goal for the document shredder was reached on May 5, 2021 through a
 
 <div class="row">
 	<div class="col-sm-6 mb-3">
-		<img src="../assets/images/paper-shredder-1.jpg" class="img-fluid">
+		<img src="/assets/images/paper-shredder-1.jpg" class="img-fluid">
 	</div>
 	<div class="col-sm-6 mb-3">
-		<img src="../assets/images/paper-shredder-2.jpg" class="img-fluid">
+		<img src="/assets/images/paper-shredder-2.jpg" class="img-fluid">
 	</div>
 </div>
 
