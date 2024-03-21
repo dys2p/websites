@@ -13,6 +13,4 @@ func main() {
 	langs := lang.MakeLanguages(nil, "de", "en")
 	ssg.Must(ssg.MakeWebsite(os.DirFS("./dys2p.com"), nil, langs)).StaticHTML("/tmp/ssg-build/dys2p.com")
 	ssg.Must(ssg.MakeWebsite(os.DirFS("./proxysto.re"), nil, langs)).StaticHTML("/tmp/ssg-build/proxysto.re")
-
-	ssg.ListenAndServe("/tmp/ssg-build/dys2p.com")
 }
