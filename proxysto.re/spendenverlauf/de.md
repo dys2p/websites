@@ -7,8 +7,8 @@ Für jedes Buch, das ihr [direkt bei uns](https://shop.proxysto.re/category/7) k
 Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
 * Spenden im Zeitraum Januar bis Juni 2024
- * Februar 2024: 21,98 EUR
- * Januar 2024: 1,26 EUR
+  * Februar 2024: 21,98 EUR
+  * Januar 2024: 1,26 EUR
 * Spenden im Zeitraum Juli bis Dezember 2023
   * Nachweise: [Internet Archive](/assets/images/donations/2024-01/internet-archive.png), [Qubes OS](/assets/images/donations/2024-01/qubes-os.png), [Sci-Hub](/assets/images/donations/2024-01/sci-hub.png), [Tails](/assets/images/donations/2024-01/tails.png), [Whonix](/assets/images/donations/2024-01/whonix.png)
   * Dezember 2024: 12,00 EUR
@@ -66,10 +66,21 @@ Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes O
 
 Für jeden Verkauf eines [Gerät mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an das Projekt.
 
-* 2024: 240 EUR
+* 2023: 240 EUR
   * 80,00 EUR
   * [160,00 EUR](/assets/images/donations/2024-01/grapheneos.png)
 
 ## Tor Project
 
 * Insgesamt: [26,00 USD](/assets/images/donations/2024-01/tor-project.png)
+
+## Summe bis Dezember 2023
+
+ * [Electronic Frontier Foundation](https://www.eff.org/): 11,72 USD
+ * [GrapheneOS](https://grapheneos.org/): 240,00 EUR
+ * [Internet Archive](https://archive.org/): 56,09 USD
+ * [Qubes OS](https://www.qubes-os.org/): ca. 46,00 EUR + 5,00 USD
+ * [Sci-Hub](https://de.wikipedia.org/wiki/Sci-Hub): ca. 191,00 EUR
+ * [Tor Project](https://www.torproject.org/): 26,00 USD
+ * [Tails](https://tails.net): ca. 66,00 EUR + 5,00 USD
+ * [Whonix](https://www.whonix.org/): ca. 51,00 EUR
