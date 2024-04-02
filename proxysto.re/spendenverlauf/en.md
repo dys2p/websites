@@ -1,8 +1,8 @@
-# donation history
+# Donation History
 
-## book donations
+## Book Donations
 
-For every new book you buy [directly from us](https://shop.proxysto.re/category/7), we will donate five percent of the book price to a total of five selected projects. Projects will be selected for at least three months. The donations (one percent for each project) will be sent every three months and published here.
+For every new book you buy [directly from us](https://shop.proxysto.re/category/7), we will donate five percent of the book price to a total of five selected projects. Projects will be selected for at least six months. The donations (one percent for each project) will be sent every six months and published here.
 
 Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
@@ -21,7 +21,7 @@ Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS]
   * Nachweise: [Internet Archive](/assets/images/donations/2023-07/internet-archive.png), [Qubes OS](/assets/images/donations/2023-07/qubes-os.png), [Sci-Hub](/assets/images/donations/2023-07/sci-hub.png), [Tails](/assets/images/donations/2023-07/tails.png), [Whonix](/assets/images/donations/2023-07/whonix.png)
   * June 2023: 6,77 EUR
   * May 2023: 10,84 EUR
-  * April 2023: 13,55 EUR (+ 1,00 EUR for Internet Archive)
+  * April 2023: 13,55 EUR (+ 1,00 EUR to Internet Archive)
   * March 2023: 6,02 EUR + 3,50 EUR
   * February 2023: 2,50 EUR
   * January 2023: 3,24 EUR

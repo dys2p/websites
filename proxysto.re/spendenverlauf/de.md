@@ -2,7 +2,7 @@
 
 ## Bücherspenden
 
-Für jedes neue Buch, das ihr [direkt bei uns](https://shop.proxysto.re/category/7) kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und hier veröffentlicht.
+Für jedes neue Buch, das ihr [direkt bei uns](https://shop.proxysto.re/category/7) kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens sechs Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle sechs Monate übermittelt und hier veröffentlicht.
 
 Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
@@ -72,7 +72,7 @@ Für jeden Verkauf eines [Gerät mit vorinstalliertem GrapheneOS](https://shop.p
 
 ## Tor Project
 
-* Insgesamt: [26,00 USD](/assets/images/donations/2024-01/tor-project.png)
+* insgesamt: [26,00 USD](/assets/images/donations/2024-01/tor-project.png)
 
 ## Summe bis Dezember 2023
 
