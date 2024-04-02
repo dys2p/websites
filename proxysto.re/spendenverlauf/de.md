@@ -65,14 +65,14 @@ Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes O
 
 ## DivestOS
 
-Für jeden Verkauf eines [Gerät mit vorinstalliertem DivestOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an das Projekt.
+Für jeden Verkauf eines [Geräts mit vorinstalliertem DivestOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an [DivestOS](https://divestos.org).
 
 * 2024
   * Q1: 20 EUR
 
 ## GrapheneOS
 
-Für jeden Verkauf eines [Gerät mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an das Projekt.
+Für jeden Verkauf eines [Geräts mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an [GrapheneOS](https://grapheneos.org).
 
 * 2024
   * Q1: 220 EUR
