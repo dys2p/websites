@@ -7,6 +7,7 @@ For every new book you buy [directly from us](https://shop.proxysto.re/category/
 Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
 * Donations from January to June 2024
+  * April 2024: 0,65 EUR
   * March 2024: 3,79 EUR
   * February 2024: 21,98 EUR
   * January 2024: 1,26 EUR
