@@ -1,5 +1,5 @@
-github.com/dys2p/eco v0.0.0-20240425144027-6669b946fd93 h1:f0yzX5/o61koeW85r1no4C0SqZ+l0tWmWH2huu1KAOA=
-github.com/dys2p/eco v0.0.0-20240425144027-6669b946fd93/go.mod h1:qnMdk1HU5tfljiMCmmeVNWzvDoSYnlsvhptww6x9N4g=
+github.com/dys2p/eco v0.0.0-20240506171624-44301f2921ab h1:C7ZCf3DMXp6aTbuNiBCuJgvSYatDHipGJC5jC8hBrhI=
+github.com/dys2p/eco v0.0.0-20240506171624-44301f2921ab/go.mod h1:qnMdk1HU5tfljiMCmmeVNWzvDoSYnlsvhptww6x9N4g=
 github.com/russross/blackfriday/v2 v2.1.0 h1:JIOH55/0cWyOuilr9/qlrm0BSXldqnqwMsf35Ld67mk=
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 gitlab.com/golang-commonmark/html v0.0.0-20191124015941-a22733972181 h1:K+bMSIx9A7mLES1rtG+qKduLIXq40DAzYHtb0XuCukA=
