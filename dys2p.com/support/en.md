@@ -14,10 +14,10 @@ Since both devices are not cheap, we need your support. If you would like to con
 	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
-**Storage device shredder – 161 of 12.500 Euro**
+**Storage device shredder – 168 of 12.500 Euro**
 
 <div class="progress mb-3">
-	<div class="progress-bar bg-success" role="progressbar" style="width: 1.288%"></div>
+	<div class="progress-bar bg-success" role="progressbar" style="width: 1.344%"></div>
 </div>
 
 <div class="my-4 text-center">
