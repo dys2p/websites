@@ -16,6 +16,7 @@
 
 ## Projects
 
+* [Live USB Integrity Check (German only)](live-usb-integrity.html)
 * [Mnemonic German word lists](https://github.com/dys2p/wordlists-de)
 * [Random Mosaic – Detecting unauthorized physical access with beans, lentils and colored rice](2021-12-tamper-evident-protection.html)
 * [Revealing Traces in printouts and scans](2022-09-print-scan-traces.html)
