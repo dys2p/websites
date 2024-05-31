@@ -43,7 +43,9 @@ var messageKeyToIndex = map[string]int{
 	"Battery Disposal":                34,
 	"Cancellation Policy":             4,
 	"Cash":                            6,
+	"Cash by mail":                    36,
 	"Cash by mail in 20 currencies":   7,
+	"Cash payment in local store":     35,
 	"Cash payment in our store":       30,
 	"Concept":                         32,
 	"Contact & News":                  17,
@@ -76,7 +78,7 @@ var messageKeyToIndex = map[string]int{
 	"and by arrangement": 22,
 }
 
-var de_DEIndex = []uint32{ // 36 elements
+var de_DEIndex = []uint32{ // 38 elements
 	// Entry 0 - 1F
 	0x00000000, 0x0000000c, 0x00000010, 0x0000001c,
 	0x00000026, 0x00000039, 0x00000043, 0x0000004b,
@@ -88,9 +90,10 @@ var de_DEIndex = []uint32{ // 36 elements
 	0x000001f2, 0x0000020e, 0x00000231, 0x0000024e,
 	// Entry 20 - 3F
 	0x00000255, 0x0000025d, 0x0000026e, 0x0000028e,
-} // Size: 168 bytes
+	0x000002ab, 0x000002bc,
+} // Size: 176 bytes
 
-const de_DEData string = "" + // Size: 654 bytes
+const de_DEData string = "" + // Size: 700 bytes
 	"\x02Rechtliches\x02AGB\x02Datenschutz\x02Impressum\x02Widerrufsbelehrung" +
 	"\x02Bezahlung\x02Bargeld\x02Bargeld per Post in 20 Währungen\x02Monero u" +
 	"nd Bitcoin\x02SEPA-Überweisung\x02Alle Angebote und Projekte\x02Warum?" +
@@ -101,9 +104,10 @@ const de_DEData string = "" + // Size: 654 bytes
 	"g aus Schließfach im Ladengeschäft\x02DHL-Paket handschriftlich frankier" +
 	"t\x02DHL-Paket digital frankiert\x02UPS-Paket direkt von der Druckerei" +
 	"\x02Barzahlung im Ladengeschäft\x02PayPal\x02Konzept\x02Unterstütze uns" +
-	"\x02Hinweise zur Batterieentsorgung"
+	"\x02Hinweise zur Batterieentsorgung\x02Barzahlung im Ladengeschäft\x02Ba" +
+	"rgeld per Post"
 
-var en_USIndex = []uint32{ // 36 elements
+var en_USIndex = []uint32{ // 38 elements
 	// Entry 0 - 1F
 	0x00000000, 0x00000006, 0x0000001b, 0x0000002a,
 	0x00000032, 0x00000046, 0x0000004e, 0x00000053,
@@ -115,9 +119,10 @@ var en_USIndex = []uint32{ // 36 elements
 	0x000001f1, 0x0000020f, 0x00000237, 0x00000251,
 	// Entry 20 - 3F
 	0x00000258, 0x00000260, 0x0000026b, 0x0000027c,
-} // Size: 168 bytes
+	0x00000298, 0x000002a5,
+} // Size: 176 bytes
 
-const en_USData string = "" + // Size: 636 bytes
+const en_USData string = "" + // Size: 677 bytes
 	"\x02Legal\x02Terms and Conditions\x02Privacy policy\x02Imprint\x02Cancel" +
 	"lation Policy\x02Payment\x02Cash\x02Cash by mail in 20 currencies\x02Mon" +
 	"ero and Bitcoin\x02SEPA bank transfer\x02All Services and Projects\x02Wh" +
@@ -128,6 +133,6 @@ const en_USData string = "" + // Size: 636 bytes
 	"e\x02Pickup from locker in our local store\x02DHL parcel, franked handwr" +
 	"itten\x02DHL parcel, franked digitally\x02UPS parcel directly from our c" +
 	"ontractor\x02Cash payment in our store\x02PayPal\x02Concept\x02Support u" +
-	"s\x02Battery Disposal"
+	"s\x02Battery Disposal\x02Cash payment in local store\x02Cash by mail"
 
-	// Total table size 1626 bytes (1KiB); checksum: 75B9583C
+	// Total table size 1729 bytes (1KiB); checksum: 44B50A70

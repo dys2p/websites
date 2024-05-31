@@ -245,6 +245,20 @@
             "translation": "Battery Disposal",
             "translatorComment": "Copied from source.",
             "fuzzy": true
+        },
+        {
+            "id": "Cash payment in local store",
+            "message": "Cash payment in local store",
+            "translation": "Cash payment in local store",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Cash by mail",
+            "message": "Cash by mail",
+            "translation": "Cash by mail",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
         }
     ]
 }

@@ -175,6 +175,16 @@
             "id": "Battery Disposal",
             "message": "Battery Disposal",
             "translation": "Hinweise zur Batterieentsorgung"
+        },
+        {
+            "id": "Cash payment in local store",
+            "message": "Cash payment in local store",
+            "translation": "Barzahlung im Ladengeschäft"
+        },
+        {
+            "id": "Cash by mail",
+            "message": "Cash by mail",
+            "translation": "Bargeld per Post"
         }
     ]
 }
