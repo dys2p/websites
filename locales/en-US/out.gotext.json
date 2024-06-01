@@ -142,9 +142,23 @@
             "fuzzy": true
         },
         {
-            "id": "Mon+Thu 10am-6pm",
-            "message": "Mon+Thu 10am-6pm",
-            "translation": "Mon+Thu 10am-6pm",
+            "id": "Closed: June 8 – June 16, 2024",
+            "message": "Closed: June 8 – June 16, 2024",
+            "translation": "Closed: June 8 – June 16, 2024",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "New opening hours!",
+            "message": "New opening hours!",
+            "translation": "New opening hours!",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
+            "id": "Mon+Thu 2pm-6pm",
+            "message": "Mon+Thu 2pm-6pm",
+            "translation": "Mon+Thu 2pm-6pm",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
@@ -152,13 +166,6 @@
             "id": "Tue+Wed+Fri+Sat 10am-2pm",
             "message": "Tue+Wed+Fri+Sat 10am-2pm",
             "translation": "Tue+Wed+Fri+Sat 10am-2pm",
-            "translatorComment": "Copied from source.",
-            "fuzzy": true
-        },
-        {
-            "id": "and by arrangement",
-            "message": "and by arrangement",
-            "translation": "and by arrangement",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },
