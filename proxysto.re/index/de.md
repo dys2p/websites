@@ -1,7 +1,7 @@
 <h1 class="text-center">ProxyStore</h1>
 
 <p class="text-center lead mb-2"><mark>Geschlossen: 8.-16. Juni 2024</mark></p>
-<p class="text-center lead mb-2"><mark>New opening hours:</mark> Mo+Do&nbsp;<mark>14</mark>-18&nbsp;Uhr, Di+Mi+Fr+Sa&nbsp;10-14&nbsp;Uhr</p>
+<p class="text-center lead mb-2"><mark>Neue Öffnungszeiten:</mark> Mo+Do&nbsp;<mark>14</mark>-18&nbsp;Uhr, Di+Mi+Fr+Sa&nbsp;10-14&nbsp;Uhr</p>
 <p class="text-center lead mb-2">Bernhard-Göring-Straße&nbsp;162, 04277&nbsp;Leipzig, Deutschland</p>
 <p class="text-center">Zugang durch Ladentür oder Treppenhaus (meist offen, sonst klingeln) möglich. Beide sind leider nicht rollstuhlgerecht.</p>
 
