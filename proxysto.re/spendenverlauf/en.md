@@ -7,6 +7,8 @@ For every new book you buy [directly from us](https://shop.proxysto.re/category/
 Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
 * Donations from January to June 2024
+  * June 2024: 0,00 EUR
+  * May 2024: 3,99 EUR
   * April 2024: 0,65 EUR
   * March 2024: 3,79 EUR
   * February 2024: 21,98 EUR
@@ -70,6 +72,7 @@ For every sale of a [device with pre-installed DivestOS](https://shop.proxysto.r
 
 * 2024
   * Q1: 20 EUR
+  * Q2: 140 EUR
 
 ## GrapheneOS
 
@@ -77,9 +80,17 @@ For every sale of a [device with pre-installed GrapheneOS](https://shop.proxysto
 
 * 2024
   * Q1: 220 EUR
+  * Q2: 340 EUR
 * 2023: 240 EUR
   * 80,00 EUR
   * [160,00 EUR](/assets/images/donations/2024-01/grapheneos.png)
+
+## Tails
+
+For every sale of a [USB stick with pre-installed Tails](https://shop.proxysto.re/conf/990) we donate 2,00 EUR to [Tails](https://tails.net/).
+
+* 2024
+  * Q2: 2,00 EUR
 
 ## Tor Project
 
