@@ -504,6 +504,9 @@ readers do not read off random characters that represent icons */
 .fa-check::before {
   content: "\f00c"; }
 
+.fa-copy::before {
+  content: "\f0c5"; }
+
 .fa-flask::before {
   content: "\f0c3"; }
 
