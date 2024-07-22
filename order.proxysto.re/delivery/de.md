@@ -4,8 +4,8 @@
 
 **Versand:** Daneben stehen dir mehrere Versandoptionen zur Verfügung. Unsere Onlineshops löschen deine Lieferadresse zwei Wochen nach dem Versand. Du kannst uns die Lieferadresse auch anderweitig übermitteln, beispielsweise per Messenger oder auf einem Blatt Papier.
 
-* **DHL Paket handschriftlich frankiert** (versichert): ab 7,40 €
-* DHL Paket **digital frankiert** (versichert): ab 5,60 €
+* **DHL Paket handschriftlich frankiert**: ab 7,40 €
+* DHL Paket **digital frankiert**: ab 5,60 €
 * **Deutsche Post Einschreiben Einwurf** (falls möglich): ab 3,81 €
 * Deutsche Post **Einschreiben Wert** (falls möglich): ab 6,31 €
 * **Eigene DHL-Paketmarke**: 0 €

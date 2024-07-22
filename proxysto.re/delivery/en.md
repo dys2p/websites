@@ -4,8 +4,8 @@
 
 **Shipping:** Besides that, you have several shipping options. Our online shops delete the delivery address two weeks after shipping. You can also submit the delivery address in any other way, e. g. by messenger or on a piece of paper.
 
-* **DHL parcel, franked handwritten** (insured): from 7,40 €
-* DHL parcel, **franked digitally** (insured): from 5,60 €
+* **DHL parcel, franked handwritten**: from 7,40 €
+* DHL parcel, **franked digitally**: from 5,60 €
 * **Deutsche Post registered mail (into your letterbox)** (if applicable): from 3,81 €
 * Deutsche Post **registered value mail** (if applicable): from 6,31 €
 * **Own DHL parcel stamp**: 0 €
