@@ -1,6 +1,6 @@
 # Abholung oder Versand
 
-**Abholung:** Du kannst deine Ware in unserem Ladenlokal (Bernhard-Göring-Straße 162, 04277 Leipzig) während der Öffnungszeiten unter Nennung der Auftragsnummer persönlich abholen oder die kontaktlose Abholung aus einem der <a href="#lockers">Schließfächer in unserem Ladengeschäft</a> wählen. Für letzteres musst du uns ein Vorhängeschloss zukommen lassen.
+**Abholung:** Du kannst deine Ware in unserem Ladenlokal (Wolfgang-Heinze-Straße 14, 04277 Leipzig) während der Öffnungszeiten unter Nennung der Auftragsnummer persönlich abholen oder die kontaktlose Abholung aus einem der <a href="#lockers">Schließfächer in unserem Ladengeschäft</a> wählen. Für letzteres musst du uns ein Vorhängeschloss zukommen lassen.
 
 **Versand:** Daneben stehen dir mehrere Versandoptionen zur Verfügung. Unsere Onlineshops löschen deine Lieferadresse zwei Wochen nach dem Versand. Du kannst uns die Lieferadresse auch anderweitig übermitteln, beispielsweise per Messenger oder auf einem Blatt Papier.
 

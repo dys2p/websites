@@ -27,7 +27,7 @@ Since the beginning of April 2023 it is possible to pay with cash in these forei
 Send cash in an insured letter or package to our store address in Germany. After we take out the money, we shred the letter. Please check the cash shipment limits of your postal company (e. g. Deutsche Post „Einschreiben Wert“ up to 100 Euros within Germany, DHL Parcel up to 500 Euros). Send it to:
 
 Itermann & Wansing GbR<br>
-Bernhard-Göring-Straße 162<br>
+Wolfgang-Heinze-Straße 14<br>
 04277 Leipzig<br>
 Germany
 

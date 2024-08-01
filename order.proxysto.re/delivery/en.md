@@ -1,6 +1,6 @@
 # Pick up or shipping
 
-**Pickup:** You can pick up your goods in person at our store (Bernhard-Göring-Straße 162, 04277 Leipzig, Germany) during opening hours, stating the order number, or choose contactless pickup from one of the <a href="#lockers">lockers in our local store</a>. For the latter you have to send us a padlock.
+**Pickup:** You can pick up your goods in person at our store (Wolfgang-Heinze-Straße 14, 04277 Leipzig, Germany) during opening hours, stating the order number, or choose contactless pickup from one of the <a href="#lockers">lockers in our local store</a>. For the latter you have to send us a padlock.
 
 **Shipping:** Besides that, you have several shipping options. Our online shops delete the delivery address two weeks after shipping. You can also submit the delivery address in any other way, e. g. by messenger or on a piece of paper.
 

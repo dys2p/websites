@@ -1,6 +1,6 @@
 # Notes on Battery Disposal
 
-In connection with the sale of batteries or the delivery of devices containing batteries, we are obliged to inform you of the following: You are legally obligated to return used batteries as an end user. You can return used batteries, which we carry or have carried as new batteries in our range, free of charge to our shipping warehouse (Bernhard-Göring-Straße 162, 04277 Leipzig, Germany).
+In connection with the sale of batteries or the delivery of devices containing batteries, we are obliged to inform you of the following: You are legally obligated to return used batteries as an end user. You can return used batteries, which we carry or have carried as new batteries in our range, free of charge to our shipping warehouse (Wolfgang-Heinze-Straße 14, 04277 Leipzig, Germany).
 
 The symbols shown on the batteries have the following meaning:
 

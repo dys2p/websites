@@ -1,6 +1,6 @@
 # Hinweise zur Batterieentsorgung
 
-Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Bernhard-Göring-Straße 162, 04277 Leipzig, Deutschland) zurückgeben.
+Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Wolfgang-Heinze-Straße 14, 04277 Leipzig, Deutschland) zurückgeben.
 
 Die auf den Batterien abgebildeten Symbole haben folgende Bedeutung:
 

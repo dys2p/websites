@@ -1,8 +1,9 @@
 <h1 class="text-center">ProxyStore</h1>
 
 <p class="text-center lead mb-2"><mark>New opening hours:</mark> Mon+Thu&nbsp;<mark>2pm</mark>-6pm, Tue+Wed+Fri+Sat&nbsp;10am-2pm</p>
-<p class="text-center lead mb-2">Bernhard-Göring-Straße&nbsp;162, 04277&nbsp;Leipzig, Germany</p>
-<p class="text-center">Enter through store door or staircase (mostly open, else ring the bell). Both are unfortunately not wheelchair accessible.</p>
+<p class="text-center lead mb-2">Until August 3, 2024: Bernhard-Göring-Straße&nbsp;162, 04277&nbsp;Leipzig, Germany</p>
+<p class="text-center lead mb-2">From August 5, 2024: Wolfgang-Heinze-Straße&nbsp;14, 04277&nbsp;Leipzig, Germany</p>
+<p class="text-center">Unfortunately, our store entrance is not wheelchair accessible.</p>
 
 <div class="row d-xl-none">
 	<div class="col-lg">

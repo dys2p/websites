@@ -1,6 +1,6 @@
 # Datenschutzerklärung gemäß Artikel 13 DSGVO
 
-Verantwortlich: <span class="ritole">RbG gnisnaW &amp; nnamretI</span>, Bernhard-Göring-Straße 162, 04277 Leipzig, Deutschland, mail <span class="ritole">ta</span> proxysto.re
+Verantwortlich: <span class="ritole">RbG gnisnaW &amp; nnamretI</span>, Wolfgang-Heinze-Straße 14, 04277 Leipzig, Deutschland, mail <span class="ritole">ta</span> proxysto.re
 
 ## Onlineshops und Webseiten
 
