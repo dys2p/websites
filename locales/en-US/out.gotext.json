@@ -142,9 +142,9 @@
             "fuzzy": true
         },
         {
-            "id": "New opening hours!",
-            "message": "New opening hours!",
-            "translation": "New opening hours!",
+            "id": "Opening hours",
+            "message": "Opening hours",
+            "translation": "Opening hours",
             "translatorComment": "Copied from source.",
             "fuzzy": true
         },

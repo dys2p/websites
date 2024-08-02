@@ -102,9 +102,9 @@
             "translation": "Deutschland"
         },
         {
-            "id": "New opening hours!",
-            "message": "New opening hours!",
-            "translation": "Neue Öffnungszeiten!"
+            "id": "Opening hours",
+            "message": "Opening hours",
+            "translation": "Öffnungszeiten"
         },
         {
             "id": "Mon+Thu 2pm-6pm",

@@ -61,9 +61,9 @@ var messageKeyToIndex = map[string]int{
 	"Local Store":                           12,
 	"Mon+Thu 2pm-6pm":                       21,
 	"Monero and Bitcoin":                    8,
-	"New opening hours!":                    20,
 	"Online printing":                       16,
 	"Online shop":                           14,
+	"Opening hours":                         20,
 	"Order Service":                         15,
 	"PayPal":                                31,
 	"Payment":                               5,
@@ -85,27 +85,27 @@ var de_DEIndex = []uint32{ // 38 elements
 	0x0000006d, 0x00000080, 0x00000092, 0x000000ad,
 	0x000000b4, 0x000000c3, 0x000000d3, 0x000000de,
 	0x000000ed, 0x000000fd, 0x0000010c, 0x00000114,
-	0x00000120, 0x00000136, 0x00000146, 0x0000015c,
-	0x0000017f, 0x00000187, 0x000001a2, 0x000001ce,
-	0x000001f2, 0x0000020e, 0x00000231, 0x0000024e,
+	0x00000120, 0x00000130, 0x00000140, 0x00000156,
+	0x00000179, 0x00000181, 0x0000019c, 0x000001c8,
+	0x000001ec, 0x00000208, 0x0000022b, 0x00000248,
 	// Entry 20 - 3F
-	0x00000255, 0x0000025d, 0x0000026e, 0x0000028e,
-	0x000002ab, 0x000002bc,
+	0x0000024f, 0x00000257, 0x00000268, 0x00000288,
+	0x000002a5, 0x000002b6,
 } // Size: 176 bytes
 
-const de_DEData string = "" + // Size: 700 bytes
+const de_DEData string = "" + // Size: 694 bytes
 	"\x02Rechtliches\x02AGB\x02Datenschutz\x02Impressum\x02Widerrufsbelehrung" +
 	"\x02Bezahlung\x02Bargeld\x02Bargeld per Post in 20 Währungen\x02Monero u" +
 	"nd Bitcoin\x02SEPA-Überweisung\x02Alle Angebote und Projekte\x02Warum?" +
 	"\x02Ladengeschäft\x02Digitale Güter\x02Onlineshop\x02Bestellservice\x02O" +
-	"nlinedruckerei\x02Kontakt & News\x02Kontakt\x02Deutschland\x02Neue Öffnu" +
-	"ngszeiten!\x02Mo+Do 14-18 Uhr\x02Di+Mi+Fr+Sa 10-14 Uhr\x02Fehler oder Hi" +
-	"nweise? Schreib uns!\x02Versand\x02Abholung im Ladengeschäft\x02Abholung" +
-	" aus Schließfach im Ladengeschäft\x02DHL-Paket handschriftlich frankiert" +
-	"\x02DHL-Paket digital frankiert\x02UPS-Paket direkt von der Druckerei" +
-	"\x02Barzahlung im Ladengeschäft\x02PayPal\x02Konzept\x02Unterstütze uns" +
-	"\x02Hinweise zur Batterieentsorgung\x02Barzahlung im Ladengeschäft\x02Ba" +
-	"rgeld per Post"
+	"nlinedruckerei\x02Kontakt & News\x02Kontakt\x02Deutschland\x02Öffnungsze" +
+	"iten\x02Mo+Do 14-18 Uhr\x02Di+Mi+Fr+Sa 10-14 Uhr\x02Fehler oder Hinweise" +
+	"? Schreib uns!\x02Versand\x02Abholung im Ladengeschäft\x02Abholung aus S" +
+	"chließfach im Ladengeschäft\x02DHL-Paket handschriftlich frankiert\x02DH" +
+	"L-Paket digital frankiert\x02UPS-Paket direkt von der Druckerei\x02Barza" +
+	"hlung im Ladengeschäft\x02PayPal\x02Konzept\x02Unterstütze uns\x02Hinwei" +
+	"se zur Batterieentsorgung\x02Barzahlung im Ladengeschäft\x02Bargeld per " +
+	"Post"
 
 var en_USIndex = []uint32{ // 38 elements
 	// Entry 0 - 1F
@@ -114,25 +114,25 @@ var en_USIndex = []uint32{ // 38 elements
 	0x00000071, 0x00000084, 0x00000097, 0x000000b1,
 	0x000000b6, 0x000000c2, 0x000000d0, 0x000000dc,
 	0x000000ea, 0x000000fa, 0x00000109, 0x00000114,
-	0x0000011c, 0x0000012f, 0x0000013f, 0x00000158,
-	0x00000187, 0x00000190, 0x000001aa, 0x000001d0,
-	0x000001f0, 0x0000020e, 0x00000236, 0x00000250,
+	0x0000011c, 0x0000012a, 0x0000013a, 0x00000153,
+	0x00000182, 0x0000018b, 0x000001a5, 0x000001cb,
+	0x000001eb, 0x00000209, 0x00000231, 0x0000024b,
 	// Entry 20 - 3F
-	0x00000257, 0x0000025f, 0x0000026a, 0x0000027b,
-	0x00000297, 0x000002a4,
+	0x00000252, 0x0000025a, 0x00000265, 0x00000276,
+	0x00000292, 0x0000029f,
 } // Size: 176 bytes
 
-const en_USData string = "" + // Size: 676 bytes
+const en_USData string = "" + // Size: 671 bytes
 	"\x02Legal\x02Terms and Conditions\x02Privacy policy\x02Imprint\x02Cancel" +
 	"lation Policy\x02Payment\x02Cash\x02Cash by mail in 20 currencies\x02Mon" +
 	"ero and Bitcoin\x02SEPA bank transfer\x02All Services and Projects\x02Wh" +
 	"y?\x02Local Store\x02Digital Goods\x02Online shop\x02Order Service\x02On" +
-	"line printing\x02Contact & News\x02Contact us\x02Germany\x02New opening " +
-	"hours!\x02Mon+Thu 2pm-6pm\x02Tue+Wed+Fri+Sat 10am-2pm\x02Got an idea or " +
-	"found an error? Drop us a note!\x02Delivery\x02Pickup in our local store" +
-	"\x02Pickup from locker in our local store\x02DHL parcel, franked handwri" +
-	"tten\x02DHL parcel, franked digitally\x02UPS parcel directly from our co" +
-	"ntractor\x02Cash payment in our store\x02PayPal\x02Concept\x02Support us" +
-	"\x02Battery Disposal\x02Cash payment in local store\x02Cash by mail"
+	"line printing\x02Contact & News\x02Contact us\x02Germany\x02Opening hour" +
+	"s\x02Mon+Thu 2pm-6pm\x02Tue+Wed+Fri+Sat 10am-2pm\x02Got an idea or found" +
+	" an error? Drop us a note!\x02Delivery\x02Pickup in our local store\x02P" +
+	"ickup from locker in our local store\x02DHL parcel, franked handwritten" +
+	"\x02DHL parcel, franked digitally\x02UPS parcel directly from our contra" +
+	"ctor\x02Cash payment in our store\x02PayPal\x02Concept\x02Support us\x02" +
+	"Battery Disposal\x02Cash payment in local store\x02Cash by mail"
 
-	// Total table size 1728 bytes (1KiB); checksum: F3DA780
+	// Total table size 1717 bytes (1KiB); checksum: 15C7223C
