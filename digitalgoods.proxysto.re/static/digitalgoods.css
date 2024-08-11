@@ -18,10 +18,6 @@ h2 {
 	font-size: 1.5rem;
 }
 
-h2 + div, h2 + table {
-	margin-left: 0.75rem;
-}
-
 td a, td a:hover {
 	color: #198754;
 }
