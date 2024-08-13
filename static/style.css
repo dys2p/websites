@@ -1,3 +1,7 @@
+.d-nojs-none {
+	display: none;
+}
+
 .ritole {
 	unicode-bidi: bidi-override;
 	direction: rtl;
