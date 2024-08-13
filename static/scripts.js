@@ -4,9 +4,27 @@
 //   lorem ipsum
 //   <i class="fa-solid fa-copy ms-1"></i>
 // </a>
-function copyToClipboard(elem){
-	navigator.clipboard.writeText(elem.textContent.trim());
+function copyToClipboard(elem, success, failed){
+	navigator.clipboard.writeText(elem.textContent.trim()).then(
+		function() {
+			if(success) {
+				success.classList.remove("d-none");
+				setTimeout(function() {
+					success.classList.add("d-none");
+				}, 3000)
+			}
+		},
+		function() {
+			if(failed){
+				failed.classList.remove("d-none");
+				setTimeout(function() {
+					failed.classList.add("d-none");
+				}, 3000)
+			}
+		},
+	);
 }
+
 
 function scheduleReload() {
 	setTimeout(function(){

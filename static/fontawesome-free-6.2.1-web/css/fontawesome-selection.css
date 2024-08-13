@@ -540,6 +540,9 @@ readers do not read off random characters that represent icons */
 .fa-user::before {
   content: "\f007"; }
 
+.fa-xmark::before {
+  content: "\f00d"; }
+
 .sr-only,
 .fa-sr-only {
   position: absolute;
