@@ -4,5 +4,4 @@
 * extract `bootstrap-5.2.3/scss`
 * modify `scss/_tables.scss`
   * `.table {` => `table, .table {`
-  * `.blockquote {` => `blockquote, .blockquote {`
-* run `sassc custom.scss | python -m rcssmin -b > bootstrap.min.css`
+* run `sassc custom.scss | python -m rcssmin -b > ../bootstrap.min.css`
