@@ -198,21 +198,21 @@ Wenn Ihr Betriebssystem keine brauchbare Version von fastboot enthält, können 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Debian und Ubuntu:
 
 	sudo apt install libarchive-tools
-curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-linux.zip
-echo 'acfdcccb123a8718c46c46c059b2f621140194e5ec1ac9d81715be3d6ab6cd0a  platform-tools_r35.0.2-linux.zip' | sha256sum -c
-bsdtar xvf platform-tools_r35.0.2-linux.zip
+	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-linux.zip
+	echo 'acfdcccb123a8718c46c46c059b2f621140194e5ec1ac9d81715be3d6ab6cd0a  platform-tools_r35.0.2-linux.zip' | sha256sum -c
+	bsdtar xvf platform-tools_r35.0.2-linux.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter macOS:
 
 	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-darwin.zip
-echo 'SHA256 (platform-tools_r35.0.2-darwin.zip) = 1820078db90bf21628d257ff052528af1c61bb48f754b3555648f5652fa35d78' | shasum -c
-tar xvf platform-tools_r35.0.2-darwin.zip
+	echo 'SHA256 (platform-tools_r35.0.2-darwin.zip) = 1820078db90bf21628d257ff052528af1c61bb48f754b3555648f5652fa35d78' | shasum -c
+	tar xvf platform-tools_r35.0.2-darwin.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Windows:
 
 	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-win.zip
-(Get-FileHash platform-tools_r35.0.2-win.zip).hash -eq "2975a3eac0b19182748d64195375ad056986561d994fffbdc64332a516300bb9"
-tar xvf platform-tools_r35.0.2-win.zip
+	(Get-FileHash platform-tools_r35.0.2-win.zip).hash -eq "2975a3eac0b19182748d64195375ad056986561d994fffbdc64332a516300bb9"
+	tar xvf platform-tools_r35.0.2-win.zip
 	
 Als Nächstes fügen Sie die Tools zu Ihrem `PATH` in der aktuellen Shell hinzu, sodass sie ohne Angabe des Dateipfads verwendet werden können, was die Verwendung durch das Flash-Skript ermöglicht.
 
