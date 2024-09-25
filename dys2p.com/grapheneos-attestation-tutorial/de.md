@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/5142e62292f962cfae3204152bc81b4ca05b38d0/static/tutorial.html">5142e62</a> vom 2023-09-16. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-tutorial/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/2b2dd8c080ac14807bf629792bd5af530f6a0e49/static/tutorial.html">2b2dd8c</a> vom 2024-09-08. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-tutorial/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -59,11 +59,10 @@ Ein Auditor-Gerät kann beliebig viele Auditees überprüfen. Es zeigt einen Fin
 So richten Sie eine regelmäßige Remote Verification über den Remote Attestation Service ein:
 
 1. Erstellen Sie von einem anderen Gerät einen Account auf [https://attestation.app](https://attestation.app).
-2. Drücken Sie den Menü-Button in der App.
-3. Drücken Sie im Menü die Funktion "Enable remote verification".
-4. Scannen Sie den QR-Code Ihres Kontos, der auf https://attestation.app angezeigt wird.
-5. Geben Sie eine E-Mail-Adresse für den Empfang von Warnmeldungen an, falls das Gerät nicht rechtzeitig ein erfolgreiches Attestierungsergebnis liefert.
-6. Aktualisieren Sie https://attestation.app, um das Ergebnis der ersten Attestierung anzuzeigen.
+2. Drücken Sie im Menü "Enable remote verification".
+3. Scannen Sie den QR-Code Ihres Kontos, der auf https://attestation.app angezeigt wird.
+4. Geben Sie eine E-Mail-Adresse für den Empfang von Warnmeldungen an, falls das Gerät nicht rechtzeitig ein erfolgreiches Attestierungsergebnis liefert.
+5. Aktualisieren Sie https://attestation.app, um das Ergebnis der ersten Attestierung anzuzeigen.
 
 <h2 id="expanding-device-support">Ausbau der Geräteunterstützung</h2>
 
