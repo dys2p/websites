@@ -495,6 +495,9 @@ readers do not read off random characters that represent icons */
 .fa-arrow-right::before {
   content: "\f061"; }
 
+.fa-bars::before {
+  content: "\f0c9"; }
+
 .fa-biohazard::before {
   content: "\f780"; }
 
@@ -513,11 +516,17 @@ readers do not read off random characters that represent icons */
 .fa-house::before {
   content: "\f015"; }
 
+.fa-list-ul::before {
+  content: "\f0ca"; }
+
 .fa-magnifying-glass::before {
   content: "\f002"; }
 
 .fa-print::before {
   content: "\f02f"; }
+
+.fa-question::before {
+  content: "\3f"; }
 
 .fa-rotate::before {
   content: "\f2f1"; }
