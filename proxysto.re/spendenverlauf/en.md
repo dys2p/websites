@@ -7,8 +7,9 @@ For every new book you buy [directly from us](https://shop.proxysto.re/category/
 Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
 * Donations from July to December 2023
-  * August 2023: 4,80 EUR
-  * July 2023: 0,00 EUR
+  * September 2024: 1,25 EUR
+  * August 2024: 4,80 EUR
+  * July 2024: 0,00 EUR
 * Donations from January to June 2024
   * June 2024: 0,00 EUR
   * May 2024: 3,99 EUR
@@ -18,7 +19,7 @@ Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS]
   * January 2024: 1,26 EUR
 * Donations from July to December 2023
   * Nachweise: [Internet Archive](/assets/images/donations/2024-01/internet-archive.png), [Qubes OS](/assets/images/donations/2024-01/qubes-os.png), [Sci-Hub](/assets/images/donations/2024-01/sci-hub.png), [Tails](/assets/images/donations/2024-01/tails.png), [Whonix](/assets/images/donations/2024-01/whonix.png)
-  * December 2024: 12,00 EUR
+  * December 2023: 12,00 EUR
   * November 2023: 3,00 EUR
   * October 2023: 35,64 EUR
   * September 2023: 12,94 EUR
@@ -74,14 +75,16 @@ Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS]
 For every sale of a [device with pre-installed DivestOS](https://shop.proxysto.re/category/6) we donate 20.00 EUR to [DivestOS](https://divestos.org).
 
 * 2024
+  * Q3: 60 EUR
+  * Q2: 100 EUR
   * Q1: 20 EUR
-  * Q2: 140 EUR
 
 ## GrapheneOS
 
 For every sale of a [device with pre-installed GrapheneOS](https://shop.proxysto.re/category/6) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
 
 * 2024
+  * Q3: 480 EUR
   * Q2: 340 EUR
   * Q1: 220 EUR
 * 2023: 240 EUR
@@ -94,6 +97,7 @@ For every sale of a [device with pre-installed GrapheneOS](https://shop.proxysto
 For every sale of a [USB stick with pre-installed Tails](https://shop.proxysto.re/conf/990) we donate 2,00 EUR to [Tails](https://tails.net/).
 
 * 2024
+  * Q3: 4,00 EUR
   * Q2: 2,00 EUR
 
 ## Tor Project

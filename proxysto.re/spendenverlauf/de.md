@@ -7,8 +7,9 @@ Für jedes neue Buch, das ihr [direkt bei uns](https://shop.proxysto.re/category
 Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
 * Spenden im Zeitraum Juli bis Dezember 2024
-  * August 2023: 4,80 EUR
-  * Juli 2023: 0,00 EUR
+  * September 2024: 1,25 EUR
+  * August 2024: 4,80 EUR
+  * Juli 2024: 0,00 EUR
 * Spenden im Zeitraum Januar bis Juni 2024
   * Juni 2024: 0,00 EUR
   * Mai 2024: 3,99 EUR
@@ -18,7 +19,7 @@ Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes O
   * Januar 2024: 1,26 EUR
 * Spenden im Zeitraum Juli bis Dezember 2023
   * Nachweise: [Internet Archive](/assets/images/donations/2024-01/internet-archive.png), [Qubes OS](/assets/images/donations/2024-01/qubes-os.png), [Sci-Hub](/assets/images/donations/2024-01/sci-hub.png), [Tails](/assets/images/donations/2024-01/tails.png), [Whonix](/assets/images/donations/2024-01/whonix.png)
-  * Dezember 2024: 12,00 EUR
+  * Dezember 2023: 12,00 EUR
   * November 2023: 3,00 EUR
   * Oktober 2023: 35,64 EUR
   * September 2023: 12,94 EUR
@@ -74,14 +75,16 @@ Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes O
 Für jeden Verkauf eines [Geräts mit vorinstalliertem DivestOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an [DivestOS](https://divestos.org).
 
 * 2024
+  * Q3: 60 EUR
+  * Q2: 100 EUR
   * Q1: 20 EUR
-  * Q2: 140 EUR
 
 ## GrapheneOS
 
 Für jeden Verkauf eines [Geräts mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an [GrapheneOS](https://grapheneos.org).
 
 * 2024
+  * Q3: 480 EUR
   * Q2: 340 EUR
   * Q1: 220 EUR
 * 2023: 240 EUR
@@ -94,6 +97,7 @@ Für jeden Verkauf eines [Geräts mit vorinstalliertem GrapheneOS](https://shop.
 Für jeden Verkauf eines [USB-Stick mit vorinstalliertem Tails](https://shop.proxysto.re/conf/990) spenden wir 2,00 EUR an [Tails](https://tails.net/).
 
 * 2024
+  * Q3: 4,00 EUR
   * Q2: 2,00 EUR
 
 ## Tor Project
