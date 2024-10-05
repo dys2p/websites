@@ -1,3 +1,21 @@
+/* inclusive-sans-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Inclusive Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/fonts/inclusive-sans-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* inclusive-sans-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Inclusive Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/static/fonts/inclusive-sans-v1-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 .d-nojs-none {
 	display: none;
 }
@@ -8,6 +26,7 @@
 }
 
 * {
+	font-family: "Inclusive Sans", sans-serif;
 	hyphens: auto;
 	overflow-wrap: break-word;
 }
