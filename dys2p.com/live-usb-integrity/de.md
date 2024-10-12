@@ -20,14 +20,6 @@ Die Integritätsprüfung eines Tails-Sticks ist **nur von einem anderen Betriebs
 | 6.2           | `sudo head --bytes 1465909248 /dev/$(lsblk -ndo pkname /dev/disk/by-label/TAILS) | sha256sum` | [d93cd5220999d70c32b88f850437774b8cae39a4e9da4845e42a4f53e5e8e6cc](https://gitlab.tails.boum.org/tails/tails/-/blob/9023c841b196be0f92d65832d8e1dec7cc85bd19/wiki/src/install/v2/Tails/amd64/stable/latest.json) |
 | 6.1           | `sudo head --bytes 1433403392 /dev/$(lsblk -ndo pkname /dev/disk/by-label/TAILS) | sha256sum` | [87735e32da9de6592805427546eabb90ae3f52010fb4a4da18791fa630630b8e](https://gitlab.tails.boum.org/tails/tails/-/blob/dc2b1dc65925049878a87de4c8de63e84b3b562a/wiki/src/install/v2/Tails/amd64/stable/latest.json) |
 
-## Ventoy
-
-[Ventoy](https://www.ventoy.net/) ist _die_ Lösung, um mehrere Betriebssystem-Imagedateien auf einem USB-Stick zu speichern. Du kopierst die Imagedateien einfach als Dateien auf den Stick. Wenn du einen Computer von dem Ventoy-USB-Stick startest, wählst du eine Imagedatei aus und Ventoy startet sie. Auf der [Liste der unterstützten Imagedateien](https://www.ventoy.net/en/isolist.html) stehen viele Linux-Distributionen und mehrere Windows-Versionen. Bitte beachte, dass zum Starten von Ventoy _Secure Boot_ deaktiviert sein muss.
-
-| Ventoy-Version | Befehl                                 | Prüfsumme                                                        |
-| -------------- | -------------------------------------- | ---------------------------------------------------------------- |
-| 1.0.98         | `sha256sum /dev/disk/by-label/VTOYEFI` | d2aad0774035fbd8d6de162424a971fb34336a185c89e2ce290861fc1cea2750 |
-
 ## Was machen die Befehle?
 
 Die Befehle zur Integritätsprüfung bestehen aus diesen Einzelteilen:
