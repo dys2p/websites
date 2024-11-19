@@ -1,7 +1,7 @@
 <h1 class="text-center">ProxyStore</h1>
 
 <p class="text-center lead mb-2">Öffnungszeiten: Mo+Do&nbsp;14-18&nbsp;Uhr, Di+Mi+Fr+Sa&nbsp;10-14&nbsp;Uhr</p>
-<p class="text-center lead mb-2"><mark>Neue Adresse:</mark> Wolfgang-Heinze-Straße&nbsp;14, 04277&nbsp;Leipzig, Deutschland</p>
+<p class="text-center lead mb-2">Wolfgang-Heinze-Straße&nbsp;14, 04277&nbsp;Leipzig, Deutschland</p>
 <p class="text-center">Unser Ladeneingang ist leider nicht rollstuhlgerecht.</p>
 
 <div class="row d-xl-none">
