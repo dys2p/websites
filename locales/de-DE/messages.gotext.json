@@ -117,6 +117,11 @@
             "translation": "Di+Mi+Fr+Sa 10-14 Uhr"
         },
         {
+            "id": "See here for short-term changes",
+            "message": "See here for short-term changes",
+            "translation": "Sieh hier für kurzfristige Änderungen"
+        },
+        {
             "id": "Got an idea or found an error? Drop us a note!",
             "message": "Got an idea or found an error? Drop us a note!",
             "translation": "Fehler oder Hinweise? Schreib uns!"

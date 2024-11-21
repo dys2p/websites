@@ -163,6 +163,13 @@
             "fuzzy": true
         },
         {
+            "id": "See here for short-term changes",
+            "message": "See here for short-term changes",
+            "translation": "See here for short-term changes",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
             "id": "Got an idea or found an error? Drop us a note!",
             "message": "Got an idea or found an error? Drop us a note!",
             "translation": "Got an idea or found an error? Drop us a note!",
