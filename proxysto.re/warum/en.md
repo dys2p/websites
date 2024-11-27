@@ -1,4 +1,4 @@
-# Why?
+# Why Data Privacy?
 
 We want to strengthen digital self-defense. This ProxyStore is part of a larger concept that you can find [at dys2p.com](https://dys2p.com/konzept.html).
 
