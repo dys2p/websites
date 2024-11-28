@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/static/proxystore-why.css">
+
 # Warum Datenschutz?
 
 Wir möchten digitale Selbstverteidigung stärken. Dieser ProxyStore ist Teil eines größeren Konzepts, das du [auf dys2p.com findest](https://dys2p.com/konzept.html).
