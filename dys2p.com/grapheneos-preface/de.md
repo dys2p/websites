@@ -14,7 +14,7 @@ _– [Edward Snowden](https://twitter.com/Snowden/status/1588472045960327168), N
 
 Mit unserer deutschen Übersetzung möchten wir die Verbreitung von GrapheneOS fördern und die sprachliche Hürde bei der Installation senken. Wir bemühen uns, die Texte aktuell zu halten. Am Anfang der jeweiligen Übersetzung findest du den Commit-Hash und das Datum der zugrundeliegenden Originalversion.
 
-Für all jene, die keine Zeit für die Installation von GrapheneOS aufwenden möchten, bieten wir [Google-Pixel-Smartphones mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/category/19) an. Bald werden wir auch die Installation auf eigenen Geräten anbieten.
+Für all jene, die keine Zeit für die Installation von GrapheneOS aufwenden möchten, bieten wir [neue Google Pixel optional mit GrapheneOS](https://shop.proxysto.re/category/19) und [gebrauchte Google-Pixel-Smartphones mit GrapheneOS](https://shop.proxysto.re/category/74) sowie einen [GrapheneOS-Installationsservice](https://shop.proxysto.re/conf/1005) an.
 
 Bisher übersetzt:
 
