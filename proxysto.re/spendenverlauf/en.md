@@ -83,10 +83,7 @@ For every sale of a [device with pre-installed DivestOS](https://shop.proxysto.r
 
 For every sale of a [device with pre-installed GrapheneOS](https://shop.proxysto.re/category/6) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
 
-* 2024
-  * Q3: 480 EUR
-  * Q2: 340 EUR
-  * Q1: 220 EUR
+* 2024: [1340 EUR](/assets/images/donations/2025-01/grapheneos.png)
 * 2023: 240 EUR
   * [160 EUR](/assets/images/donations/2024-01/grapheneos.png)
   * [40 EUR](/assets/images/donations/2023-07/2023-06-grapheneos.png)
