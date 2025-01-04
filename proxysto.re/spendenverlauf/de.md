@@ -7,6 +7,9 @@ Für jedes neue Buch, das ihr [direkt bei uns](https://shop.proxysto.re/category
 Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
 * Spenden im Zeitraum Juli bis Dezember 2024
+  * Dezember 2024: 2,60 EUR
+  * November 2024: 19,96 EUR
+  * Oktober 2024: 2,25 EUR
   * September 2024: 1,25 EUR
   * August 2024: 4,80 EUR
   * Juli 2024: 0,00 EUR
@@ -75,6 +78,7 @@ Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes O
 Für jeden Verkauf eines [Geräts mit vorinstalliertem DivestOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an [DivestOS](https://divestos.org).
 
 * 2024
+  * Q4: 20 EUR
   * Q3: 60 EUR
   * Q2: 100 EUR
   * Q1: 20 EUR
@@ -104,7 +108,7 @@ Für jeden Verkauf eines [USB-Stick mit vorinstalliertem Tails](https://shop.pro
 ## Summe bis Dezember 2023
 
  * [Electronic Frontier Foundation](https://www.eff.org/): 11,72 USD
- * [GrapheneOS](https://grapheneos.org/): 240,00 EUR
+ * [GrapheneOS](https://grapheneos.org/): 1580,00 EUR
  * [Internet Archive](https://archive.org/): 56,09 USD
  * [Qubes OS](https://www.qubes-os.org/): ca. 46,00 EUR + 5,00 USD
  * [Sci-Hub](https://de.wikipedia.org/wiki/Sci-Hub): ca. 191,00 EUR
