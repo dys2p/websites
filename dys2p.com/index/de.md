@@ -25,7 +25,7 @@
 ## Übersetzungen
 
 * [Aaron Swartz: Guerilla Open Access Manifest](2021-08-open-access.html)
-* [Blink Comparison](https://f-droid.org/de/packages/org.proninyaroslav.blink_comparison/) App ([Übersetzung der Bedienoberfläche auf Deutsch](https://github.com/proninyaroslav/blink-comparison/commits?author=b068931cc450442b63f5b3d276ea4297))
+* [Blink Comparison](https://f-droid.org/packages/org.proninyaroslav.blink_comparison/) App ([Übersetzung der Bedienoberfläche auf Deutsch](https://github.com/proninyaroslav/blink-comparison/commits?author=b068931cc450442b63f5b3d276ea4297))
 * [Christian Kirtchev: Ein Cyberpunk Manifest](2021-08-cyberpunk.html)
 * [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](2021-03-new-oil.html)
 * [Cory Doctorow: Wie man den Überwachungskapitalismus zerstört](2021-04-how-to-destroy-surveillance-capitalism.html)
