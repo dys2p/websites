@@ -4,7 +4,7 @@
 <p class="text-center lead mb-2">Wolfgang-Heinze-Straße&nbsp;14, 04277&nbsp;Leipzig, Deutschland</p>
 <p class="text-center">Unser Ladeneingang ist leider nicht rollstuhlgerecht.</p>
 
-<div class="row d-xl-none">
+<div class="row">
 	<div class="col-lg">
 		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
@@ -34,8 +34,6 @@
 		</div>
 	</div>
 </div>
-
-## Onlinesortiment
 
 Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) und Produkten aus [unserem Onlineshop](https://shop.proxysto.re) ist vollumfänglich in unserem Ladengeschäft erhältlich. Auch Aufträge aus [unserem Bestellservice](https://order.proxysto.re) und [unserem Onlinedruck-Service](https://druck.proxysto.re) kannst du hier bezahlen und abholen.
 

@@ -4,7 +4,7 @@
 <p class="text-center lead mb-2">Wolfgang-Heinze-Straße&nbsp;14, 04277&nbsp;Leipzig, Germany</p>
 <p class="text-center">Unfortunately, our store entrance is not wheelchair accessible.</p>
 
-<div class="row d-xl-none">
+<div class="row">
 	<div class="col-lg">
 		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
@@ -34,8 +34,6 @@
 		</div>
 	</div>
 </div>
-
-## Products from our online shops
 
 Our range of [digital goods](https://digitalgoods.proxysto.re) and products from [our online shop](https://shop.proxysto.re) is fully available in our local store. You can also pay and pick up orders from [our order service](https://order.proxysto.re) and [our online printing service](https://druck.proxysto.re) here.
 
