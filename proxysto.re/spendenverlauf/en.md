@@ -75,17 +75,13 @@ Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS]
 
 ## DivestOS
 
-For every sale of a [device with pre-installed DivestOS](https://shop.proxysto.re/category/6) we donate 20.00 EUR to [DivestOS](https://divestos.org).
+For every sale of a smartphone with pre-installed DivestOS we had planned to donate 20.00 EUR to [DivestOS](https://web.archive.org/web/20300000000000/https://divestos.org/). After DivestOS was discontinued at the end of 2024, we contacted the DivestOS maintainer and donated to the Software Freedom Conservancy instead.
 
-* 2024
-  * Q4: 20 EUR
-  * Q3: 60 EUR
-  * Q2: 100 EUR
-  * Q1: 20 EUR
+* 2024: [200 EUR](/assets/images/donations/2025-01/divestos_2024.png)
 
 ## GrapheneOS
 
-For every sale of a [device with pre-installed GrapheneOS](https://shop.proxysto.re/category/6) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
+For every sale of a [smartphone with pre-installed GrapheneOS](https://shop.proxysto.re/category/6) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
 
 * 2024: [1340 EUR](/assets/images/donations/2025-01/grapheneos.png)
 * 2023: 240 EUR
