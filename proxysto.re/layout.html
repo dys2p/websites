@@ -3,6 +3,14 @@
 	<meta name="author" content="ProxyStore">
 	<meta name="description" content="Buy goods from our online shops and use our devices in our local store in Leipzig (Germany).">
 	<link rel="stylesheet" href="/static/proxystore.css">
+	<script type="application/ld+json">
+		{
+			"@context" : "https://schema.org",
+			"@type" : "WebSite",
+			"name" : "ProxyStore",
+			"url" : "https://proxysto.re/"
+		}
+	</script>
 	<title>ProxyStore{{with .Title}}{{if ne . "ProxyStore"}} › {{.}}{{end}}{{end}}</title>
 	{{.Hreflangs}}
 {{end}}
