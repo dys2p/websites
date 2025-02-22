@@ -247,6 +247,13 @@
             "fuzzy": true
         },
         {
+            "id": "myflexbox Locker via DPD (Germany only)",
+            "message": "myflexbox Locker via DPD (Germany only)",
+            "translation": "myflexbox Locker via DPD (Germany only)",
+            "translatorComment": "Copied from source.",
+            "fuzzy": true
+        },
+        {
             "id": "Battery Disposal",
             "message": "Battery Disposal",
             "translation": "Battery Disposal",

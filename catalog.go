@@ -40,12 +40,12 @@ func init() {
 
 var messageKeyToIndex = map[string]int{
 	"All Services and Projects":       10,
-	"Battery Disposal":                35,
+	"Battery Disposal":                36,
 	"Cancellation Policy":             4,
 	"Cash":                            6,
-	"Cash by mail":                    37,
+	"Cash by mail":                    38,
 	"Cash by mail in 20 currencies":   7,
-	"Cash payment in local store":     36,
+	"Cash payment in local store":     37,
 	"Cash payment in our store":       31,
 	"Concept":                         33,
 	"Contact & News":                  17,
@@ -77,9 +77,10 @@ var messageKeyToIndex = map[string]int{
 	"Tue+Wed+Fri+Sat 10am-2pm":              22,
 	"UPS parcel directly from our contractor": 30,
 	"Why?": 11,
+	"myflexbox Locker via DPD (Germany only)": 35,
 }
 
-var de_DEIndex = []uint32{ // 39 elements
+var de_DEIndex = []uint32{ // 40 elements
 	// Entry 0 - 1F
 	0x00000000, 0x0000000c, 0x00000010, 0x0000001c,
 	0x00000026, 0x00000039, 0x00000043, 0x0000004b,
@@ -91,10 +92,10 @@ var de_DEIndex = []uint32{ // 39 elements
 	0x000001f0, 0x00000214, 0x00000230, 0x00000253,
 	// Entry 20 - 3F
 	0x00000270, 0x00000277, 0x0000027f, 0x00000290,
-	0x000002b0, 0x000002cd, 0x000002de,
-} // Size: 180 bytes
+	0x000002c1, 0x000002e1, 0x000002fe, 0x0000030f,
+} // Size: 184 bytes
 
-const de_DEData string = "" + // Size: 734 bytes
+const de_DEData string = "" + // Size: 783 bytes
 	"\x02Rechtliches\x02AGB\x02Datenschutz\x02Impressum\x02Widerrufsbelehrung" +
 	"\x02Bezahlung\x02Bargeld\x02Bargeld per Post in 20 Währungen\x02Monero u" +
 	"nd Bitcoin\x02SEPA-Überweisung\x02Alle Angebote und Projekte\x02Warum?" +
@@ -105,10 +106,11 @@ const de_DEData string = "" + // Size: 734 bytes
 	"holung im Ladengeschäft\x02Abholung aus Schließfach im Ladengeschäft\x02" +
 	"DHL-Paket handschriftlich frankiert\x02DHL-Paket digital frankiert\x02UP" +
 	"S-Paket direkt von der Druckerei\x02Barzahlung im Ladengeschäft\x02PayPa" +
-	"l\x02Konzept\x02Unterstütze uns\x02Hinweise zur Batterieentsorgung\x02Ba" +
-	"rzahlung im Ladengeschäft\x02Bargeld per Post"
+	"l\x02Konzept\x02Unterstütze uns\x02myflexbox-Abholautomat via DPD (nur D" +
+	"eutschland)\x02Hinweise zur Batterieentsorgung\x02Barzahlung im Ladenges" +
+	"chäft\x02Bargeld per Post"
 
-var en_USIndex = []uint32{ // 39 elements
+var en_USIndex = []uint32{ // 40 elements
 	// Entry 0 - 1F
 	0x00000000, 0x00000006, 0x0000001b, 0x0000002a,
 	0x00000032, 0x00000046, 0x0000004e, 0x00000053,
@@ -120,10 +122,10 @@ var en_USIndex = []uint32{ // 39 elements
 	0x000001eb, 0x0000020b, 0x00000229, 0x00000251,
 	// Entry 20 - 3F
 	0x0000026b, 0x00000272, 0x0000027a, 0x00000285,
-	0x00000296, 0x000002b2, 0x000002bf,
-} // Size: 180 bytes
+	0x000002ad, 0x000002be, 0x000002da, 0x000002e7,
+} // Size: 184 bytes
 
-const en_USData string = "" + // Size: 703 bytes
+const en_USData string = "" + // Size: 743 bytes
 	"\x02Legal\x02Terms and Conditions\x02Privacy policy\x02Imprint\x02Cancel" +
 	"lation Policy\x02Payment\x02Cash\x02Cash by mail in 20 currencies\x02Mon" +
 	"ero and Bitcoin\x02SEPA bank transfer\x02All Services and Projects\x02Wh" +
@@ -134,7 +136,7 @@ const en_USData string = "" + // Size: 703 bytes
 	"y\x02Pickup in our local store\x02Pickup from locker in our local store" +
 	"\x02DHL parcel, franked handwritten\x02DHL parcel, franked digitally\x02" +
 	"UPS parcel directly from our contractor\x02Cash payment in our store\x02" +
-	"PayPal\x02Concept\x02Support us\x02Battery Disposal\x02Cash payment in l" +
-	"ocal store\x02Cash by mail"
+	"PayPal\x02Concept\x02Support us\x02myflexbox Locker via DPD (Germany onl" +
+	"y)\x02Battery Disposal\x02Cash payment in local store\x02Cash by mail"
 
-	// Total table size 1797 bytes (1KiB); checksum: 3C493F39
+	// Total table size 1894 bytes (1KiB); checksum: D0FA265E

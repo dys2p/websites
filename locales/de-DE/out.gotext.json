@@ -177,6 +177,11 @@
             "translation": "Unterstütze uns"
         },
         {
+            "id": "myflexbox Locker via DPD (Germany only)",
+            "message": "myflexbox Locker via DPD (Germany only)",
+            "translation": "myflexbox-Abholautomat via DPD (nur Deutschland)"
+        },
+        {
             "id": "Battery Disposal",
             "message": "Battery Disposal",
             "translation": "Hinweise zur Batterieentsorgung"
