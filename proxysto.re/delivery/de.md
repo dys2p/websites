@@ -4,20 +4,21 @@
 
 **Versand:** Daneben stehen dir mehrere Versandoptionen zur Verfügung. Unsere Onlineshops löschen deine Lieferadresse zwei Wochen nach dem Versand. Du kannst uns die Lieferadresse auch anderweitig übermitteln, beispielsweise per Messenger oder auf einem Blatt Papier.
 
-* **DHL Paket handschriftlich frankiert**: ab 7,40 €
-* DHL Paket **digital frankiert**: ab 5,60 €
-* **Deutsche Post Einschreiben Einwurf** (falls möglich): ab 3,81 €
-* Deutsche Post **Einschreiben Wert** (falls möglich): ab 6,31 €
-* **Eigene DHL-Paketmarke**: 0 €
+* **DHL Paket handschriftlich frankiert**
+  * Haustürzustellung
+  * Packstation oder Postfiliale: nur in Deutschland, nur mit DHL-Postnummer
+* DHL Paket **digital frankiert**
+  * Haustürzustellung
+  * Packstation oder Postfiliale: nur in Deutschland, nur mit DHL-Postnummer
+  * DHL-Paketshop: nur Belgien, Dänemark, Estland, Finnland, Lettland, Litauen, Österreich, Schweden, Schweiz, Zypern
+* **Deutsche Post Einschreiben** oder **Einschreiben Wert** (falls möglich)
+  * Einschreiben Einwurf: nur in Deutschland
+  * Einschreiben mit Unterschrift: andere Länder
+* **Eigene DHL-Paketmarke**
   * Dazu lässt du uns eine bezahlte und beschriftete DHL-Paketmarke zukommen. Wähle bitte eine Paketmarke, die zu dem Gewicht und der Größe deiner Bestellung passt. Gibt die Adresse unseres Ladengeschäfts als Absendeadresse an.
-
-Wir versenden auch an DHL Packstationen. Wie du die Adresse einer DHL-Packstation eingeben kannst, erfährst du auf <a rel="noreferrer" href="https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation/empfangen-packstation.html" target="_blank">dhl.de</a>. Dazu brauchst du ein DHL-Kundenkonto mit Postnummer.
-
-<h2 id="lockers">Schließfächer</h2>
-
-Du kannst bestellte Waren kontaktlos in unserem Ladengeschäft abholen. Dazu haben wir mehrere Schließfächer, die beiden größten messen 59 x 40 x 58 cm. Zum Schutz vor etwaigen Diebstahlversuchen während der Öffnungszeiten werden wir die Schließfächer bei geringer Auslastung zusätzlich mit Vorhängeschlössern versehen. Bei hohem Lärmpegel, welcher bei Aufbruchversuchen entstehen kann, werden wir eingreifen. Eine hundertprozentige Sicherheit können wir dennoch nicht gewährleisten.
-
-Damit wir das Schließfach sichern können und du (oder jemand, der es für dich abholt) es entsichern kannst, musst du uns ein Schloss (Bügeldurchmesser maximal 9 mm) mitsamt eines Schlüssels bzw. Zahlencodes und deiner Auftragsnummer zukommen lassen – per Post oder persönlich in einen unserer dafür vorgesehenen Briefkästen im Laden. Bedenke dass Postsendungen verloren gehen können oder überwacht werden können. Achte darauf, dass du ein sicheres Schloss verwendest und dein Schloss vor Ort wiedererkennst.
+* **myflexbox**-Abholautomat via DPD
+  * nur in Deutschland
+  * Ein Abholcode wird an die angegebene E-Mail-Adresse gesendet. Das Paket liegt 3 Kalendertage lang zur Abholung bereit. Versand an Pseudonym ist möglich. Die Abholautomaten sind videoüberwacht. Nur möglich für Sendungen bis maximal 65 x 40 x 35 cm.
 
 <h2 id="sealed-shipping">Versiegelter Versand für ausgewählte Artikel</h2>
 
@@ -41,3 +42,9 @@ Du kannst sicherheitshalber schon jetzt ein Foto des Musters machen. Schneide da
 Mit der Anwendung [Blink Comparison](https://github.com/proninyaroslav/blink-comparison) kannst du die von uns übermittelten Ursprungsfotos mit dem Muster, das vor dir liegt, gut vergleichen. Wenn die Muster übereinstimmen und wenn nach dem Öffnen des inneren Beutels alle Elemente der verwendeten Substanz locker zusammenfallen, ist unserer aktuellen Einschätzung nach ein unautorisierter Zugriffsversuch sehr unwahrscheinlich. Bedenke, dass das Ausüben von hohem Druck auf die versiegelte Verpackung das Muster verzerren kann.
 
 Falls dein E-Mail-Client die Verifizierung von PGP-signierten E-Mails nicht unterstützt, erfährst du [beispielsweise hier](https://web.archive.org/web/20230227141306/https://rvnrstnsyh.dev/pgp_mime_signature_verification), wie du PGP-signierte E-Mails manuell verifizieren kannst. Zum Verifizieren brauchst du unseren öffentlichen PGP-Schlüssel, den du [auf unserer Webseite](https://dys2p.com/de/contact.html) und auf [GitHub](https://github.com/dys2p/websites/blob/main/proxysto.re/contact/de.md) findest.
+
+<h2 id="lockers">Schließfächer in unserem Ladengeschäft</h2>
+
+Du kannst bestellte Waren kontaktlos in unserem Ladengeschäft abholen. Dazu haben wir mehrere Schließfächer, die beiden größten messen 59 x 40 x 58 cm. Zum Schutz vor etwaigen Diebstahlversuchen während der Öffnungszeiten werden wir die Schließfächer bei geringer Auslastung zusätzlich mit Vorhängeschlössern versehen. Bei hohem Lärmpegel, welcher bei Aufbruchversuchen entstehen kann, werden wir eingreifen. Eine hundertprozentige Sicherheit können wir dennoch nicht gewährleisten.
+
+Damit wir das Schließfach sichern können und du (oder jemand, der es für dich abholt) es entsichern kannst, musst du uns ein Schloss (Bügeldurchmesser maximal 9 mm) mitsamt eines Schlüssels bzw. Zahlencodes und deiner Auftragsnummer zukommen lassen – per Post oder persönlich in einen unserer dafür vorgesehenen Briefkästen im Laden. Bedenke dass Postsendungen verloren gehen können oder überwacht werden können. Achte darauf, dass du ein sicheres Schloss verwendest und dein Schloss vor Ort wiedererkennst.
