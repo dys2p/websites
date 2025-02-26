@@ -17,7 +17,8 @@
 * **Eigene DHL-Paketmarke**
   * Dazu lässt du uns eine bezahlte und beschriftete DHL-Paketmarke zukommen. Wähle bitte eine Paketmarke, die zu dem Gewicht und der Größe deiner Bestellung passt. Gibt die Adresse unseres Ladengeschäfts als Absendeadresse an.
 * **myflexbox**-Abholautomat via DPD
-  * nur in Deutschland
+  * nur in Deutschland, [mehr als 500 Standorte](https://www.myflexbox.com/de-de/#myflexboxfinder)
+  * kein Account nötig
   * Ein Abholcode wird an die angegebene E-Mail-Adresse gesendet. Das Paket liegt 3 Kalendertage lang zur Abholung bereit. Versand an Pseudonym ist möglich. Die Abholautomaten sind videoüberwacht. Nur möglich für Sendungen bis maximal 65 x 40 x 35 cm.
 
 <h2 id="sealed-shipping">Versiegelter Versand für ausgewählte Artikel</h2>
