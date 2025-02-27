@@ -10,7 +10,7 @@
 * DHL parcel, **franked digitally**
   * doorstep delivery
   * Packstation or post office: only in Germany, only with DHL PostNumber
-  * DHL Droppoint: only Austria, Belgium, Cyprus, Denmark, Estonia, Finland, Latvia, Lithuania, Sweden, Switzerland
+  * DHL Droppoint: only Austria, Belgium, Bulgaria, Czech Republic, Cyprus, Denmark, Estonia, Finland, Latvia, Lithuania, Poland, Sweden, Switzerland
 * **Deutsche Post registered mail** or **registered value mail** (if applicable)
   * into your letterbox: only in Germany
   * with signature required: other countries

@@ -10,7 +10,7 @@
 * DHL Paket **digital frankiert**
   * Haustürzustellung
   * Packstation oder Postfiliale: nur in Deutschland, nur mit DHL-Postnummer
-  * DHL-Paketshop: nur Belgien, Dänemark, Estland, Finnland, Lettland, Litauen, Österreich, Schweden, Schweiz, Zypern
+  * DHL-Paketshop: nur Belgien, Bulgarien, Dänemark, Estland, Finnland, Lettland, Litauen, Österreich, Polen, Tschechische Republik, Schweden, Schweiz, Zypern
 * **Deutsche Post Einschreiben** oder **Einschreiben Wert** (falls möglich)
   * Einschreiben Einwurf: nur in Deutschland
   * Einschreiben mit Unterschrift: andere Länder
