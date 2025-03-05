@@ -35,4 +35,5 @@ function scheduleReload() {
 document.addEventListener('DOMContentLoaded', function() {
 	document.querySelectorAll(".d-js-none").forEach(e => e.remove());
 	document.querySelectorAll(".d-nojs-none").forEach(e => e.classList.remove("d-nojs-none")); // style.css: .d-nojs-none { display: none; }
+	document.querySelectorAll(".d-scroll-into-view").forEach(e => e.scrollIntoView({block: "nearest"}));
 });
