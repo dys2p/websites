@@ -126,3 +126,20 @@ pre {
 	border-radius: 0.375rem;
 	padding: 0.6em 0.8em;
 }
+
+/* scroll shadows */
+
+.list-group-item {
+	background: none; /* else it covers the scroll shadows */
+}
+
+.scroll-shadows {
+	animation-name: scroll-shadow-inset;
+	animation-timeline: scroll(self block);
+	animation-timing-function: linear;
+}
+
+@keyframes scroll-shadow-inset {
+	from { box-shadow: inset -10px -10px 15px 0px rgba(0, 0, 0, 0.33); }
+	to { box-shadow: inset -10px 10px 15px 0px rgba(0, 0, 0, 0.33); }
+}
