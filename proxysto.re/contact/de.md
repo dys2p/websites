@@ -4,23 +4,25 @@
 
 <code>mail <span class="ritole">ta</span> proxysto.re</code>
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
+<details>
+       <summary class="mb-3">PGP-Key</summary>
 
-xjMEYDTxBBYJKwYBBAHaRw8BAQdAbmZi0s0dITzWYzsy1myZvPlSz9ChsWbE80Mt
-g2ghZRPNHXByb3h5c3RvcmUgPG1haWxAcHJveHlzdG8ucmU+wpEEExYIADkWIQRG
-yaiyh4BpBDRyz6B24tTHYs50dgUCZdnk7QUJCWfq7AIbAwULCQgHAgYVCAkKCwIF
-FgIDAQAACgkQduLUx2LOdHargwD+LlFpQWkJuGIvgtdWa7mlyVynvATx7hB0wNr2
-ithUVnoBAPgd2QeaVAh+dPseHSvkgFXrkT/DxFdaLDF6AIEACmgOzjgEYDTxBBIK
-KwYBBAGXVQEFAQEHQH1Y1AXf8v/J6UpDqdXcX2xDObN6xwO3IZresvmd8BdhAwEI
-B8J+BBgWCAAmFiEERsmosoeAaQQ0cs+gduLUx2LOdHYFAmXZ5O0FCQln6uwCGwwA
-CgkQduLUx2LOdHZvEQD+PgJ7RShPrap3QfZoYMFQF6dq7RtWVHjPg/+oAwMASz8A
-+gKIlzlMJ958/ae2rXwGgDHy+ZNjZZIyiKU21QB0l1oL
-=Uwa8
------END PGP PUBLIC KEY BLOCK-----
-```
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Fingerprint des PGP public keys: `46C9 A8B2 8780 6904 3472 CFA0 76E2 D4C7 62CE 7476`
+    xjMEYDTxBBYJKwYBBAHaRw8BAQdAbmZi0s0dITzWYzsy1myZvPlSz9ChsWbE80Mt
+    g2ghZRPNHXByb3h5c3RvcmUgPG1haWxAcHJveHlzdG8ucmU+wpEEExYIADkWIQRG
+    yaiyh4BpBDRyz6B24tTHYs50dgUCZdnk7QUJCWfq7AIbAwULCQgHAgYVCAkKCwIF
+    FgIDAQAACgkQduLUx2LOdHargwD+LlFpQWkJuGIvgtdWa7mlyVynvATx7hB0wNr2
+    ithUVnoBAPgd2QeaVAh+dPseHSvkgFXrkT/DxFdaLDF6AIEACmgOzjgEYDTxBBIK
+    KwYBBAGXVQEFAQEHQH1Y1AXf8v/J6UpDqdXcX2xDObN6xwO3IZresvmd8BdhAwEI
+    B8J+BBgWCAAmFiEERsmosoeAaQQ0cs+gduLUx2LOdHYFAmXZ5O0FCQln6uwCGwwA
+    CgkQduLUx2LOdHZvEQD+PgJ7RShPrap3QfZoYMFQF6dq7RtWVHjPg/+oAwMASz8A
+    +gKIlzlMJ958/ae2rXwGgDHy+ZNjZZIyiKU21QB0l1oL
+    =Uwa8
+    -----END PGP PUBLIC KEY BLOCK-----
+
+Fingerprint: `46C9 A8B2 8780 6904 3472 CFA0 76E2 D4C7 62CE 7476`
+</details>
 
 ## Matrix
 
@@ -42,10 +44,13 @@ Letzte Änderung der Sicherheitsnummer: 2023-12-29
 
 <code>proxystore <span class="ritole">ta</span> jabber.dys2p.com</code>
 
-OTR-Fingerprints:
+<details>
+       <summary class="mb-3">OTR-Fingerprints</summary>
 
 * `30D426F8 2B7ACD2C 475D20B3 D3785469 1B0EB5A9`
 * `6B9B5483 324F7F61 4F2051E9 6ABA2924 69D8FF47`
+
+</details>
 
 ## Tor Hidden Services
 
