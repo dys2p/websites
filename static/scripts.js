@@ -1,3 +1,10 @@
+function addToValue(id, addend) {
+	let elem = document.getElementById(id);
+	if(elem) {
+		elem.value = Math.max(parseInt(elem.value) + addend, 0);
+	}
+}
+
 // usage:
 //
 // <a role="button" onclick="copyToClipboard(this)">
@@ -29,7 +36,7 @@ function copyToClipboard(elem, success, failed){
 function scheduleReload() {
 	setTimeout(function(){
 		window.location.reload(1);
-	}, 5*60*1000); // 5 minutes
+	}, 60*1000); // 60 seconds
 }
 
 document.addEventListener('DOMContentLoaded', function() {
