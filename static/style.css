@@ -144,3 +144,15 @@ pre {
 	from { box-shadow: inset -10px -10px 15px 0px rgba(0, 0, 0, 0.33); }
 	to { box-shadow: inset -10px 10px 15px 0px rgba(0, 0, 0, 0.33); }
 }
+
+/* class d-hide-spinner for hiding plus/minus buttons */
+
+input.d-hide-spinner::-webkit-outer-spin-button,
+input.d-hide-spinner::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+input.d-hide-spinner[type=number] {
+	-moz-appearance: textfield;
+}
