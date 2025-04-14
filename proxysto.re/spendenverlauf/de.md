@@ -96,21 +96,20 @@ Für jeden Verkauf eines [Smartphones mit vorinstalliertem GrapheneOS](https://s
 
 Für jeden Verkauf eines [USB-Stick mit vorinstalliertem Tails](https://shop.proxysto.re/conf/990) spenden wir 2,00 EUR an [Tails](https://tails.net/).
 
-* 2024
-  * Q3: 4,00 EUR
-  * Q2: 2,00 EUR
+* 2024: [10 EUR](/assets/images/donations/2025-04/tails.png)
 
 ## Tor Project
 
 * insgesamt: [26,00 USD](/assets/images/donations/2024-01/tor-project.png)
 
-## Summe bis Dezember 2023
+## Summe bis Dezember 2024
 
  * [Electronic Frontier Foundation](https://www.eff.org/): 11,72 USD
  * [GrapheneOS](https://grapheneos.org/): 1580,00 EUR
- * [Internet Archive](https://archive.org/): 56,09 USD
- * [Qubes OS](https://www.qubes-os.org/): ca. 46,00 EUR + 5,00 USD
- * [Sci-Hub](https://de.wikipedia.org/wiki/Sci-Hub): ca. 191,00 EUR
+ * [Internet Archive](https://archive.org/): 69,65 USD
+ * [Qubes OS](https://www.qubes-os.org/): ca. 58,51 EUR + 5,00 USD
+ * [Sci-Hub](https://de.wikipedia.org/wiki/Sci-Hub): ca. 203,50 EUR
+ * [Software Freedom Conservancy](https://sfconservancy.org/): 200,00 EUR
  * [Tor Project](https://www.torproject.org/): 26,00 USD
- * [Tails](https://tails.net): ca. 66,00 EUR + 5,00 USD
- * [Whonix](https://www.whonix.org/): ca. 51,00 EUR
+ * [Tails](https://tails.net): ca. 76,00 EUR + 19,00 USD
+ * [Whonix](https://www.whonix.org/): ca. 63,51 EUR
