@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/5bbca48d0e96effb3c66a9674c7a06670c3917df/static/install/web.html">5bbca48</a> vom 2024-09-03. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-web/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/d8b8fb9e426ac88901c92b72cdb80c0745e21dc8/static/install/web.html">d8b8fb9</a> vom 2025-04-26. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-web/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -52,7 +52,7 @@ Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen
       <a href="#flashing-as-non-root">Flash als Nicht-Root-Benutzer</a>
     </li>
     <li>
-      <a href="#working-around-fwupd-bug-on-linux-distributions">Umgehen des fwupd-Bugs auf Linux-Distributionen</a>
+      <a href="#working-around-fwupd-bugs-on-linux-distributions">Umgehen der fwupd-Bugs auf Linux-Distributionen</a>
     </li>
     <li>
       <a href="#booting-into-the-bootloader-interface">Booten in den Bootloader-Modus</a>
@@ -115,15 +115,16 @@ Offiziell unterstützte Betriebssysteme für die Web-Installationsmethode:
 
 * Windows 10
 * Windows 11
-* macOS Monterey (12)
 * macOS Ventura (13)
 * macOS Sonoma (14)
+* macOS Sequoia (15)
 * Arch Linux
 * Debian 11 (bullseye)
 * Debian 12 (bookworm)
 * Ubuntu 20.04 LTS
 * Ubuntu 22.04 LTS
 * Ubuntu 24.04 LTS
+* Ubuntu 24.10
 * Linux Mint 20 (nutze die Anweisungen für Ubuntu 20.04 LTS)
 * Linux Mint 21 (nutze die Anweisungen für Ubuntu 22.04 LTS)
 * Linux Mint 22 (nutze die Anweisungen für Ubuntu 24.04 LTS)
@@ -133,6 +134,7 @@ Offiziell unterstützte Betriebssysteme für die Web-Installationsmethode:
 * Android 12 mit Play Protect-Zertifizierung
 * Android 13 mit Play Protect-Zertifizierung
 * Android 14 mit Play Protect-Zertifizierung
+* Android 15 with Play Protect certification
 
 Stellen Sie sicher, dass Ihr Betriebssystem auf dem neuesten Stand ist, bevor Sie fortfahren.
 
@@ -144,13 +146,15 @@ Offiziell unterstützte Browser für die Web-Installationsmethode:
 * Microsoft Edge
 * Brave (mit deaktivierten Brave Shields, da es die Speichernutzung auf einen niedrigen Wert begrenzt, um ein Fingerprinting des verfügbaren Speichers zu vermeiden)
 
+Unter Android müssen Sie den Desktop-Modus für den Browser deaktivieren, da er derzeit verhindert, dass der Web-Installer Android erkennt und nach jedem Neustart die Erlaubnis zur erneuten Verbindung mit dem Gerät einholen muss. Der Desktop-Modus ist auf großen Tablets mit mindestens 8 GB RAM, wie dem Pixel Tablet, standardmäßig aktiviert.
+
 Sie sollten Flatpak- und Snap-Versionen von Browsern vermeiden, da diese dafür bekannt sind, während des Installationsvorgangs Probleme zu verursachen.
 
 Vergewissern Sie sich, dass Ihr Browser auf dem neuesten Stand ist, bevor Sie fortfahren.
 
 Verwenden Sie keinen Inkognito-Modus oder andere private Browsing-Modi. Diese Modi verhindern in der Regel, dass das Web-Installationsprogramm über genügend Speicherplatz verfügt, um die heruntergeladene Version zu extrahieren.
 
-Sie benötigen eines der offiziell unterstützten Geräte. Um sicherzustellen, dass das Gerät für die Installation von GrapheneOS freigeschaltet werden kann, sollten Sie netzbetreiber-spezifische Geräte vermeiden. Netzbetreiber-spezifische Varianten der Pixel-Smartphones verwenden dasselbe Stock-Betriebssystem und dieselbe Firmware, aber mit einer Carrier-ID ungleich Null, die bei der Herstellung auf die persistente Partition geflasht wurde. Die Carrier-ID aktiviert eine netzbetreiber-spezifische Konfiguration im Stock-Betriebssystem, einschließlich einer Deaktivierung der Netzbetreiber- und Bootloader-Entsperrung. Der Netzbetreiber kann dies möglicherweise aus der Ferne deaktivieren, aber seine Support-Mitarbeiter wissen das möglicherweise nicht und werden es wahrscheinlich auch nicht tun. Holen Sie sich ein netzbetreiberunabhängiges Gerät, um das Risiko und möglichen Ärger zu vermeiden. Wenn Sie einen Weg finden _können_, ein netzbetreiber-spezifisches Gerät zu entsperren, ist das kein Problem, da GrapheneOS die Carrier-ID einfach ignorieren kann und die Hardware die gleiche ist.
+Sie benötigen eines der [offiziell unterstützten Geräte](https://grapheneos.org/faq#supported-devices). Um sicherzustellen, dass das Gerät für die Installation von GrapheneOS freigeschaltet werden kann, sollten Sie netzbetreiber-spezifische Geräte vermeiden. Netzbetreiber-spezifische Varianten der Pixel-Smartphones verwenden dasselbe Stock-Betriebssystem und dieselbe Firmware, aber mit einer Carrier-ID ungleich Null, die bei der Herstellung auf die persistente Partition geflasht wurde. Die Carrier-ID aktiviert eine netzbetreiber-spezifische Konfiguration im Stock-Betriebssystem, einschließlich einer Deaktivierung der Netzbetreiber- und Bootloader-Entsperrung. Der Netzbetreiber kann dies möglicherweise aus der Ferne deaktivieren, aber seine Support-Mitarbeiter wissen das möglicherweise nicht und werden es wahrscheinlich auch nicht tun. Holen Sie sich ein netzbetreiberunabhängiges Gerät, um das Risiko und möglichen Ärger zu vermeiden. Wenn Sie einen Weg finden _können_, ein netzbetreiber-spezifisches Gerät zu entsperren, ist das kein Problem, da GrapheneOS die Carrier-ID einfach ignorieren kann und die Hardware die gleiche ist.
 
 Es hat sich bewährt, das Gerät vor der Installation von GrapheneOS zu aktualisieren, um beim Anschluss des Gerätes an den Computer und in der frühen Phase des Installationsprozesses die neueste Firmware zu haben. So oder so, GrapheneOS flasht die neueste Firmware zu Beginn des Installationsprozesses.
 
@@ -170,9 +174,9 @@ Bei traditionellen Linux-Distributionen können USB-Geräte ohne udev-Regeln fü
 
 Unter Arch Linux installieren Sie das Paket `android-udev`. Unter Debian und Ubuntu installieren Sie das Paket `android-sdk-platform-tools-common`.
 
-<h2 id="working-around-fwupd-bug-on-linux-distributions">Umgehen des fwupd-Bugs auf Linux-Distributionen</h2>
+<h2 id="working-around-fwupd-bugs-on-linux-distributions">Umgehen der fwupd-Bugs auf Linux-Distributionen</h2>
 
-Debian Stable und Ubuntu haben ein veraltetes fwupd-Paket mit einem Fehler, der die Verbindung zu Androids Bootloader-Schnittstelle (fastboot) unterbricht, während fwupd läuft, da es versucht, sich mit beliebigen Geräten zu verbinden. Dieser Abschnitt kann auf Arch Linux und anderen Distributionen mit fwupd 1.9.10 oder höher übersprungen werden, da wir den Fehler gemeldet haben und er behoben wurde. Android oder ChromeOS waren davon nie betroffen.
+Die Software fwupd, die häufig auf Linux-Distributionen zur Aktualisierung der Firmware verwendet wird, ist dafür bekannt, dass sie sich fälschlicherweise mit beliebigen Geräten über das fastboot-Protokoll verbindet, wodurch die Verwendung für den beabsichtigten Zweck blockiert wird. Dies kann dazu führen, dass man eine Fehlermeldung erhält, die besagt, dass das USB-Gerät bereits in Gebrauch ist (Behauptung), wenn man versucht, es für den beabsichtigten Zweck zu verbinden.
 
 Sie können fwupd mit dem folgenden Befehl stoppen:
 
@@ -187,6 +191,8 @@ Sie müssen Ihr Gerät in den Bootloader-Modus booten. Um das zu tun, müssen Si
 Am einfachsten ist es, das Gerät neu zu starten und die Leiser-Taste gedrückt zu halten, bis es im Bootloader-Modus startet.
 
 Alternativ schalten Sie das Gerät aus und starten Sie es dann, wobei Sie die Leiser-Taste während des Bootvorgangs gedrückt halten. Sie können es entweder mit der Einschalttaste oder durch das Anschließen des Kabels starten, was im nächsten Abschnitt ohnehin nötig ist.
+
+Dieser Schritt ist erst abgeschlossen, wenn Ihr Gerät ein rotes Warndreieck und die Worte „Fastboot-Modus“ anzeigt. Sie dürfen die Einschalttaste des Geräts nicht drücken, um den Menüpunkt „Start“ zu aktivieren, da das Gerät im Fastboot-Modus bleiben muss, damit das Installationsprogramm eine Verbindung herstellen kann.
 
 <h2 id="connecting-phone">Das Gerät verbinden</h2>
 
@@ -252,6 +258,7 @@ Die letzte Bootphase der Firmware vor dem Betriebssystem ist für die Verifizier
 
 Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Ab Pixels der 6. Generation wird der vollständigen Hashwert angezeigt, den Sie mit den offiziellen Verified-Boot-Key-Hashwert von GrapheneOS vergleichen können:
 
+* Pixel 9a: `0508de44ee00bfb49ece32c418af1896391abde0f05b64f41bc9a2dfb589445b`
 * Pixel 9 Pro Fold: `af4d2c6e62be0fec54f0271b9776ff061dd8392d9f51cf6ab1551d346679e24c`
 * Pixel 9 Pro XL: `55d3c2323db91bb91f20d38d015e85112d038f6b6b5738fe352c1a80dba57023`
 * Pixel 9 Pro: `f729cab861da1b83fdfab402fc9480758f2ae78ee0b61c1f2137dd1ab7076e86`
