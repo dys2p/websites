@@ -42,6 +42,8 @@ Die Sprechstunde findet **jeden 1. und 3. Montag im Monat** von **16:00 bis 18:0
 Die nächsten Termine:
 
 * 05.05.2025
+* 19.05.2025
+* <s>02.06.2025</s> Am 02.06.2025 findet keine Techniksprechstunde statt.
 
 Keine Zeit am Montag oder wir konnten dir nicht helfen? Dann schau doch bei der [Techniksprechstunde in der Dezentrale](https://dezentrale.space/events/techniksprechstunde/) vorbei. Diese findet jeden Donnerstag von 17:30 Uhr bis 21:00 Uhr statt.
 
