@@ -12,26 +12,26 @@ function addToValue(id, addend) {
 //   <i class="fa-solid fa-copy ms-1"></i>
 // </a>
 function copyToClipboard(elem, success, failed){
+	let icon = elem.querySelector('i');
 	navigator.clipboard.writeText(elem.textContent.trim()).then(
 		function() {
-			if(success) {
-				success.classList.remove("d-none");
-				setTimeout(function() {
-					success.classList.add("d-none");
-				}, 3000)
-			}
+			icon.classList.remove("fa-copy");
+			icon.classList.add("fa-check");
+			setTimeout(function() {
+				icon.classList.remove("fa-check");
+				icon.classList.add("fa-copy");
+			}, 3000)
 		},
 		function() {
-			if(failed){
-				failed.classList.remove("d-none");
-				setTimeout(function() {
-					failed.classList.add("d-none");
-				}, 3000)
-			}
+			icon.classList.remove("fa-copy");
+			icon.classList.add("fa-xmark");
+			setTimeout(function() {
+				icon.classList.remove("fa-xmark");
+				icon.classList.add("fa-copy");
+			}, 3000)
 		},
 	);
 }
-
 
 function scheduleReload() {
 	setTimeout(function(){
