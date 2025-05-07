@@ -4,13 +4,13 @@ Smartphones sind für die meisten Menschen ein wichtiges Kommunikationsmittel un
 
 Deshalb sollten Smartphones möglichst sicher sein und unsere Privatsphäre respektieren. Wir halten Google-Pixel-Smartphones mit [GrapheneOS](https://grapheneos.org/) unter diesen Aspekten für eine sehr gute Option. Und nicht nur wir sehen das so, sondern z. B. auch:
 
-> The best option for privacy and security on Android is to get a Pixel 4 or greater and flash GrapheneOS.
+> The best option for privacy and security on Android is to get a Pixel [...] and flash GrapheneOS.
 
-_– [madaidan](https://madaidans-insecurities.github.io/android.html#conclusion), Sicherheitsforscher/-in_
+_– [madaidan](https://madaidans-insecurities.github.io/android.html#conclusion), Sicherheitsforscher/-in, im Jahr 2022_
 
 > I use GrapheneOS every day.
 
-_– [Edward Snowden](https://twitter.com/Snowden/status/1588472045960327168), NSA-Whistleblower_
+_– [Edward Snowden](https://twitter.com/Snowden/status/1588472045960327168), NSA-Whistleblower, im Jahr 2022_
 
 Mit unserer deutschen Übersetzung möchten wir die Verbreitung von GrapheneOS fördern und die sprachliche Hürde bei der Installation senken. Wir bemühen uns, die Texte aktuell zu halten. Am Anfang der jeweiligen Übersetzung findest du den Commit-Hash und das Datum der zugrundeliegenden Originalversion.
 
