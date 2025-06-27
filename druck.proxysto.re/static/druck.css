@@ -17,3 +17,9 @@ h1:first-of-type {
 .list-group-horizontal .list-group-item {
 	white-space: nowrap;
 }
+
+p > img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

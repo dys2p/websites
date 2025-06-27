@@ -4,13 +4,13 @@
 
 Wir lieben DIY -- aber wenn unsere Plakate, Flyer oder Aufkleber besonders schick werden sollen, reicht der Kopierer im Copyshop nicht aus. Doch (Online-)Druckereien haben meist gewisse Anforderungen an eure Dateien. Warum sie diese aus gutem Grund haben und wie ihr druckbare Dateien erstellt, lernt ihr jetzt.
 
-Wir verwenden die Open-Source-Software [Scribus](https://www.scribus.net), aber ihr werdet euch auch mit anderen Programmen zurechtfinden. Damit puzzeln wir Bilder, Vektorgrafiken und Textfelder zusammen. Vektorgrafik ist alles, was keine Pixel hat.
+Um druckbare PDF-Dateien zu erstellen, verwenden wir die freie Software [Scribus](https://www.scribus.net). Ihr werdet euch aber auch mit anderen Programmen zurechtfinden. Damit puzzeln wir Bilder, Vektorgrafiken und Textfelder zusammen. Eine Vektorgrafik ist alles, was keine Pixel hat.
 
 ## Anschnitt und Rand
 
 Weiße Ränder waren gestern -- im 21. Jahrhundert erwarten wir randlos bedrucktes Papier. Doch die Maschinen in der Druckerei schneiden nicht ganz exakt. Würden wir dein Motiv auf ein weißes Blatt Papier drucken und dann ausschneiden, dann würden wir an der einen Seite einen Millimeter deines Motivs abschneiden, während an der anderen Seite ein Millimeter weißes Papier übrig bliebe.
 
-Die Lösung: Du gestaltest die Datei so, dass der Hintergrund etwas größer ist. Diese zusätzliche Fläche wird **Anschnitt** genannt. Sie wird mitgedruckt und dann (mehr oder weniger genau) abgeschnitten. Weiße Ränder gehören damit der Vergangenheit an. Deine druckbare Datei ist also einige Millimeter breiter und höher als das Endformat. Die genauen Maße erfährst du bei der Druckerei.
+Die Lösung: Du gestaltest die Datei so, dass der Hintergrund etwas größer ist. Diese zusätzliche Fläche wird **Anschnitt** genannt. Sie wird mitgedruckt und dann (mehr oder weniger genau) abgeschnitten. Weiße Ränder gehören damit der Vergangenheit an. Deine druckbare Datei ist also einige Millimeter breiter und höher als das Endformat. Die genauen Maße erfährst du bei der Druckerei. Sie stehen meist im **Datenblatt** des Artikels.
 
 Wichtige Informationen oder Gestaltungselemente sollten außerdem einen **Sicherheitsabstand** zum Rand einhalten. Ansonsten werden sie beim (ungenauen) Schneiden möglicherweise abgeschnitten.
 
@@ -37,3 +37,31 @@ Viele Grafikprogramme bieten, nachdem du beide Farbprofile -- für Druck und Bil
 Willkommen in der Praxis! Damit der Kram mit den Farbprofilen funktioniert, erwarten die meisten Druckereien PDF-Dateien nach dem **PDF/X-3**-Standard. Dieser Standard verbietet eine ganze Menge Dinge (wie etwa Transparenzeffekte oder fehlende Schriftarten) und trägt damit dazu bei, dass das Motiv bei der Druckerei genauso aussieht wie bei dir. Viele Grafikprogramme ermöglichen einen Export im PDF/X-3-Format.
 
 Falls du dir Probleme mit Transparenz und Schriftarten ersparen möchtest, kannst du dein Motiv zunächst als RGB-Pixelgrafik exportieren, etwa im PNG-Format. Importiere danach die PNG-Datei in ein neues Dokument, stelle das Farbmanagement ein und exportiere es als PDF/X-3.
+
+## Die wichtigsten Einstellungen in Scribus
+
+[Scribus](https://www.scribus.net) ist eine freie *Desktop-Publishing*-Software. Sie eignet sich gut zum Erzeugen von druckbaren PDF-Dateien.
+
+![Scribus: Anschnitt einstellen](/static/images/scribus-anschnitt-1-mark.png)
+
+Beim Erstellen oder Bearbeiten einer Datei in Scribus kannst du den Anschnitt angeben. Scribus rechnet ihn dann hinzu. Er erscheint im Dokument außerhalb der Seitenränder.
+
+Du musst die Anschnitt-Einstellung nicht verwenden, sondern kannst auch selbst rechnen und Endformat plus Anschnitt als benutzerdefinierte Dokumentengröße einstellen.
+
+![Scribus: Anschnitt](/static/images/scribus-anschnitt-2-mark.png)
+
+Achte darauf, dass der Hintergrund deiner Datei sich auch auf den Anschnitt erstreckt.
+
+![Scribus: Export, als PDF speichern](/static/images/scribus-export-1.png)
+
+Klicke auf <kbd>Datei</kbd> › <kbd>Exportieren</kbd> › <kbd>Als PDF speichern</kbd>.
+
+![Scribus: Export, PDF/X-3 und Kompressionsqualität](/static/images/scribus-export-2-mark.png)
+
+Wähle <kbd>PDF/X-3</kbd> und <kbd>Kompressionsqualität: Maximal</kbd> aus.
+
+![Scribus: Export, Pre-Press](/static/images/scribus-export-3-mark.png)
+
+Im Reiter *Pre-Press* muss <kbd>Dokumenteneinstellungen für den Anschnitt verwenden</kbd> aktiviert sein. Nur dann landet der Anschnitt auch mit in der PDF-Datei.
+
+Wähle aus Ausgabeprofil <kbd>ISO Coated v2 300%</kbd>. Damit du die PDF-Datei speichern kannst, musst du außerdem irgendeinen <kbd>Infotext</kbd> eingeben.
