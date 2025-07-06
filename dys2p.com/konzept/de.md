@@ -29,7 +29,7 @@ Für Personen, die keine eigenen Geräte verwenden möchten oder besitzen, sollt
 
 Wir haben ein "Tails-Terminal" eingerichtet – einen Computer ohne Festplatte, der das Betriebssystem [Tails](https://tails.net/index.de.html) von einer DVD startet. Das BIOS ist gesperrt, ungenutzte Anschlüsse deaktiviert. Wir achten darauf, stets die neueste Version von Tails zu haben, und überprüfen die Checksumme. Personen können alternativ ihr bevorzugtes System an einem freien USB-Slot booten. Monitor, Tastatur und Maus sowie eine Lampe befinden sich in einer sichtgeschützen Kabine. Dort liegt auch die Steckerleiste mit Schalter, um das Gerät bei Bedarf durch eine Unterbrechung der Stromzufuhr ausschalten zu können. Zum Schutz vor physischen Manipulationen befindet sich der Computer außerhalb der Kabine und ist vor schneller Demontage geschützt. Schrauben und ungenutzte Anschlüsse [werden versiegelt](https://mullvad.net/en/help/how-tamper-protect-laptop/) und regelmäßig kontrolliert.
 
-Empfehlenswert ist diese [Anleitung zur Nutzung des Tails-Live-Betriebssystems für sichere Kommunikation, Recherche, Bearbeitung und Veröffentlichung sensibler Dokumente](https://capulcu.blackblogs.org/neue-texte/bandi/).
+Empfehlenswert ist diese [Anleitung zur Nutzung des Tails-Live-Betriebssystems für sichere Kommunikation, Recherche, Bearbeitung und Veröffentlichung sensibler Dokumente](https://capulcu.noblogs.org/neue-texte/bandi/).
 
 ### Datenschutz durch Datenträgerzerstörung
 

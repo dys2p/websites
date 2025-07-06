@@ -6,7 +6,7 @@ Damit du uns nicht vertrauen musst, zeigen wir dir hier, wie du auch selbst übe
 
 ## Tails
 
-Tails (_The Amnesic Incognito Live System_) ist ein Linux-Betriebssystem, das dich vor Überwachung und Zensur schützt. Tails wird direkt von einer DVD oder einem USB-Stick gestartet und hinterlässt keine ungewollten Spuren auf dem Computer. Zum Lesen können wir neben der [Tails-Website](https://tails.net) auch die [Tails-Broschüre von Capulcu](https://capulcu.blackblogs.org/neue-texte/bandi/) empfehlen.
+Tails (_The Amnesic Incognito Live System_) ist ein Linux-Betriebssystem, das dich vor Überwachung und Zensur schützt. Tails wird direkt von einer DVD oder einem USB-Stick gestartet und hinterlässt keine ungewollten Spuren auf dem Computer. Zum Lesen können wir neben der [Tails-Website](https://tails.net) auch die [Tails-Broschüre von Capulcu](https://capulcu.noblogs.org/neue-texte/bandi/) empfehlen.
 
 Die Integritätsprüfung eines Tails-Sticks ist **nur von einem anderen Betriebssystem aus und nur vor dem ersten Start des Tails-Sticks** möglich, weil Tails beim ersten Start Veränderungen an den Daten auf dem USB-Stick vornimmt.
 
