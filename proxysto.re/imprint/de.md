@@ -9,4 +9,4 @@ E-Mail: mail <span class="ritole">ta</span> proxysto.re
 
 Umsatzsteuer-Identifikationsnummer: DE333060435
 
-Plattform der EU-Kommission zur Online-Streitbeilegung: <a rel="noreferrer" href="https://www.ec.europa.eu/consumers/odr">www.ec.europa.eu/consumers/odr</a>
+Wir sind nicht verpflichtet und grundsätzlich nicht bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.

@@ -9,4 +9,4 @@ E-Mail: mail <span class="ritole">ta</span> proxysto.re
 
 VAT identification number: DE333060435
 
-Platform of the EU Commission regarding online dispute resolution: <a rel="noreferrer" href="https://www.ec.europa.eu/consumers/odr">www.ec.europa.eu/consumers/odr</a>
+We are not obliged and generally not willing to participate in dispute resolution proceedings before a consumer arbitration board.
