@@ -128,23 +128,6 @@ pre {
 	padding: 0.6em 0.8em;
 }
 
-/* scroll shadows */
-
-.list-group-item {
-	background: none; /* else it covers the scroll shadows */
-}
-
-.scroll-shadows {
-	animation-name: scroll-shadow-inset;
-	animation-timeline: scroll(self block);
-	animation-timing-function: linear;
-}
-
-@keyframes scroll-shadow-inset {
-	from { box-shadow: inset -10px -10px 15px 0px rgba(0, 0, 0, 0.33); }
-	to { box-shadow: inset -10px 10px 15px 0px rgba(0, 0, 0, 0.33); }
-}
-
 /* class d-hide-spinner for hiding plus/minus buttons */
 
 input.d-hide-spinner::-webkit-outer-spin-button,
@@ -155,4 +138,39 @@ input.d-hide-spinner::-webkit-inner-spin-button {
 
 input.d-hide-spinner[type=number] {
 	-moz-appearance: textfield;
+}
+
+/* scroll shadows */
+
+@keyframes scroll-indicator {
+	0%   { opacity: 0; }
+	15%  { opacity: 1; }
+	100% { opacity: 1; }
+}
+
+.scroll-shadows {
+	scroll-timeline-name: --scroll-timeline;
+	scroll-timeline-axis: block;
+	&::before, &::after {
+	content: "";
+		animation-name: scroll-indicator;
+		animation-timeline: --scroll-timeline;
+		display: block;
+		height: 1rem;
+		opacity: 0;
+		pointer-events: none;
+		position: sticky;
+		z-index: 999999;
+	}
+	&::before {
+		background: linear-gradient(180deg, rgba(0.5, 0.5, 0.5, 0.33), transparent);
+		margin-bottom: -1rem;
+		top: 0;
+	}
+	&::after {
+		animation-direction: reverse;
+		background: linear-gradient(0deg, rgba(0.5, 0.5, 0.5, 0.33), transparent);
+		bottom: 0;
+		margin-top: -1rem;
+	}
 }
