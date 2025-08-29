@@ -36,6 +36,8 @@ Viele Grafikprogramme bieten, nachdem du beide Farbprofile -- für Druck und Bil
 
 Willkommen in der Praxis! Damit der Kram mit den Farbprofilen funktioniert, erwarten die meisten Druckereien PDF-Dateien nach dem **PDF/X-3**-Standard. Dieser Standard verbietet eine ganze Menge Dinge (wie etwa Transparenzeffekte oder fehlende Schriftarten) und trägt damit dazu bei, dass das Motiv bei der Druckerei genauso aussieht wie bei dir. Viele Grafikprogramme ermöglichen einen Export im PDF/X-3-Format.
 
+**Manchmal wird auch PDF/X-4 bevorzugt, etwa beim Bedrucken von Textilien.** PDF/X-4 unterstützt Ebenen und Transparenzen. Ob PDF/X-3 oder PDF/X-4 erwartet wird, steht im Datenblatt des ausgewählten Produkts.
+
 Falls du dir Probleme mit Transparenz und Schriftarten ersparen möchtest, kannst du dein Motiv zunächst als RGB-Pixelgrafik exportieren, etwa im PNG-Format. Importiere danach die PNG-Datei in ein neues Dokument, stelle das Farbmanagement ein und exportiere es als PDF/X-3.
 
 ## Die wichtigsten Einstellungen in Scribus
