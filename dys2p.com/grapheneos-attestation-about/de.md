@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/f366591b639c2ae339913c630fff5590f1dd900e/static/about.html">f366591</a> vom 2025-04-21. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/AttestationServer/blob/a55aa8571a4109af31228a5e9c58ecbc2172b292/static/about.html">a55aa85</a> vom 2025-08-28. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-attestation-about/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -49,12 +49,8 @@ Die Sicherheitsverbesserungen, die künftige Hardware-Generationen und künftige
 
 <h2 id="device-support">Unterstützte Geräte</h2>
 
-Jedes Gerät mit Android 10 oder höher kann die Auditor-App ausführen und sie zur Überprüfung anderer Geräte verwenden. Allerdings haben nur Geräte, die mit Android 8.0 oder höher _auf den Markt gebracht_ wurden, die notwendige Hardware-Unterstützung, um verifiziert zu werden. Außerdem muss jedes Gerätemodell explizit in die App integriert werden. Die folgenden Geräte werden derzeit von der neuesten stabilen Version unterstützt:
+Jedes Gerät mit Android 13 oder höher kann die Auditor-App ausführen und sie zur Überprüfung anderer Geräte verwenden. Allerdings haben nur Geräte, die mit Android 8.0 oder höher _auf den Markt gebracht_ wurden, die notwendige Hardware-Unterstützung, um verifiziert zu werden. Außerdem muss jedes Gerätemodell explizit in die App integriert werden. Die folgenden Geräte werden derzeit von der neuesten stabilen Version unterstützt:
 
-* Google Pixel 3
-* Google Pixel 3 XL
-* Google Pixel 3a
-* Google Pixel 3a XL
 * Google Pixel 4
 * Google Pixel 4 XL
 * Google Pixel 4a
@@ -77,18 +73,10 @@ Jedes Gerät mit Android 10 oder höher kann die Auditor-App ausführen und sie 
 * Google Pixel 9 Pro XL
 * Google Pixel 9 Pro Fold
 * Google Pixel 9a
-* OnePlus 7 Pro (GM1913 model)
-* Samsung Galaxy Note 10 (SM-N970F and SM-N970U models)
-* Samsung Galaxy Note 10+ (SM-N975U model)
-* Samsung Galaxy S10e (SM-G970F model)
-* Samsung Galaxy S10+ (SM-G975F model)
+* Google Pixel 10
 
 Die folgenden Geräte bieten ein HSM mit StrongBox-Unterstützung, das von Auditor unterstützt wird:
 
-* Google Pixel 3
-* Google Pixel 3 XL
-* Google Pixel 3a
-* Google Pixel 3a XL
 * Google Pixel 4
 * Google Pixel 4 XL
 * Google Pixel 4a
@@ -111,8 +99,7 @@ Die folgenden Geräte bieten ein HSM mit StrongBox-Unterstützung, das von Audit
 * Google Pixel 9 Pro XL
 * Google Pixel 9 Pro Fold
 * Google Pixel 9a
-* Samsung Galaxy Note 10 (SM-N970U model)
-* Samsung Galaxy Note 10+ (SM-N975U model)
+* Google Pixel 10
 
 Die folgenden Geräte unterstützen die Attest-Key-Funktion zur Erzeugung eines paarungsspezifischen Signierschlüssels für die Attestierung:
 
@@ -132,13 +119,10 @@ Die folgenden Geräte unterstützen die Attest-Key-Funktion zur Erzeugung eines 
 * Google Pixel 9 Pro XL
 * Google Pixel 9 Pro Fold
 * Google Pixel 9a
+* Google Pixel 10
 
 Die Auditor-App unterstützt auch die Überprüfung von alternativen Betriebssystemen auf unterstützten Geräten. Sie kann [GrapheneOS](https://grapheneos.org/) auf den folgenden Geräten überprüfen:
 
-* Google Pixel 3
-* Google Pixel 3 XL
-* Google Pixel 3a
-* Google Pixel 3a XL
 * Google Pixel 4
 * Google Pixel 4 XL
 * Google Pixel 4a
