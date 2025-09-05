@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/d8b8fb9e426ac88901c92b72cdb80c0745e21dc8/static/install/web.html">d8b8fb9</a> vom 2025-04-26. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-web/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/c61bcec301c0a0c180f86f31cb2554ebecb2f8d0/static/install/web.html">c61bcec</a> vom 2025-07-01. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-web/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -133,10 +133,12 @@ Offiziell unterstützte Betriebssysteme für die Web-Installationsmethode:
 * Linux Mint Debian Edition 6 (nutze die Anweisungen für Debian 12)
 * ChromeOS
 * GrapheneOS
-* Android 12 mit Play Protect-Zertifizierung
 * Android 13 mit Play Protect-Zertifizierung
 * Android 14 mit Play Protect-Zertifizierung
-* Android 15 with Play Protect certification
+* Android 15 mit Play Protect-Zertifizierung
+* Android 16 mit Play Protect-Zertifizierung
+
+Auch ältere, nicht mehr weiterentwickelte Versionen dieser Betriebssysteme lassen sich einsetzen, allerdings erhalten sie keinen offiziellen Support.
 
 Stellen Sie sicher, dass Ihr Betriebssystem auf dem neuesten Stand ist, bevor Sie fortfahren.
 
