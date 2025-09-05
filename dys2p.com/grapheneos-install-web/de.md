@@ -34,7 +34,7 @@ THE SOFTWARE.
 https://grapheneos.org/LICENSE.txt
 -->
 
-<h1 id="web-install">Web-Installationssanleitung</h1>
+<h1 id="web-install">Web-Installationsanleitung</h1>
 
 Dies ist eine Anleitung für die WebUSB-basierte Installation von GrapheneOS und ist die empfohlene Vorgehensweise für die meisten Benutzer. Die [CLI-Installationsanleitung](https://grapheneos.org/install/cli) [[deutsche Übersetzung](grapheneos-install-cli.html)] ist die traditionellere Methode zur Installation von GrapheneOS.
 
