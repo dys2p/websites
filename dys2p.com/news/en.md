@@ -1,5 +1,6 @@
 # News
 
+* [2025-09-09 Proton voucher codes now on sale](2025-09-09-proton.html)
 * [2024-05-17 Fixing the "Your device is corrupt" error on Google Pixel smartphones with GrapheneOS](2024-05-17-android-pixel-device-corrupt.html)
 * [2023-11-25 New Items](2023-11-25-new-items.html)
 * [2023-10-25 IVPN voucher codes added to our product range](2023-10-25-ivpn.html)
