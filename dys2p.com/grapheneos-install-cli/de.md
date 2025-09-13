@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/c61bcec301c0a0c180f86f31cb2554ebecb2f8d0/static/install/cli.html">c61bcec</a> vom 2025-07-01. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/c61bcec301c0a0c180f86f31cb2554ebecb2f8d0/static/install/cli.html">c61bcec</a> vom 2025-07-01. Falls Sie Hinweise oder Verbesserungsvorschläge haben, dann <a href="contact.html">schreiben Sie uns gerne</a> oder arbeiten Sie mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -38,7 +38,7 @@ https://grapheneos.org/LICENSE.txt
 
 Dies ist eine Anleitung für die Installation von GrapheneOS auf den [offiziell unterstützten Geräten](https://grapheneos.org/faq#supported-devices). Sie kann sowohl für die [offiziellen Versionen](https://grapheneos.org/releases) als auch für [eigene Builds](https://grapheneos.org/build) verwendet werden. Der [Web-Installer](https://grapheneos.org/install/web) [[deutsche Übersetzung](grapheneos-install-web.html)] ist eine einfachere Methode zur Installation der offiziellen Versionen über einen Browser mit WebUSB-Unterstützung.
 
-Wir empfehlen dringend, diesen offiziellen Anweisungen zu folgen. Für die offizielle Anleitung wurde viel gemeinsame Arbeit in die Abdeckung aller Grenzfälle gesteckt. Sie wird regelmäßig von vielen Personen auf allen unterstützten Betriebssystemen getestet. Das Befolgen dieser Anweisungen, ohne irgendwelche Schritte zu überspringen, umzuordnen oder hinzuzufügen, gibt Ihnen eine ordentliche GrapheneOS-Installation, außer es gibt ein Hardwareproblem. Wir raten dringend davon ab, inoffiziellen Anleitungen zu folgen, die in irgendeiner Weise von den offiziellen Anleitungen abweichen.
+Wir empfehlen dringend, diesen offiziellen Anweisungen zu folgen. Für die offizielle Anleitung wurde viel gemeinsame Arbeit in die Abdeckung aller Grenzfälle gesteckt. Sie wird regelmäßig von vielen Personen auf allen unterstützten Betriebssystemen getestet. Das Befolgen dieser Anweisungen, ohne irgendwelche Schritte zu überspringen, umzuordnen oder hinzuzufügen, gibt Ihnen eine ordentliche GrapheneOS-Installation, außer, es gibt ein Hardwareproblem. Wir raten dringend davon ab, inoffiziellen Anleitungen zu folgen, die in irgendeiner Weise von den offiziellen Anleitungen abweichen.
 
 Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen GrapheneOS-Chat](https://grapheneos.org/contact#community) um Hilfe. Es gibt fast immer Leute, die bereit sind zu helfen. Bevor Sie um Hilfe bitten, versuchen Sie, der Anleitung selbst zu folgen und bitten Sie erst dann um Hilfe, wenn Sie selbst nicht weiterkommen.
 
@@ -116,7 +116,7 @@ Wenn Sie Probleme mit dem Installationsprozess haben, fragen Sie im [offiziellen
               <a href="#verified-boot-key-hash">Hash des öffentlichen Verified-Boot-Schlüssels</a>
             </li>
             <li>
-              <a href="#hardware-based-attestation">Hardware-gestützte Attestierung</a>
+              <a href="#hardware-based-attestation">Hardwaregestützte Attestierung</a>
             </li>
       	  </ul>
         <li>
@@ -145,16 +145,16 @@ Offiziell unterstützte Betriebssysteme für die CLI-Installationsmethode:
 * macOS Sonoma (14)
 * macOS Sequoia (15)
 * Arch Linux
-* Debian 11 (bullseye)
-* Debian 12 (bookworm)
+* Debian 11 (Bullseye)
+* Debian 12 (Bookworm)
 * Ubuntu 20.04 LTS
 * Ubuntu 22.04 LTS
 * Ubuntu 24.04 LTS
 * Ubuntu 24.10
-* Linux Mint 20 (nutze die Anweisungen für Ubuntu 20.04 LTS)
-* Linux Mint 21 (nutze die Anweisungen für Ubuntu 22.04 LTS)
-* Linux Mint 22 (nutze die Anweisungen für Ubuntu 24.04 LTS)
-* Linux Mint Debian Edition 6 (Verwende die Anweisungen für Debian 12)
+* Linux Mint 20 (nutzen Sie die Anweisungen für Ubuntu 20.04 LTS)
+* Linux Mint 21 (nutzen Sie die Anweisungen für Ubuntu 22.04 LTS)
+* Linux Mint 22 (nutzen Sie die Anweisungen für Ubuntu 24.04 LTS)
+* Linux Mint Debian Edition 6 (nutzen Sie die Anweisungen für Debian 12)
 
 Auch ältere, nicht mehr weiterentwickelte Versionen dieser Betriebssysteme lassen sich einsetzen, allerdings erhalten sie keinen offiziellen Support.
 
@@ -162,7 +162,7 @@ Stellen Sie sicher, dass Ihr Betriebssystem auf dem neuesten Stand ist, bevor Si
 
 Der [Web-Installer](https://grapheneos.org/install/web) [[deutsche Übersetzung](grapheneos-install-web.html)] ist portabler und kann von Android, ChromeOS und GrapheneOS selbst verwendet werden, da er überall ausgeführt werden kann, wo ein Browser mit funktionierender WebUSB-Unterstützung zur Verfügung steht.
 
-Sie benötigen eines der [offiziell unterstützten Geräte](https://grapheneos.org/faq#supported-devices). Um sicherzustellen, dass das Gerät für die Installation von GrapheneOS freigeschaltet werden kann, sollten Sie netzbetreiber-spezifische Geräte vermeiden. Netzbetreiber-spezifische Varianten der Pixel-Smartphones verwenden dasselbe Stock-Betriebssystem und dieselbe Firmware, aber mit einer Carrier-ID ungleich Null, die bei der Herstellung auf die persistente Partition geflasht wurde. Die Carrier-ID aktiviert eine netzbetreiber-spezifische Konfiguration im Stock-Betriebssystem, einschließlich einer Deaktivierung der Netzbetreiber- und Bootloader-Entsperrung. Der Netzbetreiber kann dies möglicherweise aus der Ferne deaktivieren, aber seine Support-Mitarbeiter wissen das möglicherweise nicht und werden es wahrscheinlich auch nicht tun. Holen Sie sich ein netzbetreiberunabhängiges Gerät, um das Risiko und möglichen Ärger zu vermeiden. Wenn Sie einen Weg finden _können_, ein netzbetreiber-spezifisches Gerät zu entsperren, ist das kein Problem, da GrapheneOS die Carrier-ID einfach ignorieren kann und die Hardware die gleiche ist.
+Sie benötigen eines der [offiziell unterstützten Geräte](https://grapheneos.org/faq#supported-devices). Um sicherzustellen, dass das Gerät für die Installation von GrapheneOS freigeschaltet werden kann, sollten Sie Netzbetreiber-spezifische Geräte vermeiden. Netzbetreiber-spezifische Varianten der Pixel-Smartphones verwenden dasselbe Stock-Betriebssystem und dieselbe Firmware, aber mit einer Carrier-ID ungleich Null, die bei der Herstellung auf die persistente Partition geflasht wurde. Die Carrier-ID aktiviert eine Netzbetreiber-spezifische Konfiguration im Stock-Betriebssystem, einschließlich einer Deaktivierung der Netzbetreiber- und Bootloader-Entsperrung. Der Netzbetreiber kann dies möglicherweise aus der Ferne deaktivieren, aber seine Support-Mitarbeiter wissen das möglicherweise nicht und werden es wahrscheinlich auch nicht tun. Holen Sie sich ein Netzbetreiber-unabhängiges Gerät, um das Risiko und möglichen Ärger zu vermeiden. Wenn Sie einen Weg finden _können_, ein Netzbetreiber-spezifisches Gerät zu entsperren, ist das kein Problem, da GrapheneOS die Carrier-ID einfach ignorieren kann und die Hardware die gleiche ist.
 
 Es hat sich bewährt, das Gerät vor der Installation von GrapheneOS zu aktualisieren, um beim Anschluss des Gerätes an den Computer und in der frühen Phase des Installationsprozesses die neueste Firmware zu haben. So oder so, GrapheneOS flasht die neueste Firmware zu Beginn des Installationsprozesses.
 
@@ -170,7 +170,7 @@ Es hat sich bewährt, das Gerät vor der Installation von GrapheneOS zu aktualis
 
 Die OEM-Entsperrung muss innerhalb des Betriebssystems aktiviert werden.
 
-Aktivieren Sie das Menü "Entwickleroptionen", indem Sie zu <b>Einstellungen&#160;<span aria-label="and then">></span> Über das Telefon/Tablet</b> gehen und wiederholt auf den Menüeintrag <b>Build-Nummer</b> drücken, bis die Entwickleroptionen aktiviert sind.
+Aktivieren Sie das Menü „Entwickleroptionen“, indem Sie zu <b>Einstellungen&#160;<span aria-label="and then">></span> Über das Telefon/Tablet</b> gehen und wiederholt auf den Menüeintrag <b>Build-Nummer</b> drücken, bis die Entwickleroptionen aktiviert sind.
 
 Gehen Sie dann zu <b>Einstellungen&#160;<span aria-label="and then">></span> System&#160;<span aria-label="and then">></span> Entwickleroptionen</b> und aktivieren Sie die Einstellung <b>OEM-Entsperrung</b>. Bei Gerätevarianten (SKUs), die von Netzbetreibern als gesperrte Geräte verkauft werden können, erfordert die Aktivierung der <b>OEM-Entsperrung</b> einen Internetzugang, damit das Stock-Betriebssystem prüfen kann, ob das Gerät von einem Netzbetreiber als gesperrt verkauft wurde.
 
@@ -188,7 +188,7 @@ Führen Sie unter Windows den folgenden Befehl aus, um das veraltete curl-Alias 
 
 <h2 id="obtaining-fastboot">fastboot beschaffen</h2>
 
-Sie benötigen eine aktuelle Kopie des `fastboot`-Tools und das Verzeichnis, das es enthält, muss in die Umgebungsvariable `PATH` aufgenommen werden. Mit `fastboot --version` können Sie die aktuell installierte Version ermitteln. Sie muss mindestens `35.0.1` sein. Sie können dafür die Paketverwaltung Ihrer genutzten Distribution verwenden, aber die meisten Distributionen paketieren fälschlicherweise Entwicklungs-Snapshots von fastboot, verstecken das Standard-Versionsschema der Platform Tools (adb, fastboot, etc.) hinter ihrem eigenen Schema und halten es nicht auf dem neuesten Stand, obwohl das entscheidend ist.
+Sie benötigen eine aktuelle Kopie des `fastboot`-Tools und das Verzeichnis, das es enthält, muss in die Umgebungsvariable `PATH` aufgenommen werden. Mit `fastboot --version` können Sie die aktuell installierte Version ermitteln. Sie muss mindestens `35.0.1` sein. Sie können dafür die Paketverwaltung Ihrer genutzten Distribution verwenden, aber die meisten Distributionen paketieren fälschlicherweise Entwicklungs-Snapshots von fastboot, verstecken das Standard-Versionsschema der Platform Tools (adb, fastboot usw.) hinter ihrem eigenen Schema und halten es nicht auf dem neuesten Stand, obwohl das entscheidend ist.
 
 Unter Arch Linux installieren Sie `android-tools` und überspringen Sie den folgenden Abschnitt über das Verwenden der eigenständigen Versionen der Android Platform Tools:
 
@@ -198,22 +198,22 @@ Debian und Ubuntu haben kein brauchbares Paket für fastboot. Ihre Pakete für d
 
 <h3 id="standalone-platform-tools">Standalone Platform Tools</h3>
 
-Wenn Ihr Betriebssystem keine brauchbare Version von fastboot enthält, können Sie die offiziellen Standalone-Versionen der platform-tools verwenden. Das ist unsere Empfehlung für die meisten Benutzer. Das Flashen funktioniert nur, wenn Sie diese Anweisungen befolgen, einschließlich der Einrichtung von PATH.
+Wenn Ihr Betriebssystem keine brauchbare Version von fastboot enthält, können Sie die offiziellen Standalone-Versionen der Platform Tools verwenden. Das ist unsere Empfehlung für die meisten Benutzer. Das Flashen funktioniert nur, wenn Sie diese Anweisungen befolgen, einschließlich der Einrichtung von PATH.
 
-Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Debian und Ubuntu:
+Zum Herunterladen, Verifizieren und Entpacken der Standalone Platform Tools unter Debian und Ubuntu:
 
 	sudo apt install libarchive-tools
 	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-linux.zip
 	echo 'acfdcccb123a8718c46c46c059b2f621140194e5ec1ac9d81715be3d6ab6cd0a  platform-tools_r35.0.2-linux.zip' | sha256sum -c
 	bsdtar xvf platform-tools_r35.0.2-linux.zip
 
-Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter macOS:
+Zum Herunterladen, Verifizieren und Entpacken der Standalone Platform Tools unter macOS:
 
 	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-darwin.zip
 	echo 'SHA256 (platform-tools_r35.0.2-darwin.zip) = 1820078db90bf21628d257ff052528af1c61bb48f754b3555648f5652fa35d78' | shasum -c
 	tar xvf platform-tools_r35.0.2-darwin.zip
 
-Zum Herunterladen, Verifizieren und Entpacken der standalone platform-tools unter Windows:
+Zum Herunterladen, Verifizieren und Entpacken der Standalone Platform Tools unter Windows:
 
 	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-win.zip
 	(Get-FileHash platform-tools_r35.0.2-win.zip).hash -eq "2975a3eac0b19182748d64195375ad056986561d994fffbdc64332a516300bb9"
@@ -235,7 +235,7 @@ Dies ändert nur den `PATH` für die aktuelle Shell und muss erneut durchgeführ
 
 Überprüfen Sie die Ausgabe von `fastboot --version`, bevor Sie fortfahren.
 
-Beispiel für die Ausgabe nach dem Ausführen der obigen Anweisungen für die Standalone platform-tools:
+Beispiel für die Ausgabe nach dem Ausführen der obigen Anweisungen für die Standalone Platform Tools:
 
     fastboot version 35.0.2-12147458
     Installed as /home/username/platform-tools/fastboot
@@ -278,7 +278,7 @@ Dieser Schritt ist erst abgeschlossen, wenn Ihr Gerät ein rotes Warndreieck und
 
 Verbinden Sie das Gerät mit dem Computer. Unter Linux müssen Sie das erneut tun, falls Sie die udev-Regeln beim Anschließen des Gerätes noch nicht eingerichtet hatten.
 
-Die aktuellen Windows-Versionen 10 und 11 enthalten einen generischen Treiber, der für fastboot geeignet ist, und erfordert nicht mehr die Installation eines Treibers für die Installation auf dem Pixel 4a (5G) oder neuer. Für die Installation auf älteren Pixel der 4. Generation ist ein Treiber immer noch notwendig, da der generischen Treiber nicht mit fastbootd umgehen kann. Ältere Windows-Versionen benötigen den Treiber auch für nicht-veraltete Pixel-Geräte. Sie können den Treiber über Windows Update beziehen, das ihn als optionales Update erkennt, wenn das Gerät in die Bootloader-Schnittstelle gebootet und mit dem Computer verbunden wird. Öffnen Sie Windows Update, führen Sie eine Prüfung auf Updates durch und öffnen Sie dann "Optionale Updates anzeigen". Installieren Sie den Treiber für die Android-Bootloader-Schnittstelle als optionales Update, das aufgrund der USB-ID-Überschneidung als "LeMobile Android Device" angezeigt wird. Ein alternativer Weg, die Windows Fastboot-Treiber zu beziehen, besteht darin, den [neuesten Treiber für Pixels](https://developer.android.com/studio/run/win-usb) von Google herunterzuladen und ihn dann [manuell über den Windows-Geräte-Manager zu installieren](https://developer.android.com/studio/run/oem-usb#InstallingDriver).
+Die aktuellen Windows-Versionen 10 und 11 enthalten einen generischen Treiber, der für fastboot geeignet ist, und erfordert nicht mehr die Installation eines Treibers für die Installation auf dem Pixel 4a (5G) oder neuer. Für die Installation auf älteren Pixel der 4. Generation ist ein Treiber immer noch notwendig, da der generischen Treiber nicht mit fastbootd umgehen kann. Ältere Windows-Versionen benötigen den Treiber auch für nicht-veraltete Pixel-Geräte. Sie können den Treiber über Windows Update beziehen, das ihn als optionales Update erkennt, wenn das Gerät in die Bootloader-Schnittstelle gebootet und mit dem Computer verbunden wird. Öffnen Sie Windows Update, führen Sie eine Prüfung auf Updates durch und öffnen Sie dann „Optionale Updates anzeigen“. Installieren Sie den Treiber für die Android-Bootloader-Schnittstelle als optionales Update, das aufgrund der USB-ID-Überschneidung als „LeMobile Android Device“ angezeigt wird. Ein alternativer Weg, die Windows Fastboot-Treiber zu beziehen, besteht darin, den [neuesten Treiber für Pixels](https://developer.android.com/studio/run/win-usb) von Google herunterzuladen und ihn dann [manuell über den Windows-Geräte-Manager zu installieren](https://developer.android.com/studio/run/oem-usb#InstallingDriver).
 
 Trennen Sie das Pixel-Tablet vom Ladedock mit Lautsprecher, bevor Sie fortfahren. Das Ladedock verwendet USB zum Aufladen und für die Audioausgabe, aber das Tablet bietet keine Unterstützung für die gleichzeitige Verwendung des Ladedock und des USB-Anschlusses.
 
@@ -306,7 +306,7 @@ Unter Debian und Ubuntu:
 
 <h2 id="obtaining-factory-images">Factory Images beschaffen</h2>
 
-Um mit dem Installationsprozess fortzufahren, müssen Sie die GrapheneOS Factory Image für Ihr Gerät beschaffen.
+Um mit dem Installationsprozess fortzufahren, müssen Sie die GrapheneOS Factory Images für Ihr Gerät beschaffen.
 
 Sie können die Dateien entweder mit Ihrem Browser oder mit einem Befehl wie `curl` herunterladen. In der Regel ist es einfacher, die Kommandozeile zu verwenden, da Sie sie bereits für den Rest des Installationsprozesses nutzen. Daher verwendet diese Anleitung `curl`.
 
@@ -318,7 +318,7 @@ Das ist der Inhalt von `allowed_signers`:
 
     contact@grapheneos.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIUg/m5CoP83b0rfSCzYSVA4cw4ir49io5GPoxbgxdJE
 
-Andere Stellen an denen Sie den Signierschlüssel erhalten können:
+Andere Stellen, an denen Sie den Signierschlüssel erhalten können:
 <ul>
 <li><a href="https://bsky.app/profile/grapheneos.org/post/3kleyygkptm2x">Bluesky</a></li>
 <li><a href="https://x.com/GrapheneOS/status/1757758688952009209">Twitter</a></li>
@@ -327,7 +327,7 @@ Andere Stellen an denen Sie den Signierschlüssel erhalten können:
 
 Wenn der aktuelle Signierschlüssel ersetzt wird, wird der neue Schlüssel mit diesem signiert.
 
-Laden Sie die Factory Images für das Gerät von der [Unterseite "Releases"](https://grapheneos.org/releases) herunter. Um zum Beispiel die `VERSION`-Version für ein Gerät mit dem Codenamen `DEVICE_NAME` herunterzuladen:
+Laden Sie die Factory Images für das Gerät von der [Unterseite „Releases“](https://grapheneos.org/releases) herunter. Um zum Beispiel die `VERSION`-Version für ein Gerät mit dem Codenamen `DEVICE_NAME` herunterzuladen:
 
     curl -O https://releases.grapheneos.org/DEVICE_NAME-install-VERSION.zip
     curl -O https://releases.grapheneos.org/DEVICE_NAME-install-VERSION.zip.sig
@@ -346,7 +346,7 @@ Wenn die Überprüfung erfolgreich war, wird die folgende Ausgabe angezeigt:
 
     Good "factory images" signature for contact@grapheneos.org with ED25519 key SHA256:AhgHif0mei+9aNyKLfMZBh2yptHdw/aN7Tlh/j2eFwM
 
-<h2 id="flashing-install-images">Factory Images flashen</h2>
+<h2 id="flashing-factory-images">Factory Images flashen</h2>
 
 Die Erstinstallation erfolgt durch das Flashen der Factory Images. Das wird das bestehende Betriebssystem ersetzen und alle vorhandenen Daten löschen.
 
@@ -388,7 +388,7 @@ Ein häufiges Problem bei Linux-Distributionen ist, dass sie das Standardverzeic
 
 Das Sperren des Bootloaders ist wichtig, da es einen vollständig verifizierten Bootvorgang ermöglicht. Es verhindert auch die Verwendung von fastboot zum Flashen, Formatieren oder Löschen von Partitionen. Ein verifizierter Bootvorgang erkennt Änderungen an den Betriebssystempartitionen und verhindert das Lesen von veränderten oder beschädigten Daten. Wenn Änderungen erkannt werden, wird mit Hilfe von Fehlerkorrekturdaten versucht, die ursprünglichen Daten zu erhalten, die dann erneut verifiziert werden, was das verifizierte Booten gegen nicht-bösartige Datenveränderungen abhärtet.
 
-Während sich das Gerät im Bootloader-Modus befindet, setzen Sie es auf "locked":
+Während sich das Gerät im Bootloader-Modus befindet, setzen Sie es auf „locked“:
 
     fastboot flashing lock
 
@@ -398,25 +398,25 @@ Der Befehl muss auf dem Gerät bestätigt werden und löscht alle Daten. Verwend
 
 <h3 id="booting">Booten</h3>
 
-Sie haben GrapheneOS nun erfolgreich installiert und können es booten. Wenn Sie die Einschalttaste drücken und die Standardoption "Start" im Bootloader-Modus ausgewählt lassen, wird das Betriebssystem gestartet.
+Sie haben GrapheneOS nun erfolgreich installiert und können es booten. Wenn Sie die Einschalttaste drücken und die Standardoption „Start“ im Bootloader-Modus ausgewählt lassen, wird das Betriebssystem gestartet.
 
 <h3 id="disabling-oem-unlocking">OEM-Entsperrung deaktivieren</h3>
 
 Bei der Ersteinrichtung enthält der letzte Schritt einen Schalter für die empfohlene Deaktivierung der OEM-Entsperrung, der standardmäßig aktiviert ist.
 
-Wenn Sie die OEM-Entsperrung in Zukunft aktivieren oder deaktivieren müssen, können Sie dies im Menü "Entwickleroptionen" des Betriebssystems tun.
+Wenn Sie die OEM-Entsperrung in Zukunft aktivieren oder deaktivieren müssen, können Sie dies im Menü „Entwickleroptionen“ des Betriebssystems tun.
 
 <h3 id="verifying-installation">Überprüfung der Installation</h3>
 
-Die von den unterstützten Geräten bereitgestellten Funktionen "Verified Boot" und "Attestation" können verwendet werden, um zu überprüfen, ob die Hardware, die Firmware und die GrapheneOS-Installation unverfälscht sind. Selbst wenn der Computer, den Sie zum Flashen von GrapheneOS verwendet haben, kompromittiert wurde und ein Angreifer GrapheneOS durch sein eigenes bösartiges Betriebssystem ersetzt hat, kann dies mit diesen Funktionen erkannt werden.
+Die von den unterstützten Geräten bereitgestellten Funktionen „Verified Boot“ und „Attestation“ können verwendet werden, um zu überprüfen, ob die Hardware, die Firmware und die GrapheneOS-Installation unverfälscht sind. Selbst wenn der Computer, den Sie zum Flashen von GrapheneOS verwendet haben, kompromittiert wurde und ein Angreifer GrapheneOS durch sein eigenes bösartiges Betriebssystem ersetzt hat, kann dies mit diesen Funktionen erkannt werden.
 
 Verified Boot überprüft bei jedem Startvorgang sämtliche Firmware- und Betriebssystem-Images. Der öffentliche Schlüssel für die Firmware-Images ist werkseitig in elektronische Sicherungen im SoC eingebrannt. Firmware-Sicherheitsupdates aktualisieren auch den in die Sicherungen eingebrannten Rollback-Index, um einen Rollback-Schutz zu gewährleisten.
 
-Die letzte Bootphase der Firmware vor dem Betriebssystem ist für die Verifizierung des Betriebssystems zuständig. Für das Stock-Betriebssystem wird ein fest eingebauter öffentlicher Schlüssel verwendet. Bei der Installation von GrapheneOS wird der öffentliche Verified-Boot-Schlüssel von GrapheneOS in den Sicherheitschip geflasht. Bei jedem Start wird dieser Schlüssel geladen und zur Verifizierung des Betriebssystems verwendet. Sowohl für das Stock-Betriebssystem als auch für GrapheneOS wird ein auf dem Sicherheits-Patch-Level basierender Rollback-Index aus dem Sicherheitschip geladen, um einen Rollback-Schutz zu gewährleisten.
+Die letzte Bootphase der Firmware vor dem Betriebssystem ist für die Verifizierung des Betriebssystems zuständig. Für das Stock-Betriebssystem wird ein fest eingebauter öffentlicher Schlüssel verwendet. Bei der Installation von GrapheneOS wird der öffentliche Verified-Boot-Schlüssel von GrapheneOS in den Sicherheitschip geflasht. Bei jedem Start wird dieser Schlüssel geladen und zur Verifizierung des Betriebssystems verwendet. Sowohl für das Stock-Betriebssystem als auch für GrapheneOS wird ein auf dem Sicherheits-Patchlevel basierender Rollback-Index aus dem Sicherheitschip geladen, um einen Rollback-Schutz zu gewährleisten.
 
 <h4 id="verified-boot-key-hash">Hash des öffentlichen Verified-Boot-Schlüssels</h4>
 
-Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Pixels der 6. und 7. Generation zeigen den vollständigen Hashwert, den Sie mit den offiziellen Verified-Boot-Key-Hashwert von GrapheneOS vergleichen können:
+Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Pixels der 6. und 7. Generation zeigen den vollständigen Hashwert, den Sie mit dem offiziellen Verified-Boot-Key-Hashwert von GrapheneOS vergleichen können:
 
 * Pixel 9a: `0508de44ee00bfb49ece32c418af1896391abde0f05b64f41bc9a2dfb589445b`
 * Pixel 9 Pro Fold: `af4d2c6e62be0fec54f0271b9776ff061dd8392d9f51cf6ab1551d346679e24c`
@@ -435,17 +435,17 @@ Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen
 * Pixel 6 Pro: `439b76524d94c40652ce1bf0d8243773c634d2f99ba3160d8d02aa5e29ff925c`
 * Pixel 6: `f0a890375d1405e62ebfd87e8d3f475f948ef031bbf9ddd516d5f600a23677e8`
 
-Diese Überprüfung ist nach der Installation sinnvoll, aber Sie müssen sie nicht manuell vornehmen, damit verifiziertes Booten funktioniert. Der öffentliche Schlüssel für verifiziertes Booten, der auf dem Sicherheitschip gespeichert wurde, kann nur geändert werden, wenn das Gerät entsperrt ist. Das Entsperren [des Bootloaders, Anm. d. Übers.] des Geräts löscht den Sicherheitschip auf die selbe Weise wie ein Zurücksetzen auf Werkseinstellungen und verhindert ein Wiederherstellen von Daten, selbst wenn die SSD geklont wurde und Ihre Passphrase(n) erlangt wurde(n), da die Verschlüsselungsschlüssel nicht mehr abgeleitet werden können. Der Verified-Boot-Schlüssel ist außerdem einer der Inputs für die Ableitung der Verschlüsselungsschlüssel, zusätzlich zu den Sperrmethode(n) des Benutzers und zufälligen Token(s) auf dem Sicherheitschip.
+Diese Überprüfung ist nach der Installation sinnvoll, aber Sie müssen sie nicht manuell vornehmen, damit verifiziertes Booten funktioniert. Der öffentliche Schlüssel für verifiziertes Booten, der auf dem Sicherheitschip gespeichert wurde, kann nur geändert werden, wenn das Gerät entsperrt ist. Das Entsperren [des Bootloaders, Anm. d. Übers.] des Geräts löscht den Sicherheitschip wie beim Zurücksetzen auf Werkseinstellungen und verhindert ein Wiederherstellen von Daten, selbst wenn die SSD geklont wurde und Ihre Passphrase(n) erlangt wurde(n), da die Verschlüsselungsschlüssel nicht mehr abgeleitet werden können. Der Verified-Boot-Schlüssel ist außerdem einer der Eingaben für die Ableitung der Verschlüsselungsschlüssel, zusätzlich zu den Sperrmethoden des Benutzers und zufälligen Token auf dem Sicherheitschip.
 
-<h4 id="hardware-based-attestation">Hardware-gestützte Attestierung</h4>
+<h4 id="hardware-based-attestation">Hardwaregestützte Attestierung</h4>
 
 GrapheneOS enthält unsere Auditor-App, die eine Kombination aus Verified-Boot- und Attestierungsfunktionen verwendet, um die Unverfälschtheit der Hardware, der Firmware und des Betriebssystems zu überprüfen und weitere nützliche Daten der Hardware und des Betriebssystems bereitzustellen.
 
-Da der Zweck von Auditor darin besteht, Informationen über das Gerät zu erhalten, ohne dem Gerät vertrauen zu müssen, werden die Ergebnisse nicht auf dem zu überprüfenden Gerät angezeigt. Sie benötigen ein zweites Android-Gerät, auf dem der Auditor zur lokalen QR-Code-basierte Überprüfung läuft. Sie können auch unseren optionalen Dienst zur Überwachung der Geräteintegrität für automatische, planmäßige Überprüfungen mit Unterstützung für E-Mail-Warnungen verwenden.
+Da der Zweck von Auditor darin besteht, Informationen über das Gerät zu erhalten, ohne dem Gerät vertrauen zu müssen, werden die Ergebnisse nicht auf dem zu überprüfenden Gerät angezeigt. Sie benötigen ein zweites Android-Gerät, auf dem der Auditor zur lokalen QR-Code-basierten Überprüfung läuft. Sie können auch unseren optionalen Dienst zur Überwachung der Geräteintegrität für automatische, planmäßige Überprüfungen mit Unterstützung für E-Mail-Warnungen verwenden.
 
 Eine Anleitung dazu finden Sie im [Auditor-Tutorial](https://attestation.app/tutorial) [[deutsche Übersetzung](grapheneos-attestation-tutorial.html)].
 
-Auditor basiert in erster Linie auf einem Pairing-Modell, bei dem ein hardwaregestützter Signierschlüssel und ein hardwaregestützter Attestierungs-Signierschlüssel generiert und als Teil der ersten Verifizierung festgehalten werden. Die erste Verifizierung entsteht auf Basis einer Chain of Trust zu einer der Android-Attestierungs-Root-Keys. Nach der ersten Verifizierung bietet er ein hochgradig sicheres System für den Erhalt weiterer Informationen über das Gerät. Ein Angreifer könnte die erste Verifizierung mit einem geleakten Attestation-Key umgehen oder durch die Weiterleitung an ein anderes Gerät mit dem Gerätemodell, dem Betriebssystem und dem Patch-Level, das der Benutzer erwartet. Das Weiterleiten auf ein anderes Gerät wird in Zukunft mit einer optionalen Unterstützung für die Attestierung der Hardware-Seriennummer angegangen werden.
+Auditor basiert in erster Linie auf einem Pairing-Modell, bei dem ein hardwaregestützter Signierschlüssel und ein hardwaregestützter Attestierungs-Signierschlüssel generiert und als Teil der ersten Verifizierung festgehalten werden. Die erste Verifizierung entsteht auf Basis einer Chain of Trust zu einem der Android-Attestierungs-Root-Keys. Nach der ersten Verifizierung bietet er ein hochgradig sicheres System für den Erhalt weiterer Informationen über das Gerät. Ein Angreifer könnte die erste Verifizierung mit einem geleakten Attestation-Key umgehen oder durch die Weiterleitung an ein anderes Gerät mit dem Gerätemodell, dem Betriebssystem und dem Patchlevel, das der Benutzer erwartet. Das Weiterleiten auf ein anderes Gerät wird in Zukunft mit einer optionalen Unterstützung für die Attestierung der Hardware-Seriennummer angegangen werden.
 
 <h3 id="further-information">Weitere Informationen</h3>
 
@@ -455,7 +455,6 @@ Bitte schauen Sie sich das [Benutzerhandbuch](https://grapheneos.org/usage) und 
 
 Die Installation des Stock-Betriebssystems mittels Factory Images ist derselbe Prozess wie oben beschrieben. Vor dem Flashen und Sperren gibt es jedoch einen zusätzlichen Schritt, um das Gerät vollständig in einen sauberen Werkszustand zurückzusetzen.
 
-Die GrapheneOS Factory Images flashen einen nicht-standardmäßigen Android-Verified-Boot-Schlüssel, der gelöscht werden muss, um das Gerät vollständig in den Werkszustand zurückzuversetzen. Bevor Sie die Factory Images flashen sollten Sie das Gerät in den Fastboot-Modus booten und sicherstellen, dass der Bootloader entsperrt ist. Löschen Sie dann den benutzerdefinierten Android-Verified-Boot-Schlüssel, um ihm nicht länger zu vertrauen:
+Die GrapheneOS Factory Images flashen einen nicht-standardmäßigen Android-Verified-Boot-Schlüssel, der gelöscht werden muss, um das Gerät vollständig in den Werkszustand zurückzuversetzen. Bevor Sie die Factory Images flashen, sollten Sie das Gerät in den Fastboot-Modus booten und sicherstellen, dass der Bootloader entsperrt ist. Löschen Sie dann den benutzerdefinierten Android-Verified-Boot-Schlüssel, um ihm nicht länger zu vertrauen:
 
     fastboot erase avb_custom_key
-

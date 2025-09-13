@@ -6,7 +6,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/65117f9794eba2bdf20b80a2fe5884dff8938f1e/static/install/index.html">65117f9</a> vom 2024-09-23. Falls du Hinweise oder Verbesserungsvorschläge hast, dann <a href="contact.html">schreib uns gerne</a> oder arbeite mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/65117f9794eba2bdf20b80a2fe5884dff8938f1e/static/install/index.html">65117f9</a> vom 2024-09-23. Falls Sie Hinweise oder Verbesserungsvorschläge haben, dann <a href="contact.html">schreiben Sie uns gerne</a> oder arbeiten Sie mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -41,4 +41,4 @@ Wir empfehlen dringend, eine der offiziellen Installationsmethoden zu verwenden.
 
 Wenn Sie Probleme mit dem Installationsprozess haben, bitten Sie im [offiziellen GrapheneOS-Chat](https://grapheneos.org/contact#community) um Hilfe. Dort gibt es fast immer Leute, die bereit sind zu helfen. Bevor Sie um Hilfe bitten, versuchen Sie, der Anleitung selbst zu folgen und bitten Sie erst dann um Hilfe, wenn Sie nicht weiterkommen.
 
-Der Weg über die Kommandozeile erfordert ein Betriebssystem mit den richtigen fastboot- und OpenSSH-Paketen sowie ein ausreichendes Verständnis der Abläufe, um nicht blindlings den Anweisungen unserer Website zu vertrauen. Bei der webbasierten Installation benötigen Sie außer einem Browser mit WebUSB-Unterstützung keine weitere Software. Sie können trotzdem vermeiden, unserer Serverinfrastruktur vertrauen zu müssen, indem Sie den Hash des Verified-Boot-Schlüssels überprüfen.
+Der Weg über die Kommandozeile erfordert ein Betriebssystem mit den richtigen Fastboot- und OpenSSH-Paketen sowie ein ausreichendes Verständnis der Abläufe, um nicht blindlings den Anweisungen unserer Website zu vertrauen. Bei der webbasierten Installation benötigen Sie außer einem Browser mit WebUSB-Unterstützung keine weitere Software. Sie können trotzdem vermeiden, unserer Serverinfrastruktur vertrauen zu müssen, indem Sie den Hash des Verified-Boot-Schlüssels überprüfen.
