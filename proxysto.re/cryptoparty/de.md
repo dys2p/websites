@@ -41,8 +41,6 @@ Die Sprechstunde findet **jeden 1. und 3. Montag im Monat** von **16:00 bis 18:0
 
 Die nächsten Termine:
 
-* 01.09.2025
-* 15.09.2025
 * 06.10.2025
 * 20.10.2025
 
