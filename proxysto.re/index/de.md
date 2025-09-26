@@ -41,9 +41,10 @@ Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) und Produ
 
 Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein [kleines Büchersortiment vorrätig](https://shop.proxysto.re/category/7). Für jedes Buch, das ihr direkt bei uns kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und [hier veröffentlicht](spendenverlauf.html). Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
 
-## CryptoParty und Techniksprechstunde
+## Veranstaltungen
 
-[CryptoParty und Techniksprechstunde im ProxyStore – jeden 1. und 3. Montag im Monat von 16:00 bis 18:00 Uhr.](cryptoparty.html)
+* [CryptoParty und Techniksprechstunde im ProxyStore – jeden 1. und 3. Montag im Monat von 16:00 bis 18:00 Uhr.](cryptoparty.html)
+* [Privacy Meetup](privacy-meetup.html) – nächster Termin: 29. September 2025
 
 ## Geräte
 
