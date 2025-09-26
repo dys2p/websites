@@ -1,5 +1,33 @@
 # Unterstütze uns
 
+## Digitale Kaffeekasse
+
+Falls euch unsere Projekte und Ideen gefallen, freuen wir uns über eine kleine Zuwendung in unsere Kaffeekasse. Damit unterstützt ihr unsere [gegenwärtigen und zukünftigen Aktivitäten](https://dys2p.com).
+
+<div class="my-4 text-center">
+	<!-- don't repeat style and script -->
+	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
+	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
+	  <input type="hidden" name="orderId" value="Contribution" />
+	  <input type="hidden" name="checkoutDesc" value="Contribution – Thank you very much!" />
+	  <input type="hidden" name="browserRedirect" value="https://dys2p.com/support.html" />
+	  <div class="btcpay-custom-container">
+		<div class="btcpay-custom">
+		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="-" data-step="1" data-min="5" data-max="9999">-</button>
+		  <input class="btcpay-input-price" type="number" name="price" min="5" max="9999" step="1" value="10" data-price="10" style="width:3em;" oninput="handlePriceInput(event);return false" />
+		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="+" data-step="1" data-min="5" data-max="9999">+</button>
+		</div>
+		<select name="currency">
+		  <option value="USD">USD</option>
+		  <option value="GBP">GBP</option>
+		  <option value="EUR" selected>EUR</option>
+		  <option value="BTC">BTC</option>
+		</select>
+	  </div>
+	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
+	</form>
+</div>
+
 ## Schreddern für alle!
 
 _Leipzig, den 6. April 2021_
@@ -90,31 +118,3 @@ Zukünftige Gelder fließen in den Topf für den Festplattenvernichter. Für den
 Eine Spendenquittung o. ä. können wir leider nicht ausstellen, aber euch winkt ewige Dankbarkeit und natürlich seid ihr jederzeit zum Schreddern willkommen!
 
 Falls unser Projekt irgendwann eingestellt wird, werden wir die Geräte an die nächstgelegene Datenschutzinitiative (etwa eine Ortsgruppe des CCC oder einen Verein), die Interesse hat und den Weiterbetrieb sicherstellen kann, verschenken.
-
-## Digitale Kaffeekasse
-
-Falls euch unsere Projekte und Ideen gefallen, freuen wir uns über eine kleine Zuwendung in unsere Kaffeekasse. Damit unterstützt ihr unsere [gegenwärtigen und zukünftigen Aktivitäten](https://dys2p.com).
-
-<div class="my-4 text-center">
-	<!-- don't repeat style and script -->
-	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
-	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
-	  <input type="hidden" name="orderId" value="Contribution" />
-	  <input type="hidden" name="checkoutDesc" value="Contribution – Thank you very much!" />
-	  <input type="hidden" name="browserRedirect" value="https://dys2p.com/support.html" />
-	  <div class="btcpay-custom-container">
-		<div class="btcpay-custom">
-		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="-" data-step="1" data-min="5" data-max="9999">-</button>
-		  <input class="btcpay-input-price" type="number" name="price" min="5" max="9999" step="1" value="10" data-price="10" style="width:3em;" oninput="handlePriceInput(event);return false" />
-		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="+" data-step="1" data-min="5" data-max="9999">+</button>
-		</div>
-		<select name="currency">
-		  <option value="USD">USD</option>
-		  <option value="GBP">GBP</option>
-		  <option value="EUR" selected>EUR</option>
-		  <option value="BTC">BTC</option>
-		</select>
-	  </div>
-	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
-	</form>
-</div>

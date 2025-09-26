@@ -1,5 +1,33 @@
 # Support us
 
+## Digital tip
+
+If you like our projects and ideas, we would appreciate a small tip. This way you support our [current and future activities](https://dys2p.com).
+
+<div class="my-4 text-center">
+	<!-- don't repeat style and script -->
+	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
+	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
+	  <input type="hidden" name="orderId" value="Contribution" />
+	  <input type="hidden" name="checkoutDesc" value="Contribution – Thank you very much!" />
+	  <input type="hidden" name="browserRedirect" value="https://dys2p.com/support.html" />
+	  <div class="btcpay-custom-container">
+		<div class="btcpay-custom">
+		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="-" data-step="1" data-min="5" data-max="9999">-</button>
+		  <input class="btcpay-input-price" type="number" name="price" min="5" max="9999" step="1" value="10" data-price="10" style="width:3em;" oninput="handlePriceInput(event);return false" />
+		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="+" data-step="1" data-min="5" data-max="9999">+</button>
+		</div>
+		<select name="currency">
+		  <option value="USD">USD</option>
+		  <option value="GBP">GBP</option>
+		  <option value="EUR" selected>EUR</option>
+		  <option value="BTC">BTC</option>
+		</select>
+	  </div>
+	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
+	</form>
+</div>
+
 ## Shredding for everyone!
 
 _Leipzig, April 6, 2021_
@@ -90,31 +118,3 @@ Future funds are going into the pot for the storage device shredder. We ask you 
 Unfortunately, we can't issue a donation receipt or similar, but eternal gratitude beckons you and of course you are welcome to shred anytime!
 
 If our project is discontinued at some point, we will give the devices to the nearest privacy initiative (such as a local chapter of the CCC, or an association) that is interested and can ensure their continued operation.
-
-## Digital tip
-
-If you like our projects and ideas, we would appreciate a small tip. This way you support our [current and future activities](https://dys2p.com).
-
-<div class="my-4 text-center">
-	<!-- don't repeat style and script -->
-	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
-	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
-	  <input type="hidden" name="orderId" value="Contribution" />
-	  <input type="hidden" name="checkoutDesc" value="Contribution – Thank you very much!" />
-	  <input type="hidden" name="browserRedirect" value="https://dys2p.com/support.html" />
-	  <div class="btcpay-custom-container">
-		<div class="btcpay-custom">
-		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="-" data-step="1" data-min="5" data-max="9999">-</button>
-		  <input class="btcpay-input-price" type="number" name="price" min="5" max="9999" step="1" value="10" data-price="10" style="width:3em;" oninput="handlePriceInput(event);return false" />
-		  <button class="plus-minus" type="button" onclick="handlePlusMinus(event);return false" data-type="+" data-step="1" data-min="5" data-max="9999">+</button>
-		</div>
-		<select name="currency">
-		  <option value="USD">USD</option>
-		  <option value="GBP">GBP</option>
-		  <option value="EUR" selected>EUR</option>
-		  <option value="BTC">BTC</option>
-		</select>
-	  </div>
-	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
-	</form>
-</div>
