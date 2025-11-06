@@ -44,7 +44,7 @@ Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung ha
 ## Veranstaltungen
 
 * [CryptoParty und Techniksprechstunde im ProxyStore – jeden 1. und 3. Montag im Monat von 16:00 bis 18:00 Uhr.](cryptoparty.html)
-* [Privacy Meetup](privacy-meetup.html) – nächster Termin: 29. September 2025
+* [Privacy Meetup](privacy-meetup.html) – nächster Termin: 27. Oktober 2025
 
 ## Geräte
 
