@@ -1,5 +1,7 @@
 # Kontakt
 
+Bitte hab Verständnis dafür, dass unsere Kontaktmöglichkeiten nur für Fragen, Hinweise und Support zu unseren Angeboten und Produkten gedacht sind. Zeit für allgemeine Technik-Fragen haben wir leider nur im Rahmen unserer [regelmäßigen Technik-Sprechstunde](https://proxysto.re/de/cryptoparty.html) in unserem Ladengeschäft.
+
 ## E-Mail
 
 <code>mail <span class="ritole">ta</span> proxysto.re</code>

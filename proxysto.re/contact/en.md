@@ -1,5 +1,7 @@
 # Contact us
 
+Please understand that our contact options are only intended for questions, comments, and support regarding our offers and products. General technical questions can only be answered at our regular [cryptoparty and tech talk](https://proxysto.re/en/cryptoparty.html) in our local store.
+
 ## E-Mail
 
 <code>mail <span class="ritole">ta</span> proxysto.re</code>
