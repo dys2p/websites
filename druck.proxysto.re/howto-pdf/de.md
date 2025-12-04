@@ -54,6 +54,10 @@ Du musst die Anschnitt-Einstellung nicht verwenden, sondern kannst auch selbst r
 
 Achte darauf, dass der Hintergrund deiner Datei sich auch auf den Anschnitt erstreckt.
 
+![Scribus: Dokument einrichten › Farbmanagement aktivieren](/static/images/scribus-farbmanagement-aktivieren.png)
+
+Öffne nun das Fenster <kbd>Datei</kbd> › <kbd>Dokument einrichten</kbd> › <kbd>Farbmanagement</kbd> und setze den Haken bei <kbd>Farbmanagement aktivieren</kbd>. Nur dann kannst du deine Datei als PDF/X-3 speichern.
+
 ![Scribus: Export, als PDF speichern](/static/images/scribus-export-1.png)
 
 Klicke auf <kbd>Datei</kbd> › <kbd>Exportieren</kbd> › <kbd>Als PDF speichern</kbd>.
