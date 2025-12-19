@@ -7,7 +7,7 @@
 </nav>
 
 <div class="alert alert-primary">
-	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/c61bcec301c0a0c180f86f31cb2554ebecb2f8d0/static/install/cli.html">c61bcec</a> vom 2025-07-01. Falls Sie Hinweise oder Verbesserungsvorschläge haben, dann <a href="contact.html">schreiben Sie uns gerne</a> oder arbeiten Sie mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
+	Diese Übersetzung basiert auf dem Commit <a href="https://github.com/GrapheneOS/grapheneos.org/blob/73b2e2cda384310f4c26ebff049afebb31906a37/static/install/cli.html">73b2e2c</a> vom 2025-11-28. Falls Sie Hinweise oder Verbesserungsvorschläge haben, dann <a href="contact.html">schreiben Sie uns gerne</a> oder arbeiten Sie mit uns auf <a href="https://github.com/dys2p/websites/blob/main/dys2p.com/grapheneos-install-cli/de.md">GitHub</a> an dieser Übersetzung.
 </div>
 
 <!--
@@ -141,17 +141,15 @@ Offiziell unterstützte Betriebssysteme für die CLI-Installationsmethode:
 
 * Windows 10
 * Windows 11
-* macOS Ventura (13)
 * macOS Sonoma (14)
 * macOS Sequoia (15)
+* macOS Tahoe (26)
 * Arch Linux
-* Debian 11 (Bullseye)
 * Debian 12 (Bookworm)
-* Ubuntu 20.04 LTS
+* Debian 13 (Trixie)
 * Ubuntu 22.04 LTS
 * Ubuntu 24.04 LTS
-* Ubuntu 24.10
-* Linux Mint 20 (nutzen Sie die Anweisungen für Ubuntu 20.04 LTS)
+* Ubuntu 25.04 LTS
 * Linux Mint 21 (nutzen Sie die Anweisungen für Ubuntu 22.04 LTS)
 * Linux Mint 22 (nutzen Sie die Anweisungen für Ubuntu 24.04 LTS)
 * Linux Mint Debian Edition 6 (nutzen Sie die Anweisungen für Debian 12)
@@ -204,7 +202,7 @@ Zum Herunterladen, Verifizieren und Entpacken der Standalone Platform Tools unte
 
 	sudo apt install libarchive-tools
 	curl -O https://dl.google.com/android/repository/platform-tools_r35.0.2-linux.zip
-	echo 'acfdcccb123a8718c46c46c059b2f621140194e5ec1ac9d81715be3d6ab6cd0a  platform-tools_r35.0.2-linux.zip' | sha256sum -c
+	echo 'acfdcccb123a8718c46c46c059b2f621140194e5ec1ac9d81715be3d6ab6cd0a platform-tools_r35.0.2-linux.zip' | sha256sum -c
 	bsdtar xvf platform-tools_r35.0.2-linux.zip
 
 Zum Herunterladen, Verifizieren und Entpacken der Standalone Platform Tools unter macOS:
@@ -272,13 +270,13 @@ Am einfachsten ist es, das Gerät neu zu starten und die Leiser-Taste gedrückt 
 
 Alternativ schalten Sie das Gerät aus und starten Sie es dann, wobei Sie die Leiser-Taste während des Bootvorgangs gedrückt halten. Sie können es entweder mit der Einschalttaste oder durch das Anschließen des Kabels starten, was im nächsten Abschnitt ohnehin nötig ist.
 
-Dieser Schritt ist erst abgeschlossen, wenn Ihr Gerät ein rotes Warndreieck und die Worte „Fastboot-Modus“ anzeigt. Sie dürfen die Einschalttaste des Geräts nicht drücken, um den Menüpunkt „Start“ zu aktivieren, da das Gerät im Fastboot-Modus bleiben muss, damit das Installationsprogramm eine Verbindung herstellen kann.
+Dieser Schritt ist erst abgeschlossen, wenn Ihr Gerät ein rotes Warndreieck und die Worte „Fastboot Mode“ anzeigt. Sie dürfen die Einschalttaste des Geräts nicht drücken, um den Menüpunkt „Start“ zu aktivieren, da das Gerät im Fastboot-Modus bleiben muss, damit das Installationsprogramm eine Verbindung herstellen kann.
 
 <h2 id="connecting-phone">Das Gerät verbinden</h2>
 
 Verbinden Sie das Gerät mit dem Computer. Unter Linux müssen Sie das erneut tun, falls Sie die udev-Regeln beim Anschließen des Gerätes noch nicht eingerichtet hatten.
 
-Die aktuellen Windows-Versionen 10 und 11 enthalten einen generischen Treiber, der für fastboot geeignet ist, und erfordert nicht mehr die Installation eines Treibers für die Installation auf dem Pixel 4a (5G) oder neuer. Für die Installation auf älteren Pixel der 4. Generation ist ein Treiber immer noch notwendig, da der generischen Treiber nicht mit fastbootd umgehen kann. Ältere Windows-Versionen benötigen den Treiber auch für nicht-veraltete Pixel-Geräte. Sie können den Treiber über Windows Update beziehen, das ihn als optionales Update erkennt, wenn das Gerät in die Bootloader-Schnittstelle gebootet und mit dem Computer verbunden wird. Öffnen Sie Windows Update, führen Sie eine Prüfung auf Updates durch und öffnen Sie dann „Optionale Updates anzeigen“. Installieren Sie den Treiber für die Android-Bootloader-Schnittstelle als optionales Update, das aufgrund der USB-ID-Überschneidung als „LeMobile Android Device“ angezeigt wird. Ein alternativer Weg, die Windows Fastboot-Treiber zu beziehen, besteht darin, den [neuesten Treiber für Pixels](https://developer.android.com/studio/run/win-usb) von Google herunterzuladen und ihn dann [manuell über den Windows-Geräte-Manager zu installieren](https://developer.android.com/studio/run/oem-usb#InstallingDriver).
+Die aktuellen Windows-Versionen 10 und 11 enthalten einen generischen Treiber, der für fastboot geeignet ist, und erfordern nicht mehr die Installation eines Treibers für die Installation auf dem Pixel 4a (5G) oder neuer. Für die Installation auf älteren Pixel der 4. Generation ist ein Treiber immer noch notwendig, da der generischen Treiber nicht mit fastbootd umgehen kann. Ältere Windows-Versionen benötigen den Treiber auch für nicht-veraltete Pixel-Geräte. Sie können den Treiber über Windows Update beziehen, das ihn als optionales Update erkennt, wenn das Gerät in die Bootloader-Schnittstelle gebootet und mit dem Computer verbunden wird. Öffnen Sie Windows Update, führen Sie eine Prüfung auf Updates durch und öffnen Sie dann „Optionale Updates anzeigen“. Installieren Sie den Treiber für die Android-Bootloader-Schnittstelle als optionales Update, das aufgrund der USB-ID-Überschneidung als „LeMobile Android Device“ angezeigt wird. Ein alternativer Weg, die Windows Fastboot-Treiber zu beziehen, besteht darin, den [neuesten Treiber für Pixels](https://developer.android.com/studio/run/win-usb) von Google herunterzuladen und ihn dann [manuell über den Windows-Geräte-Manager zu installieren](https://developer.android.com/studio/run/oem-usb#InstallingDriver).
 
 Trennen Sie das Pixel-Tablet vom Ladedock mit Lautsprecher, bevor Sie fortfahren. Das Ladedock verwendet USB zum Aufladen und für die Audioausgabe, aber das Tablet bietet keine Unterstützung für die gleichzeitige Verwendung des Ladedock und des USB-Anschlusses.
 
@@ -321,7 +319,7 @@ Das ist der Inhalt von `allowed_signers`:
 Andere Stellen, an denen Sie den Signierschlüssel erhalten können:
 <ul>
 <li><a href="https://bsky.app/profile/grapheneos.org/post/3kleyygkptm2x">Bluesky</a></li>
-<li><a href="https://x.com/GrapheneOS/status/1757758688952009209">Twitter</a></li>
+<li><a href="https://x.com/GrapheneOS/status/1757758688952009209">X</a></li>
 <li><a href="https://github.com/GrapheneOS/releases.grapheneos.org/blob/main/static/allowed_signers">GitHub</a></li>
 </ul>
 
@@ -348,7 +346,7 @@ Wenn die Überprüfung erfolgreich war, wird die folgende Ausgabe angezeigt:
 
 <h2 id="flashing-factory-images">Factory Images flashen</h2>
 
-Die Erstinstallation erfolgt durch das Flashen der Factory Images. Das wird das bestehende Betriebssystem ersetzen und alle vorhandenen Daten löschen.
+Die Erstinstallation erfolgt durch das Flashen der Factory Images. Dadurch wird das bestehende Betriebssystem ersetzt und alle vorhandenen Daten werden gelöscht.
 
 Extrahieren Sie als Nächstes die Factory Images.
 
@@ -374,7 +372,7 @@ Unter Windows:
 
     ./flash-all.bat
 
-Warten Sie, bis der Flashvorgang abgeschlossen ist. Das Flashen der Firmware, der Neustart in den Bootloader-Modus und das Flashen des Betriebssystems werden automatisch durchgeführt. Vermeiden Sie es, mit dem Gerät zu interagieren, bis das Flash-Skript beendet ist. <a href="#locking-the-bootloader">Sperren Sie im Anschluss den Bootloader</a>, bevor Sie das Gerät verwenden, da beim Sperren die Daten erneut gelöscht werden.
+Warten Sie, bis der Flashvorgang abgeschlossen ist. Das Flashen der Firmware, der Neustart in den Bootloader-Modus und das Flashen des Betriebssystems werden automatisch durchgeführt. Vermeiden Sie es, mit dem Gerät zu interagieren, bis das Flash-Skript beendet ist. <a href="#locking-the-bootloader">Sperren Sie anschließend den Bootloader</a>, bevor Sie das Gerät verwenden, da durch das Sperren die Daten erneut gelöscht werden.
 
 <h3 id="troubleshooting">Fehlersuche</h3>
 
@@ -416,8 +414,12 @@ Die letzte Bootphase der Firmware vor dem Betriebssystem ist für die Verifizier
 
 <h4 id="verified-boot-key-hash">Hash des öffentlichen Verified-Boot-Schlüssels</h4>
 
-Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Pixels der 6. und 7. Generation zeigen den vollständigen Hashwert, den Sie mit dem offiziellen Verified-Boot-Key-Hashwert von GrapheneOS vergleichen können:
+Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bit des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Bei Pixels ab der 6. Generation wird der vollständige Hashwert angezeigt, den Sie mit dem offiziellen, von GrapheneOS verifizierten Boot-Key-Hashwert vergleichen können:
 
+* Pixel 10 Pro Fold: `55a2d44103e56d5ec65496399c417987ba77730e6488fc60ba058d09fc3caee3`
+* Pixel 10 Pro XL: `141d7fc32af7958a416f2661b37cf6f27bfb376fb5ce616aeaa27a82c7a04f74`
+* Pixel 10 Pro: `4e8ee8f717754052198ca6d2d3aaa232e2461b4293c0d6f297e519cc778de093`
+* Pixel 10: `3f7415ea26f5df5b14ea6d153256071a7a1af9ce7b0970b7311cc463c7ea02c7`
 * Pixel 9a: `0508de44ee00bfb49ece32c418af1896391abde0f05b64f41bc9a2dfb589445b`
 * Pixel 9 Pro Fold: `af4d2c6e62be0fec54f0271b9776ff061dd8392d9f51cf6ab1551d346679e24c`
 * Pixel 9 Pro XL: `55d3c2323db91bb91f20d38d015e85112d038f6b6b5738fe352c1a80dba57023`
