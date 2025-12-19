@@ -149,7 +149,7 @@ Offiziell unterstützte Betriebssysteme für die CLI-Installationsmethode:
 * Debian 13 (Trixie)
 * Ubuntu 22.04 LTS
 * Ubuntu 24.04 LTS
-* Ubuntu 25.04 LTS
+* Ubuntu 25.04
 * Linux Mint 21 (nutzen Sie die Anweisungen für Ubuntu 22.04 LTS)
 * Linux Mint 22 (nutzen Sie die Anweisungen für Ubuntu 24.04 LTS)
 * Linux Mint Debian Edition 6 (nutzen Sie die Anweisungen für Debian 12)
