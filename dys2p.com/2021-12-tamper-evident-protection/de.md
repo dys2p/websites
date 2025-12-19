@@ -136,7 +136,7 @@ Während die US-Regierung seit Jahren behauptet, dass chinesische Firmen Überwa
 
 ![TAO](/assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
 
-Es ist anzunehmen, dass derartige Angriffe auch in anderen Staaten stattfinden – sei es gegen Einzelpersonen oder großflächiger. [The Intercept veröffentlichte 2019 einen guten Artikel](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) zu Lieferkettenangriffen, Microsoft begann im selben Jahr eine eigene Artikelreihe: [Teil 1](http://microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Teil 2](https://web.archive.org/web/20210226030901/https://www.microsoft.com/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/) und [Teil 3](https://web.archive.org/web/20210303150737/https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
+Es ist anzunehmen, dass derartige Angriffe auch in anderen Staaten stattfinden – sei es gegen Einzelpersonen oder großflächiger. [The Intercept veröffentlichte 2019 einen guten Artikel](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) zu Lieferkettenangriffen, Microsoft begann im selben Jahr eine eigene Artikelreihe: [Teil 1](http://microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Teil 2](https://www.microsoft.com/en-us/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/) und [Teil 3](https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
 
 <h3 id="evil-maid-attacken">Evil-Maid-Attacken</h3>
 
@@ -166,13 +166,13 @@ Andere Unternehmen suchen nach Verbesserungsmöglichkeiten. So haben wir nach un
 
 <h3 id="glitzer-nagellack">Glitzer-Nagellack</h3>
 
-Eine realtiv weit verbreitete Methode, um beispielsweise Schrauben an Geräten zu versiegeln, damit ein unautorisierter Zugriff mit höherer Wahrscheinlichkeit festgestellt werden kann, ist die Verwendung von Nagellack mit verschiedenfarbigen und verschieden großen Elementen. Dieses Verfahren wurde unseres Wissen nach erstmalig auf dem [30C3](https://media.ccc.de/v/30C3_-_5600_-_en_-_saal_1_-_201312301245_-_thwarting_evil_maid_attacks_-_eric_michaud_-_ryan_lackey) von [Eric Michaud](https://twitter.com/ericmichaud) und [Ryan Lackey](https://twitter.com/octal) vorgestellt und wird von mehreren Unternehmen und Privatpersonen empfohlen und genutzt, so auch von [Journalisten bei der Auswertung der Panama Papers](https://www.mz.de/deutschland-und-welt/politik/panama-papers-journalisten-sicherten-laptops-mit-glitzernagellack-1138070).
+Eine relativ weit verbreitete Methode, um beispielsweise Schrauben an Geräten zu versiegeln, damit ein unautorisierter Zugriff mit höherer Wahrscheinlichkeit festgestellt werden kann, ist die Verwendung von Nagellack mit verschiedenfarbigen und verschieden großen Elementen. Dieses Verfahren wurde unseres Wissens nach erstmalig auf dem [30C3](https://media.ccc.de/v/30C3_-_5600_-_en_-_saal_1_-_201312301245_-_thwarting_evil_maid_attacks_-_eric_michaud_-_ryan_lackey) von [Eric Michaud](https://twitter.com/ericmichaud) und [Ryan Lackey](https://twitter.com/octal) vorgestellt und wird von mehreren Unternehmen und Privatpersonen empfohlen und genutzt, so auch von [Journalisten bei der Auswertung der Panama Papers](https://www.mz.de/deutschland-und-welt/politik/panama-papers-journalisten-sicherten-laptops-mit-glitzernagellack-1138070).
 
 Wir haben selbst ein paar Versuche unternommen, um die Wirksamkeit dieses Verfahrens zu prüfen.
 
 <h4 id="glitzer-nagellack-mit-aufklebern">Glitzer-Nagellack mit Aufklebern</h4>
 
-Bei dem von [Mullvad VPN beschriebenen Verfahren](https://mullvad.net/en/help/how-tamper-protect-laptop/) schützt ein Aufkleber, dessen Rand mit [Glitzer-Nagellack](https://shop.proxysto.re/conf/1002) versiegelt wird, die Schrauben (oder ungenutzte Ports), um so einerseits Zugriffsversuche feststellen zu können und anderseits bei Bedarf einfach wieder Zugang dazu zu erhalten. Bei diesem Verfahren ist es jedoch ohne große Übung relativ einfach möglich, z. B. mit einer Nadel oder einem Skalpell unter den Aufkleber zu fahren und diesen zum Teil nach oben zu schieben, um an die Schrauben zu kommen. Die Bruchstellen im Lack könnten mit Klarlack repariert werden, wobei dies uns bei unseren Versuchen meist nicht erforderlich war. Wir haben bei unseren Versuchen bisher zwei verschiedene Aufkleber verwendet, wobei der von Mullvad am besten hielt.
+Bei dem von [Mullvad VPN beschriebenen Verfahren](https://mullvad.net/en/help/how-tamper-protect-laptop/) schützt ein Aufkleber, dessen Rand mit [Glitzer-Nagellack](https://shop.proxysto.re/conf/1002) versiegelt wird, die Schrauben (oder ungenutzte Ports), um so einerseits Zugriffsversuche feststellen zu können und andererseits bei Bedarf einfach wieder Zugang dazu zu erhalten. Bei diesem Verfahren ist es jedoch ohne große Übung relativ einfach möglich, z. B. mit einer Nadel oder einem Skalpell unter den Aufkleber zu fahren und diesen zum Teil nach oben zu schieben, um an die Schrauben zu kommen. Die Bruchstellen im Lack könnten mit Klarlack repariert werden, wobei dies uns bei unseren Versuchen meist nicht erforderlich war. Wir haben bei unseren Versuchen bisher zwei verschiedene Aufkleber verwendet, wobei der von Mullvad am besten hielt.
 
 Das nachfolgende Bild ist eine Vorher-Nachher-Aufnahme eines unserer ersten Versuche. Bis auf 3-4 Glitzer-Elemente am linken oberen Rand des Aufklebers sind alle weiteren nach wie vor an der gleichen Stelle. In folgenden Versuchen konnte dies weiter reduziert werden, sodass wir dieses Verfahren nur als bedingt geeignet einstufen.
 
@@ -194,7 +194,7 @@ Mit den ersten beiden Verfahren ist es mitunter sehr schwierig oder gar unmögli
 
 <h2 id="random-mosaic-rm">random mosaic $ rm -r ice</h2>
 
-Eine Alternative zum Versiegeln ist das Einbetten des ganzen Gegenstands in einer Substanz, deren Oberfläche ein Mosaik bildet, das schwer reproduzierbar ist und sich bei Manipulationen ändert. Das Mosaik soll manuell oder mit technischen Mitteln möglichst einfach überprüft werden können. Das Ziel ist, Schriftstücke, Datenträger, Kommunikationstechnik, Hardware-Wallets und andere sensible Objekte so zu schützen, dass ein unautorisierter Zugriff mit größerer Wahrscheinlichkeit festgestellt werden kann. Wir unterscheiden zwischen zwei Anwendungsfällen: kurzzeitiger Lagerung und längerfristiger Lagerung bzw. Versand.
+Eine Alternative zum Versiegeln ist das Einbetten des ganzen Gegenstands in einer Substanz, deren Oberfläche ein Mosaik bildet, das schwer reproduzierbar ist und sich bei Manipulationen ändert. Das Mosaik soll manuell oder mit technischen Mitteln möglichst einfach überprüft werden können. Das Ziel ist, Schriftstücke, Datenträger, Kommunikationstechnik, Hardware-Wallets und andere sensible Objekte so zu schützen, dass ein unautorisierter Zugriff mit größerer Wahrscheinlichkeit festgestellt werden kann. Wir unterscheiden zwischen zwei Anwendungsfällen: kurzzeitige Lagerung und längerfristige Lagerung bzw. Versand.
 
 <h3 id="auf-der-suche-nach-geeigneten-substanzen">Auf der Suche nach geeigneten Substanzen</h3>
 
@@ -202,15 +202,15 @@ Die gesuchte Mischung sollte:
 
 - nicht zu feinkörnig sein, damit die einzelnen Elemente gut erkennbar sind
 - nicht zu grob sein, damit es möglichst schwer ist, das Mosaik zu reproduzieren
-- aus verschiedenfarbigen und/oder verschieden großen Elementen bestehen, um ein möglichst kontrastreichen Mosaik zu ergeben
+- aus verschiedenfarbigen und/oder verschieden großen Elementen bestehen, um ein möglichst kontrastreiches Mosaik zu ergeben
 - aus möglichst runden Elementen bestehen, um nicht zu verkanten
 - möglichst trocken sein und nicht zu Klumpenbildung bzw. zum Verkleben neigen
 - einfach und preisgünstig zu beschaffen sein
 - fest sein, um im Fall eines Austretens keinen Schaden anzurichten
 - keine scharfen Kanten oder spitzen Ecken haben, die Schäden verursachen können
-- nicht zu schwer sein, z. B. um Versandkosten zu sparen
+- nicht zu schwer sein, um z. B. Versandkosten zu sparen
 
-Um das Mischverhalten zu testen, waren für uns insbesondere die ersten drei Punkte relevant. Wir haben mehrere Substanzen untersucht und uns dabei auf solche beschränkt, die die letzten drei Punkte unserer Anforderungen erfüllten. Unser bisheriger Favoriten sind: Rote Linsen & Belugalinsen, gelbe und grüne Erbsen und weiße Bohnen, sowie gefärbter Reis.
+Um das Mischverhalten zu testen, waren für uns insbesondere die ersten drei Punkte relevant. Wir haben mehrere Substanzen untersucht und uns dabei auf solche beschränkt, die die letzten drei Punkte unserer Anforderungen erfüllten. Unsere bisherigen Favoriten sind: Rote Linsen & Belugalinsen, gelbe Erbsen & weiße Bohnen sowie gefärbter Reis.
 
 <h4 id="rote-linsen-und-belugalinsen">Rote Linsen & Belugalinsen</h4>
 
@@ -246,7 +246,7 @@ Vogelfutter hat den Vorteil, dass es in kleineren Beuteln relativ normal aussieh
 
 ![Kugeln](/assets/images/tamper-evident-protection/kugeln_01.jpg)
 
-Die Kugeln haben im Vergleich zu den anderen Artikeln wahrscheinlich die beste Beständigkeit, sind jedoch teurer und schwerer erhältlich als die meisten anderen Subtanzen.
+Die Kugeln haben im Vergleich zu den anderen Artikeln wahrscheinlich die beste Beständigkeit, sind jedoch teurer und schwerer erhältlich als die meisten anderen Substanzen.
 
 <h4 id="gefaerbtes-salz">Gefärbtes Salz</h4>
 
@@ -279,7 +279,7 @@ Kinetischen Sand (auch als Modelliersand bezeichnet) erachten wir als unzweckmä
 Wir haben zwei verschiedene Lebensmittelfarben getestet. Die Farben von _V2 Foods_ finden wir aufgrund der höheren Farbintensität besser als die von _Limino_. Dabei war das Vorgehen immer ähnlich:
 
 1. Circa 15 Tropfen Lebensmittelfarbe zu 125 g Substanz geben.
-2. einen halben Teelöffel Wasser dazugeben (außer bei Salz und Zucker).
+2. Einen halben Teelöffel Wasser dazugeben (außer bei Salz und Zucker).
 3. In einem geschlossenen Beutel oder einer Box gut durchmischen.
 4. Sollte die gewünschte Farbintensität noch nicht erreicht sein, noch ein paar Tropfen Lebensmittelfarbe hinzugeben. Nicht zu viel, da die Substanz sonst verkleben oder verklumpen kann.
 5. Die gefärbte Substanz auf einem Teller, auf Backpapier oder in einer Box ausbreiten und an der Luft trocknen lassen.
@@ -292,7 +292,7 @@ Neben normaler Lebensmittelfarbe könnten Teile der Substanz auch mit fluoreszie
 
 <h3 id="kurzzeitige-lagerung">Kurzzeitige Lagerung</h3>
 
-Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass unsere Geräten bedeckt sind. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren das Mosaik nicht verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunter rutschen kann.
+Der Entstehungsgeschichte folgend, beginnen wir mit dem ersten Anwendungsfall, der kurzzeitigen Lagerung. Wenn wir einen Ort verlassen und Gegenstände bzw. Geräte zurücklassen müssen, können wir diese in einer von allen Seiten durchsichtigen Box einlagern. Danach füllen wir die Box mit unserer bunten Mischung, sodass unsere Geräte bedeckt sind. Die Box sollte so gelagert werden, dass Erschütterungen oder andere Faktoren das Mosaik nicht verändern. Dabei kann die Box z. B. auf einem Handtuch oder Kleidungsstück so auf einem Gegenstand positioniert werden, dass dieses kleinere Erschütterungen der Umgebung abschwächt, die Box jedoch von diesem nicht herunterrutschen kann.
 
 Für einen Gesamtvergleich können wir die Box von allen sichtbaren Seiten fotografieren und diese Aufnahme auf einem möglichst sicheren Gerät speichern, an eine vertraute Person über einen verschlüsselten und verifizierten Weg übermitteln oder an ein anderes eigenes Gerät senden. Im Anschluss gilt es, das vorgefundene Mosaik mit dem ursprünglichen zu vergleichen. Dafür bietet sich die App [Blink Comparison](https://github.com/proninyaroslav/blink-comparison) an, auf die wir weiter unten eingehen.
 
@@ -314,7 +314,7 @@ Da viele Personen Staubsauger besitzen und es auch öffentliche Staubsauger an T
 
 <h4 id="vakuumieren-mit-einem-vakuumiergeraet">Vakuumieren mit einem Vakuumiergerät</h4>
 
-Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe unterscheiden. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Passenden Beutel gibt es in vielen Größen, sie können aber nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden.
+Es gibt viele verschiedene Vakuumiergeräte, die sich in Qualität und Größe unterscheiden. Vakuumiergeräte werden beispielsweise verwendet, um Lebensmittel länger frisch zu halten. Passende Beutel gibt es in vielen Größen, sie können aber nicht so einfach bzw. nur mit Materialverlust wiederverwendet werden.
 
 ![Rote Linsen & Belugalinsen](/assets/images/tamper-evident-protection/vakuum_01.jpg)
 
@@ -340,16 +340,16 @@ Danach wechselt Blink Comparison beim Berühren des Bildschirms zwischen beiden 
 
 <h2 id="danksagung-und-partizipation">Danksagung und Partizipation</h2>
 
-Wir möchten uns an dieser Stelle bei allen bedanken, die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen, die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack, Nitrokey und Purism für den Austausch zum Versiegeln mit Nagellack und [Insurgo](https://insurgo.ca) für den Hinweis zu Blink Comparison.
+Wir möchten uns an dieser Stelle bei allen bedanken, die uns hierbei unterstützt haben. Dieser Dank gilt insbesondere jenen, die uns Vakuumiergeräte zur Verfügung gestellt haben, Mullvad VPN für den Glitzer-Nagellack, Nitrokey und Purism für den Austausch zum Versiegeln mit Nagellack sowie [Insurgo](https://insurgo.ca) für den Hinweis zu Blink Comparison.
 
-Solltest du weitere Ideen, Hinweise oder Verbesserungsvorschläge haben, dann [schreib uns gerne](https://proxysto.re/contact.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/blob/master/2021-12-tamper-evident-protection) an diesem Projekt.
+Solltest du weitere Ideen, Hinweise oder Verbesserungsvorschläge haben, dann [schreib uns gerne](https://proxysto.re/contact.html) oder arbeite mit uns auf [GitHub](https://github.com/dys2p/websites/tree/main/dys2p.com/2021-12-tamper-evident-protection) an diesem Projekt.
 
 <h2 id="erwaehnungen">Erwähnungen</h2>
 
 * [anarsec.guide - Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
-* [c't 16/2022](https://www.heise.de/select/ct/2022/16), p. 44
+* [c't 16/2022](https://www.heise.de/select/ct/2022/16), S. 44
 * [Hacker News - Detecting unauthorized physical access with beans, lentils and colored rice (2021) (dys2p.com)](https://news.ycombinator.com/item?id=31897530)
-* [heise.de - Random Mosaic: Fremdzugriffe mit Bohnen, Linsen oder buntem Reis erkennen ](https://web.archive.org/web/20220627170123/https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html)
+* [heise.de - Random Mosaic: Fremdzugriffe mit Bohnen, Linsen oder buntem Reis erkennen ](https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html)
 * [Tokimarks - Tamper-evident Ballot Boxes](https://github.com/mleonhard/tokimark#tamper-evident-ballot-boxes)
 * [UNREDACTED Magazine - The Privacy, Security, & OSINT Magazine, Ausgabe 004](https://unredactedmagazine.com/issues/004.pdf)
 * [Yahoo Finanzen - Linsen, Bohnen und Glitzernagellack: Wie man Ware beim Versand vor Fremdzugriff schützt](https://de.nachrichten.yahoo.com/linsen-bohnen-und-glitzernagellack-wie-man-ware-beim-versand-vor-fremdzugriff-schutzt-121805730.html)
