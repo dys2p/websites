@@ -69,7 +69,7 @@ Einen Eindruck über die Methoden und Wege, Passwörter und Passphrasen zu erlan
 > - Kryptoanalyse (mathematische Schwäche, Reduzierung des Schlüsselraums)
 > - Auffinden von Passwörtern, die zuvor gespeichert, geschrieben oder übertragen wurden
 > - Wiederverwendung von Passwörtern über mehrere Konten oder Geräte hinweg
-> - Rechtliche Verpflichtung zur Vorlage von Passwörtern vor Gericht (Anmkerung: Gibt es in einigen Ländern.)
+> - Rechtliche Verpflichtung zur Vorlage von Passwörtern vor Gericht (Anmerkung: Gibt es in einigen Ländern.)
 > - Kooperativer Systembesitzer oder Komplize mit dem Passwort
 > - Schlüsselsicherung/-entnahme in Unternehmensumgebungen
 > - Ausnutzung von Geräten, Schwachstellen oder Hintertüren
@@ -85,7 +85,7 @@ Wie ist die Einschätzung anderer zu diesem Thema? Mikko Hyppönen schrieb in "I
 
 > Die Behörden verfügen zu diesem Zweck über ziemlich beeindruckende Entschlüsselungssysteme. Ein Bürogebäude in Den Haag beispielsweise verfügt über Entschlüsselungshardware von der Größe eines Supercomputers, die ihr eigenes Kraftwerk benötigt. Mit einer solchen Hardware können Millionen von Passwortoptionen pro Sekunde getestet werden. Dennoch kann es Monate dauern, eine einzige verschlüsselte Datei [oder ein verschlüsseltes Laufwerk] zu öffnen.
 
-> Automatisierte Entschlüsselungssysteme verwenden eine clevere Taktik, um diesen Vorgang zu beschleunigen. Wird eine kennwortgeschützte Datei auf der Festplatte eines Verdächtigen gefunden, werden alle Dateien auf dem Laufwerk indiziert und alle einzelnen Wörter aus jeder Datei gesammelt, um sie als Kennwörter zu testen. Wenn dies nicht funktioniert, werden alle gefundenen Wörter in umgekehrter Reihenfolge getestet und das Laufwerk nach ungenutzten Bereichen und gelöschten Dateien durchsucht, und die darin enthaltenen Wörter werden ausprobiert. In erstaunlich vielen Fällen lassen sich die Dateien auf diese Weise entschlüsseln.
+> Automatisierte Entschlüsselungssysteme verwenden eine clevere Taktik, um diesen Vorgang zu beschleunigen. Wird eine passwortgeschützte Datei auf der Festplatte eines Verdächtigen gefunden, werden alle Dateien auf dem Laufwerk indiziert und alle einzelnen Wörter aus jeder Datei gesammelt, um sie als Passwörter zu testen. Wenn dies nicht funktioniert, werden alle gefundenen Wörter in umgekehrter Reihenfolge getestet und das Laufwerk nach ungenutzten Bereichen und gelöschten Dateien durchsucht, und die darin enthaltenen Wörter werden ausprobiert. In erstaunlich vielen Fällen lassen sich die Dateien auf diese Weise entschlüsseln.
 
 Noch bessere Erfolgsaussichten biete jedoch eine andere Methode:
 
@@ -95,7 +95,7 @@ Auch der Laptop von Ross Ulbricht, dem Betreiber der Darknet-Plattform "Silk Roa
 
 Trotz allem gilt das Fazit des [OWASP Password Storage Cheat Sheets](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) (das sich zwar an Onlinedienste richtet, sich aber auf die Verschlüsselung gespeicherter Daten übertragen lässt):
 
-> Starke Kennwörter, die mit modernen Hashing-Algorithmen und unter Verwendung bewährter Hashing-Verfahren gespeichert werden, sollten für einen Angreifer praktisch unmöglich zu knacken sein.
+> Starke Passwörter, die mit modernen Hashing-Algorithmen und unter Verwendung bewährter Hashing-Verfahren gespeichert werden, sollten für einen Angreifer praktisch unmöglich zu knacken sein.
 
 <h2 id="recommendations">Empfehlungen</h2>
 
@@ -111,7 +111,7 @@ mjg59 schreibt (übersetzt):
 
 > Stellen Sie zunächst sicher, dass Sie eine möglichst aktuelle Version Ihrer Distribution verwenden. Wenn Sie Werkzeuge haben, die das LUKS2-Format unterstützen, bedeutet das nicht, dass Ihre Distribution das alles integriert hat, und alte Versionen Ihrer Distribution erlauben es Ihnen vielleicht, Ihr LUKS-Setup zu aktualisieren, ohne das ein Booten von diesem Format zu unterstützen. Wenn Sie außerdem ein verschlüsseltes `/boot` verwenden, sollten Sie jetzt damit aufhören - sehr aktuelle Versionen von grub2 unterstützen LUKS2, aber nicht argon2id, und das macht Ihr System unbootbar.
 >
-> Als nächstes müssen Sie herausfinden, welches Gerät unter /dev zu Ihrer verschlüsselten Partition gehört. Führen Sie folgene Eingabe aus
+> Als nächstes müssen Sie herausfinden, welches Gerät unter /dev zu Ihrer verschlüsselten Partition gehört. Führen Sie folgende Eingabe aus
 >
 > `lsblk`
 >
@@ -139,7 +139,7 @@ mjg59 schreibt (übersetzt):
 >
 > `sudo cryptsetup luksDump /dev/whatever`
 >
-> und suchen Sie nach der PBKDF: Zeile in jedem Keyslot (achten Sie nur auf die Keyslots, ignorieren Sie alle Verweise auf pbkdf2, die nach der `Digests:`-Zeile kommen). Wenn die PBKDF entweder "pbkdf2" oder "argon2i" lautet, sollten Sie sie in argon2id umwandeln. Führen Sie dazu Folgendes aus
+> und suchen Sie nach der Zeile `PBKDF:` in jedem Keyslot (achten Sie nur auf die Keyslots, ignorieren Sie alle Verweise auf pbkdf2, die nach der Zeile `Digests:` kommen). Wenn die PBKDF entweder "pbkdf2" oder "argon2i" lautet, sollten Sie sie in argon2id umwandeln. Führen Sie dazu Folgendes aus
 >
 > `sudo cryptsetup luksConvertKey /dev/whatever --pbkdf argon2id`
 >
@@ -337,9 +337,9 @@ Für jene, die sich nicht allein auf ein Verfahren verlassen möchten, empfehlen
 
 <h3 id="unlocked-devices">Schutzmaßnahmen gegen Zugriffe auf entsperrte Geräte</h3>
 
-Eine solche zweistufige Verschlüsselung kann auch gegen Zugriffe auf entsperrte Geräte helfen, indem besonders schützenswerte Inhalte seperat verschlüsselt sind und nur entschlüsselt werden, wenn es erforderlich ist.
+Eine solche zweistufige Verschlüsselung kann auch gegen Zugriffe auf entsperrte Geräte helfen, indem besonders schützenswerte Inhalte separat verschlüsselt sind und nur entschlüsselt werden, wenn es erforderlich ist.
 
-Ebenfalls nützlich kann es sein, einen Computer z. B. durch den Kippschalter einer Steckdosenleiste oder das Ziehen des Netzstecker und der damit verbunden Unterbrechung der Stromversorgung auszuschalten. Bei Laptops sollte natürlich zuvor der Akku entfernt werden. Eine andere Möglichkeit, einen Computer schnell auszuschalten oder sogar zu löschen, bieten Geräte wie [BusKill](https://www.buskill.in/luks-self-destruct/).
+Ebenfalls nützlich kann es sein, einen Computer z. B. durch den Kippschalter einer Steckdosenleiste oder das Ziehen des Netzstecker und der damit verbundenen Unterbrechung der Stromversorgung auszuschalten. Bei Laptops sollte natürlich zuvor der Akku entfernt werden. Eine andere Möglichkeit, einen Computer schnell auszuschalten oder sogar zu löschen, bieten Geräte wie [BusKill](https://www.buskill.in/luks-self-destruct/).
 
 <h3 id="passphrases">Schutzmaßnahmen gegen Angriffe auf Passwörter und Passphrasen</h3>
 
