@@ -1,5 +1,16 @@
 # Spendenverlauf
 
+## GrapheneOS
+
+Für jeden Verkauf eines [Smartphones mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/i/pixel/) spenden wir 20,00 EUR an [GrapheneOS](https://grapheneos.org).
+
+* 2025: [3040 EUR](/assets/images/donations/2025-12/grapheneos.png)
+* 2024: [1340 EUR](/assets/images/donations/2025-01/grapheneos.png)
+* 2023: 240 EUR
+  * [160 EUR](/assets/images/donations/2024-01/grapheneos.png)
+  * [40 EUR](/assets/images/donations/2023-07/2023-06-grapheneos.png)
+  * 40 EUR
+
 ## Bücherspenden
 
 Für jedes neue Buch, das ihr [direkt bei uns](https://shop.proxysto.re/category/7) kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens sechs Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle sechs Monate übermittelt und hier veröffentlicht.
@@ -82,16 +93,6 @@ Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes O
 Für jeden Verkauf eines Smartphones mit vorinstalliertem DivestOS wollten wir 20,00 EUR an [DivestOS](https://web.archive.org/web/20300000000000/https://divestos.org/) spenden. Nachdem das Projekt Ende 2024 eingestellt wurde, haben wir das Geld nach Rücksprache stattdessen an die Software Freedom Conservancy gespendet.
 
 * 2024: [200 EUR](/assets/images/donations/2025-01/divestos_2024.png)
-
-## GrapheneOS
-
-Für jeden Verkauf eines [Smartphones mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/category/6) spenden wir 20,00 EUR an [GrapheneOS](https://grapheneos.org).
-
-* 2024: [1340 EUR](/assets/images/donations/2025-01/grapheneos.png)
-* 2023: 240 EUR
-  * [160 EUR](/assets/images/donations/2024-01/grapheneos.png)
-  * [40 EUR](/assets/images/donations/2023-07/2023-06-grapheneos.png)
-  * 40 EUR
 
 ## Tails
 
