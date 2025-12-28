@@ -3,7 +3,7 @@ module github.com/dys2p/websites
 go 1.23.0
 
 require (
-	github.com/dys2p/eco v0.0.0-20251221125122-8b29d17d2b9f
+	github.com/dys2p/eco v0.0.0-20251228124715-5f9e246c00bd
 	golang.org/x/text v0.24.0
 )
 

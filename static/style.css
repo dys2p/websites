@@ -63,7 +63,7 @@ input.toggler {
 	display: block;
 }
 
-.nav-active {
+.nav-item.active {
 	background-color: #e7e7e7;
 	border-bottom: solid black 2px;
 }
