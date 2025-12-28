@@ -14,7 +14,7 @@
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-expand-xl navbar-light py-0" style="background-color: rgb(240,242,244) !important">
+			<nav class="navbar navbar-expand-xl bg-body-tertiary py-0" style="background-color: rgb(240,242,244) !important">
 				<div class="container-fluid">
 					<!-- checkbox -->
 					<input type="checkbox" class="toggler" aria-hidden="true" id="open-shopbar">
@@ -34,25 +34,25 @@
 					<!-- opened -->
 					<div class="collapse navbar-collapse">
 						<div class="navbar-nav mx-auto">
-							<a class="nav-item nav-link {{if eq .Active "dys2p"}}active{{end}} text-dark text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://dys2pwwos5w5kez2chufdk3b3oyj5n4n4iiseyke2tzuqahgvmovloyd.onion{{else}}https://dys2p.com{{end}}/{{.Lang.Prefix}}" id="link-dys2p">
+							<a class="nav-item nav-link {{if eq .Active "dys2p"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://dys2pwwos5w5kez2chufdk3b3oyj5n4n4iiseyke2tzuqahgvmovloyd.onion{{else}}https://dys2p.com{{end}}/{{.Lang.Prefix}}" id="link-dys2p">
 								<i class="fa-solid fa-flask"></i> dys2p
 							</a>
-							<a class="nav-item nav-link {{if eq .Active "why"}}active{{end}} text-dark text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://proxysto.re{{end}}/{{.Lang.Prefix}}/warum.html" id="link-proxystore-why">
+							<a class="nav-item nav-link {{if eq .Active "why"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://proxysto.re{{end}}/{{.Lang.Prefix}}/warum.html" id="link-proxystore-why">
 								<i class="fa-solid fa-biohazard"></i> {{.Tr "Why?"}}
 							</a>
-							<a class="nav-item nav-link {{if eq .Active "proxystore"}}active{{end}} text-dark text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-proxystore">
+							<a class="nav-item nav-link {{if eq .Active "proxystore"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-proxystore">
 								<i class="fa-solid fa-store"></i> {{.Tr "Local Store"}}
 							</a>
-							<a class="nav-item nav-link {{if eq .Active "digitalgoods"}}active{{end}} text-dark text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion{{else}}https://digitalgoods.proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-digitalgoods">
+							<a class="nav-item nav-link {{if eq .Active "digitalgoods"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion{{else}}https://digitalgoods.proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-digitalgoods">
 								<i class="fa-solid fa-ticket"></i> {{.Tr "Digital Goods"}}
 							</a>
-							<a class="nav-item nav-link {{if eq .Active "shop"}}active{{end}} text-dark text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://shop.proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://shop.proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-shop">
+							<a class="nav-item nav-link {{if eq .Active "shop"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://shop.proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://shop.proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-shop">
 								<i class="fa-solid fa-cart-shopping"></i> {{.Tr "Online shop"}}
 							</a>
-							<a class="nav-item nav-link {{if eq .Active "order"}}active{{end}} text-dark text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://order.proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://order.proxysto.re{{end}}" id="link-order">
+							<a class="nav-item nav-link {{if eq .Active "order"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://order.proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://order.proxysto.re{{end}}" id="link-order">
 								<i class="fa-solid fa-tags"></i> {{.Tr "Order Service"}}
 							</a>
-							<a class="nav-item nav-link {{if eq .Active "druck"}}active{{end}} text-dark text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion{{else}}https://druck.proxysto.re{{end}}" id="link-druck">
+							<a class="nav-item nav-link {{if eq .Active "druck"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion{{else}}https://druck.proxysto.re{{end}}" id="link-druck">
 								<i class="fa-solid fa-print"></i> {{.Tr "Online printing"}}
 							</a>
 						</div>

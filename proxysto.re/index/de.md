@@ -6,30 +6,30 @@
 
 <div class="row">
 	<div class="col-lg">
-		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link text-success" href="https://digitalgoods.proxysto.re"><i class="fa-solid fa-ticket"></i> Digitale Güter</a>
+				<a class="card-link stretched-link" href="https://digitalgoods.proxysto.re"><i class="fa-solid fa-ticket"></i> Digitale Güter</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
-		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link text-success" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> Onlineshop</a>
+				<a class="card-link stretched-link" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> Onlineshop</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
-		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link text-success" href="https://order.proxysto.re/"><i class="fa-solid fa-tags"></i> Bestellservice</a>
+				<a class="card-link stretched-link" href="https://order.proxysto.re/"><i class="fa-solid fa-tags"></i> Bestellservice</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
-		<div class="card border-success bg-light mb-3 p-2 justify-content-center align-items-center">
+		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link text-success" href="https://druck.proxysto.re/"><i class="fa-solid fa-print"></i> Onlinedruckerei</a>
+				<a class="card-link stretched-link" href="https://druck.proxysto.re/"><i class="fa-solid fa-print"></i> Onlinedruckerei</a>
 			</div>
 		</div>
 	</div>
