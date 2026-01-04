@@ -5,7 +5,6 @@ We process orders against prepayment only. We currently offer the following paym
 * **Cash payment**: directly and personally in our store, or anonymously by throwing an envelope in a designated mailbox in our store
 * **Cash letter**, e. g. as a [Deutsche Post Einschreiben Wert](https://www.deutschepost.de/de/e/einschreiben/kuendigung-abo-themen/geld-verschicken.html) (up to 100 €), as a [DHL parcel](https://www.dhl.de/content/dam/images/pdf/dhl-wertgegenstaende-de.pdf) (up to 500 € per day) or by a contracted cash and valuable transport. Please note the respective terms and conditions, especially the maximum limits, in order not to lose the insurance coverage of the shipping service provider. You can place banknotes in a neutrally packed book, for example, which we will return to you together with the ordered goods. We accept cash in these currencies: <!-- copied from dys2p.com/2023-04-08-foreign-currency-cash, plus Euro -->
   * AUD (Australian dollars)
-  * BGN (Bulgarian lev)
   * CAD (Canadian dollars)
   * CHF (Swiss francs)
   * CNY (Chinese renminbi)
@@ -13,7 +12,6 @@ We process orders against prepayment only. We currently offer the following paym
   * DKK (Danish krone)
   * EUR (Euro)
   * GBP (Pound sterling)
-  * ILS (New Israeli shekel, NIS)
   * ISK (Icelandic króna)
   * JPY (Japanese yen)
   * NOK (Norwegian krone)

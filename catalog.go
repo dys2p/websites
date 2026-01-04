@@ -44,7 +44,7 @@ var messageKeyToIndex = map[string]int{
 	"Cancellation Policy":             4,
 	"Cash":                            6,
 	"Cash by mail":                    38,
-	"Cash by mail in 20 currencies":   7,
+	"Cash by mail in 18 currencies":   7,
 	"Cash payment in local store":     37,
 	"Cash payment in our store":       31,
 	"Concept":                         33,
@@ -97,7 +97,7 @@ var de_DEIndex = []uint32{ // 40 elements
 
 const de_DEData string = "" + // Size: 783 bytes
 	"\x02Rechtliches\x02AGB\x02Datenschutz\x02Impressum\x02Widerrufsbelehrung" +
-	"\x02Bezahlung\x02Bargeld\x02Bargeld per Post in 20 Währungen\x02Monero u" +
+	"\x02Bezahlung\x02Bargeld\x02Bargeld per Post in 18 Währungen\x02Monero u" +
 	"nd Bitcoin\x02SEPA-Überweisung\x02Alle Angebote und Projekte\x02Warum?" +
 	"\x02Ladengeschäft\x02Digitale Güter\x02Onlineshop\x02Bestellservice\x02O" +
 	"nlinedruckerei\x02Kontakt & News\x02Kontakt\x02Deutschland\x02Öffnungsze" +
@@ -127,7 +127,7 @@ var en_USIndex = []uint32{ // 40 elements
 
 const en_USData string = "" + // Size: 743 bytes
 	"\x02Legal\x02Terms and Conditions\x02Privacy policy\x02Imprint\x02Cancel" +
-	"lation Policy\x02Payment\x02Cash\x02Cash by mail in 20 currencies\x02Mon" +
+	"lation Policy\x02Payment\x02Cash\x02Cash by mail in 18 currencies\x02Mon" +
 	"ero and Bitcoin\x02SEPA bank transfer\x02All Services and Projects\x02Wh" +
 	"y?\x02Local Store\x02Digital Goods\x02Online shop\x02Order Service\x02On" +
 	"line printing\x02Contact & News\x02Contact us\x02Germany\x02Opening hour" +
@@ -139,4 +139,4 @@ const en_USData string = "" + // Size: 743 bytes
 	"PayPal\x02Concept\x02Support us\x02myflexbox Locker via DPD (Germany onl" +
 	"y)\x02Battery Disposal\x02Cash payment in local store\x02Cash by mail"
 
-	// Total table size 1894 bytes (1KiB); checksum: D0FA265E
+	// Total table size 1894 bytes (1KiB); checksum: 91B675EE
