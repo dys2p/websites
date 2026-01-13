@@ -142,7 +142,7 @@ Auf andere Faktoren haben wir keinen oder nur bedingten Einfluss. So werden bei 
 
 <h3 id="externe-datentraeger">Externe Datenträger</h3>
 
-Sofern nicht nur eine Kopie von einem mitgebrachten Dokument erstellt werden soll, wird sehr wahrscheinlich ein wiederbeschreibbarer Datenträger (USB-Stick, SD-Karte, ...) verwendet, um darauf gescannte Dokumente zu speichern oder gespeicherte Dokumete zu drucken. In einigen Selbstbedienungs-Copyshops müssen mitgebrachte Datenträger an einen Computer angeschlossen werden, um gespeicherte Dokumente ausdrucken zu können.
+Sofern nicht nur eine Kopie von einem mitgebrachten Dokument erstellt werden soll, wird sehr wahrscheinlich ein wiederbeschreibbarer Datenträger (USB-Stick, SD-Karte ...) verwendet, um darauf gescannte Dokumente zu speichern oder gespeicherte Dokumente zu drucken. In einigen Selbstbedienungs-Copyshops müssen mitgebrachte Datenträger an einen Computer angeschlossen werden, um gespeicherte Dokumente ausdrucken zu können.
 
 <h4 id="malware">Malware</h4>
 
@@ -152,7 +152,7 @@ Diese Computer und Geräte können mit Schadsoftware infiziert sein. Dabei beste
 
 Um die genannten Risiken zu verringern, können Personen bei uns von unserem Tails-Terminal drucken und gescannte Dokumente speichern. (Dabei handelt es sich um einen Computer ohne Festplatte. Auf ihm startet das Betriebssystem [Tails](https://tails.net/index.de.html) von einer DVD. Damit kannst du dich anonym im Internet bewegen und Dokumente bearbeiten, ohne Spuren auf dem Computer zu hinterlassen. Eine Kabine schützt dich dabei vor neugierigen Blicken.) Es besteht zusätzlich die Möglichkeit, zu druckende Dateien auf CD/DVD mitzubringen und gescannte Dokumente auf CD/DVD zu brennen.
 
-Die Verwendung von einmalig beschreibbaren CDs und DVDs ist hier sicherer als Flash-Speichermedien wie USB-Sticks und SD-Karten, auch wenn letztere einen Schreibschutz anbieten: "Bei Speichermedien mit eingebautem Hardware-Schreibschutz gibt es immer die Unsicherheit, in wie weit eine proprietäre Firmware die Blockade der Schreibkommandos und anderer Kommandos (Firmwareupdate) garantiert und nur die zum Lesen des Datenträgers erforderlichen Kommandos durchlässt."<sup><a href="#fn1" id="fnref1">1</a></sup> Wer mehr zu [Schreibtschutz](https://vkldata.com/Write-Blocker-Adapter) lesen möchte, oder selbst einen [Schreibschutz nachrüsten](https://vkldata.com/Schreibschutzschalter-am-USB-Stick-nachruesten) möchte, dem sei die Seite [vkldata.com](https://vkldata.com) empfohlen.
+Die Verwendung von einmalig beschreibbaren CDs und DVDs ist hier sicherer als Flash-Speichermedien wie USB-Sticks und SD-Karten, auch wenn letztere einen Schreibschutz anbieten: "Bei Speichermedien mit eingebautem Hardware-Schreibschutz gibt es immer die Unsicherheit, inwieweit eine proprietäre Firmware die Blockade der Schreibkommandos und anderer Kommandos (Firmwareupdate) garantiert und nur die zum Lesen des Datenträgers erforderlichen Kommandos durchlässt."<sup><a href="#fn1" id="fnref1">1</a></sup> Wer mehr zu [Schreibschutz](https://vkldata.com/Write-Blocker-Adapter) lesen möchte, oder selbst einen [Schreibschutz nachrüsten](https://vkldata.com/Schreibschutzschalter-am-USB-Stick-nachruesten) möchte, dem sei die Seite [vkldata.com](https://vkldata.com) empfohlen.
 
 Hardware-Schreibblocker (z. B. für forensische Arbeiten [DE](https://web.archive.org/web/20210512013406/https://it-forensik.fiw.hs-wismar.de/index.php/Write_Blocker), [EN](https://en.wikipedia.org/wiki/Forensic_disk_controller)) erscheinen uns für diesen Einsatz aktuell zu kostspielig und unpraktikabel. Eine [Open-Source-DIY-Lösung](https://www.instructables.com/Cheap-and-Effective-USB-Write-Blocker/), wie auf der [Black Hat Europe 2012](https://docs.huihoo.com/blackhat/europe-2012/bh-eu-12-Polstra-Preventing_Oh_Shit-WP.pdf) erstmals veröffentlicht, hat leider eine sehr geringe Lesegeschwindigkeit.
 
@@ -199,9 +199,9 @@ Wir haben unser Gerät so konfiguriert, dass während eines Auftrags die verarbe
 
 Zusätzlich dazu setzen wir das Gerät circa alle 30 Tage auf die Werkseinstellungen zurück und überschreiben mit der geräteinternen Funktion erneut alle Daten nach DoD-Standard. Wir wollten die Wirksamkeit dieser Methode mit einer forensischen Untersuchung testen, doch scheiterten [wie andere zuvor](https://web.archive.org/web/20220808210713/https://www.copytechnet.com/forums/archive/index.php/t-157793.html) beim Versuch, die Festplatte auszulesen, am ATA-Passwort. Wir hoffen, dies zu einem späteren Zeitpunkt nachholen zu können, und freuen uns über [Hinweise](https://proxysto.re/contact.html).
 
-Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, eine noch bessere. Um anderen Menschen und auch uns niederschwellig zu ermöglichen, Datenträger sicher außer Betrieb zu nehmen, wollen wir einen Festplattenshredder beschaffen und in unserem Ladengeschäft kostenfrei zugänglich machen und [sammeln dafür gerade finanzielle Mittel](https://dys2p.com/de/support.html).
+Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, eine noch bessere. Um anderen Menschen und auch uns niederschwellig zu ermöglichen, Datenträger sicher außer Betrieb zu nehmen, wollen wir einen Festplattenschredder beschaffen und in unserem Ladengeschäft kostenfrei zugänglich machen und [sammeln dafür gerade finanzielle Mittel](https://dys2p.com/de/support.html).
 
-<h4 id="arbeisspeicher">Arbeitsspeicher</h4>
+<h4 id="arbeitsspeicher">Arbeitsspeicher</h4>
 
 Das Multifunktionsgerät in unserem Ladengeschäft hat 2,5 GB Arbeitsspeicher. Wie im vorherigen Abschnitt geschrieben, haben wir das Gerät so eingestellt, dass bereits während der Verarbeitung nicht mehr benötigte Informationen gelöscht und überschrieben werden sollen. Wer der Einstellung nicht vertraut, kann das Gerät nach der Benutzung ausschalten, um den Zwischenspeicher "vergessen" zu lassen.
 
@@ -1684,7 +1684,7 @@ Um nach MICs zu suchen, erscheint uns daher die manuelle Methode mit GIMP derzei
 
 Digitale Dateien wie Dokumente und Grafiken enthalten [Metadaten](https://www.whonix.org/wiki/Metadata). Diese können ungewollt Informationen preisgeben und dadurch Rückschlüsse auf die Quelle zulassen. Die [Extensible Metadata Platform (XMP)](https://github.com/adobe/xmp-docs) ist ein von Adobe entwickelter Standard, um Metadaten in Dateien einzubetten. Diese können jedoch auch als eigene Datei im selben Verzeichnis liegen.
 
-Wird beim Speichern eines gescannten Dokuments keine selbstgewählte Bezeichnung vergeben, erzeugt unser Canon imageRUNNER ADVANCE c5235i unter [Verwendung des XMP-Standards](https://github.com/adobe/xmp-docs/blob/master/XMPNamespaces/XMPDataTypes/CoreProperties.md) den Dateinamen aus der Systemzeit UTC+0 zum Zeitpunkt des Scanbeginns. So bedeutet der Dateiname `20041224084919.pdf`, dass die Datei, gemäß der am Gerät eingestellten Zeit, am 24.12.2004 um 08:49:19 UTC+0 erstellt wurde. Bei Scans im JPEG-Format erhalten die Dateinamen zusätzlich eine Nummierung in der Form `_001`, welche sich mit jeder Seite um eins erhöht. Andere Geräte können für die Namensvergabe ein anderes Schema. Dadurch können Rückschlüsse auf den Hersteller oder das Modell möglich sein.
+Wird beim Speichern eines gescannten Dokuments keine selbstgewählte Bezeichnung vergeben, erzeugt unser Canon imageRUNNER ADVANCE c5235i unter [Verwendung des XMP-Standards](https://github.com/adobe/xmp-docs/blob/master/XMPNamespaces/XMPDataTypes/CoreProperties.md) den Dateinamen aus der Systemzeit UTC+0 zum Zeitpunkt des Scanbeginns. So bedeutet der Dateiname `20041224084919.pdf`, dass die Datei, gemäß der am Gerät eingestellten Zeit, am 24.12.2004 um 08:49:19 UTC+0 erstellt wurde. Bei Scans im JPEG-Format erhalten die Dateinamen zusätzlich eine Nummerierung in der Form `_001`, welche sich mit jeder Seite um eins erhöht. Andere Geräte können für die Namensvergabe ein anderes Schema. Dadurch können Rückschlüsse auf den Hersteller oder das Modell möglich sein.
 
 In den nachfolgenden Metadaten ist erkennbar, dass bei unserem Test trotz eingestellter Zeitzone UTC+1 die Namensvergabe mit UTC+0 erfolgte. Zum Auslesen der Exif-Daten nutzen wir [ExifTool](https://exiftool.org/):
 
@@ -1780,7 +1780,7 @@ Während unserer Untersuchungen mit dem Mikroskop haben wir festgestellt, dass a
 
 ![Blaue Punkte auf vielen Papiersorten](/assets/images/print-scan-traces/blue-dots.png)
 
-Der Vollständigkeit halber sei an dieser Stelle erwähnt, dass auch Papiere forensisch analyisiert werden können, worauf wir hier jedoch nicht weiter eingehen.
+Der Vollständigkeit halber sei an dieser Stelle erwähnt, dass auch Papiere forensisch analysiert werden können, worauf wir hier jedoch nicht weiter eingehen.
 
 <h2 id="farben-typografie-und-weitere-faktoren">Farben, Typografie und weitere Faktoren</h2>
 
@@ -1812,7 +1812,7 @@ Wir möchten uns an dieser Stelle bei allen bedanken, die die Grundlagen und Ver
 
 Solltest du weitere Ideen, Hinweise oder Verbesserungsvorschläge haben, dann [schreib uns gern](https://proxysto.re/contact.html) oder arbeite mit uns auf [github](https://github.com/dys2p/website-dys2p/tree/master/2022-09-print-scan-traces) an diesem Projekt.
 
-Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale Kaffeekasse](https://dys2p.com/support.html). Auch unseren Plan, einen öffentlich zugänglichen und kostenfrei nutzbaren Shredder für Datenträger aufstellen, könnt ihr dort unterstützen. Um professionelle Druckprodukte datensparsam zu bestellen, könnt ihr unseren **[Druckservice](https://druck.proxysto.re/)** nutzen.
+Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale Kaffeekasse](https://dys2p.com/support.html). Auch unseren Plan, einen öffentlich zugänglichen und kostenfrei nutzbaren Schredder für Datenträger aufstellen, könnt ihr dort unterstützen. Um professionelle Druckprodukte datensparsam zu bestellen, könnt ihr unseren **[Druckservice](https://druck.proxysto.re/)** nutzen.
 
 <h2 id="weiterfuehrende-literatur">Weiterführende Literatur</h2>
 
@@ -1840,7 +1840,7 @@ Wenn ihr unsere Arbeit unterstützen möchtet, findet ihr hier [unsere digitale 
 
 <h2 id="references">Erwähnungen</h2>
 
-* [anarsec.guide -  Remove Identifying Metadata From Files](https://www.anarsec.guide/posts/metadata/)
+* [anarsec.guide - Remove Identifying Metadata From Files](https://www.anarsec.guide/posts/metadata/)
 * [Cipherbrain - Neues zu den gelben Punkten auf Laser-Ausdrucken](https://scienceblogs.de/klausis-krypto-kolumne/2022/10/16/neues-zu-den-gelben-punkten-auf-laser-ausdrucken/)
 * [kryptografie.de - Yellow Dots Code (Machine Identification Code für Farblaserdrucker)](https://kryptografie.de/kryptografie/chiffre/yellow-dots-code.htm)
 

@@ -27,7 +27,7 @@ In dem Objekt und rundherum sollte ein kostenfreier und unzensierter Internetzug
 
 Für Personen, die keine eigenen Geräte verwenden möchten oder besitzen, sollte eines oder mehrere Geräte zur freien Nutzung vorhanden sein.
 
-Wir haben ein "Tails-Terminal" eingerichtet – einen Computer ohne Festplatte, der das Betriebssystem [Tails](https://tails.net/index.de.html) von einer DVD startet. Das BIOS ist gesperrt, ungenutzte Anschlüsse deaktiviert. Wir achten darauf, stets die neueste Version von Tails zu haben, und überprüfen die Checksumme. Personen können alternativ ihr bevorzugtes System an einem freien USB-Slot booten. Monitor, Tastatur und Maus sowie eine Lampe befinden sich in einer sichtgeschützen Kabine. Dort liegt auch die Steckerleiste mit Schalter, um das Gerät bei Bedarf durch eine Unterbrechung der Stromzufuhr ausschalten zu können. Zum Schutz vor physischen Manipulationen befindet sich der Computer außerhalb der Kabine und ist vor schneller Demontage geschützt. Schrauben und ungenutzte Anschlüsse [werden versiegelt](https://mullvad.net/en/help/how-tamper-protect-laptop/) und regelmäßig kontrolliert.
+Wir haben ein "Tails-Terminal" eingerichtet – einen Computer ohne Festplatte, der das Betriebssystem [Tails](https://tails.net/index.de.html) von einer DVD startet. Das BIOS ist gesperrt, ungenutzte Anschlüsse deaktiviert. Wir achten darauf, stets die neueste Version von Tails zu haben, und überprüfen die Checksumme. Personen können alternativ ihr bevorzugtes System an einem freien USB-Slot booten. Monitor, Tastatur und Maus sowie eine Lampe befinden sich in einer sichtgeschützten Kabine. Dort liegt auch die Steckerleiste mit Schalter, um das Gerät bei Bedarf durch eine Unterbrechung der Stromzufuhr ausschalten zu können. Zum Schutz vor physischen Manipulationen befindet sich der Computer außerhalb der Kabine und ist vor schneller Demontage geschützt. Schrauben und ungenutzte Anschlüsse [werden versiegelt](https://mullvad.net/en/help/how-tamper-protect-laptop/) und regelmäßig kontrolliert.
 
 Empfehlenswert ist diese [Anleitung zur Nutzung des Tails-Live-Betriebssystems für sichere Kommunikation, Recherche, Bearbeitung und Veröffentlichung sensibler Dokumente](https://capulcu.noblogs.org/neue-texte/bandi/).
 
@@ -79,7 +79,7 @@ Der Laden sollte von außen nicht einsehbar sein, im besten Fall mehrere Ein- un
 
 #### Zahlungsmöglichkeiten
 
-Ein ProxyStore sollte datensparsame Zahlungsmöglichkeiten bevorzugen, die möglichst ohne Drittanbieter auskommen. Neben Barzahlung und Kryptowährungen (z. B. Monero und Bitcoin) können aber auch Überweisungen angeboten werden. Ein EC-Terminal, die bei Kartenzahlungen eine direkte Verknüpfung zwischen Zahlung und Laden herstellen, sollten besser nicht verwendet weren, wenn im Umkreis Geldautomaten verfügbar sind.
+Ein ProxyStore sollte datensparsame Zahlungsmöglichkeiten bevorzugen, die möglichst ohne Drittanbieter auskommen. Neben Barzahlung und Kryptowährungen (z. B. Monero und Bitcoin) können aber auch Überweisungen angeboten werden. Ein EC-Terminal, die bei Kartenzahlungen eine direkte Verknüpfung zwischen Zahlung und Laden herstellen, sollten besser nicht verwendet werden, wenn im Umkreis Geldautomaten verfügbar sind.
 
 Je nach rechtlicher Lage kann ein Geldautomat für Kryptowährungen sinnvoll sein – falls er am Standort ohne KYC-Verfahren betrieben werden darf. Dieser kann somit einen möglichst datensparsamen Kauf und Verkauf von Kryptowährungen ermöglichen. Sollte das Modell eine integrierte Kamera haben, muss darauf geachtet werden, dass sie nicht zu viel erfasst. Zusammen mit einem ProxyStore, der Kryptowährungen annimmt, kann ein solcher Geldautomat die Verbreitung von Kryptowährungen fördern.
 
@@ -117,7 +117,7 @@ Ist die Testphase des ProxyStore erfolgreich, können weitere Standorte in versc
 
 Wird etwa eine Ware am Standort Leipzig bestellt und bezahlt, gibt es für den weiteren Ablauf zwei Möglichkeiten.
 
-1. Bei gegenseitigem Vertrauen der jeweiligen Standorte und einer gemeinsamen Buchhaltung kann ein gemeinsamer Pool an Accounts und gemeinsamer Zugriff auf Konten bestehen. Im Beispiel könnte der Standort Leipzig die gewünschte Ware über einen gemeinsam genutzen Account bestellen und in die andere Stadt liefern lassen.
+1. Bei gegenseitigem Vertrauen der jeweiligen Standorte und einer gemeinsamen Buchhaltung kann ein gemeinsamer Pool an Accounts und gemeinsamer Zugriff auf Konten bestehen. Im Beispiel könnte der Standort Leipzig die gewünschte Ware über einen gemeinsam genutzten Account bestellen und in die andere Stadt liefern lassen.
 
 2. Trotz gegenseitigen Vertrauens kann eine Trennung von Accounts und Buchhaltung vorteilhaft sein. In diesem Fall arbeitet jeder Standort für sich, Aufträge können untereinander weitergeleitet werden. Beispielsweise kann der Standort Leipzig einen Auftrag an einen anderen Standort weiterleiten, der ihn dann ausführt. Die eingenommene Gebühr kann dabei geteilt werden.
 
