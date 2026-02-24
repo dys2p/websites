@@ -136,7 +136,7 @@ Während die US-Regierung seit Jahren behauptet, dass chinesische Firmen Überwa
 
 ![TAO](/assets/images/tamper-evident-protection/nsa-pwn-cisco.jpg)
 
-Es ist anzunehmen, dass derartige Angriffe auch in anderen Staaten stattfinden – sei es gegen Einzelpersonen oder großflächiger. [The Intercept veröffentlichte 2019 einen guten Artikel](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) zu Lieferkettenangriffen, Microsoft begann im selben Jahr eine eigene Artikelreihe: [Teil 1](http://microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Teil 2](https://www.microsoft.com/en-us/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/) und [Teil 3](https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
+Es ist anzunehmen, dass derartige Angriffe auch in anderen Staaten stattfinden – sei es gegen Einzelpersonen oder großflächiger. [The Intercept veröffentlichte 2019 einen guten Artikel](https://web.archive.org/web/20190124201626/https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) zu Lieferkettenangriffen, Microsoft begann im selben Jahr eine eigene Artikelreihe: [Teil 1](http://microsoft.com/security/blog/2019/10/16/guarding-against-supply-chain-attacks-part-1-big-picture/), [Teil 2](https://web.archive.org/web/20210226030901/https://www.microsoft.com/security/blog/2020/02/03/guarding-against-supply-chain-attacks-part-2-hardware-risks/) und [Teil 3](https://web.archive.org/web/20210303150737/https://www.microsoft.com/security/blog/2020/03/11/guarding-against-supply-chain-attacks-part-3-how-software-becomes-compromised/).
 
 <h3 id="evil-maid-attacken">Evil-Maid-Attacken</h3>
 
@@ -210,7 +210,7 @@ Die gesuchte Mischung sollte:
 - keine scharfen Kanten oder spitzen Ecken haben, die Schäden verursachen können
 - nicht zu schwer sein, um z. B. Versandkosten zu sparen
 
-Um das Mischverhalten zu testen, waren für uns insbesondere die ersten drei Punkte relevant. Wir haben mehrere Substanzen untersucht und uns dabei auf solche beschränkt, die die letzten drei Punkte unserer Anforderungen erfüllten. Unsere bisherigen Favoriten sind: Rote Linsen & Belugalinsen, gelbe Erbsen & weiße Bohnen sowie gefärbter Reis.
+Um das Mischverhalten zu testen, waren für uns insbesondere die ersten drei Punkte relevant. Wir haben mehrere Substanzen untersucht und uns dabei auf solche beschränkt, die die letzten drei Punkte unserer Anforderungen erfüllten. Unsere bisherigen Favoriten sind: Rote Linsen & Belugalinsen, gelbe oder grüne Erbsen & weiße Bohnen sowie gefärbter Reis.
 
 <h4 id="rote-linsen-und-belugalinsen">Rote Linsen & Belugalinsen</h4>
 
@@ -349,7 +349,7 @@ Solltest du weitere Ideen, Hinweise oder Verbesserungsvorschläge haben, dann [s
 * [anarsec.guide - Make Your Electronics Tamper-Evident](https://www.anarsec.guide/posts/tamper/)
 * [c't 16/2022](https://www.heise.de/select/ct/2022/16), S. 44
 * [Hacker News - Detecting unauthorized physical access with beans, lentils and colored rice (2021) (dys2p.com)](https://news.ycombinator.com/item?id=31897530)
-* [heise.de - Random Mosaic: Fremdzugriffe mit Bohnen, Linsen oder buntem Reis erkennen ](https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html)
+* [heise.de - Random Mosaic: Fremdzugriffe mit Bohnen, Linsen oder buntem Reis erkennen ](https://web.archive.org/web/20220627170123/https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html)
 * [Tokimarks - Tamper-evident Ballot Boxes](https://github.com/mleonhard/tokimark#tamper-evident-ballot-boxes)
 * [UNREDACTED Magazine - The Privacy, Security, & OSINT Magazine, Ausgabe 004](https://unredactedmagazine.com/issues/004.pdf)
-* [Yahoo Finanzen - Linsen, Bohnen und Glitzernagellack: Wie man Ware beim Versand vor Fremdzugriff schützt](https://de.nachrichten.yahoo.com/linsen-bohnen-und-glitzernagellack-wie-man-ware-beim-versand-vor-fremdzugriff-schutzt-121805730.html)
+* [Yahoo Finanzen - Linsen, Bohnen und Glitzernagellack: Wie man Ware beim Versand vor Fremdzugriff schützt](https://web.archive.org/web/20221203150954/https://de.nachrichten.yahoo.com/linsen-bohnen-und-glitzernagellack-wie-man-ware-beim-versand-vor-fremdzugriff-schutzt-121805730.html)
