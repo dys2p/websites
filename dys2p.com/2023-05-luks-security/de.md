@@ -85,7 +85,7 @@ Wie ist die Einschätzung anderer zu diesem Thema? Mikko Hyppönen schrieb in "I
 
 > Die Behörden verfügen zu diesem Zweck über ziemlich beeindruckende Entschlüsselungssysteme. Ein Bürogebäude in Den Haag beispielsweise verfügt über Entschlüsselungshardware von der Größe eines Supercomputers, die ihr eigenes Kraftwerk benötigt. Mit einer solchen Hardware können Millionen von Passwortoptionen pro Sekunde getestet werden. Dennoch kann es Monate dauern, eine einzige verschlüsselte Datei [oder ein verschlüsseltes Laufwerk] zu öffnen.
 
-> Automatisierte Entschlüsselungssysteme verwenden eine clevere Taktik, um diesen Vorgang zu beschleunigen. Wird eine passwortgeschützte Datei auf der Festplatte eines Verdächtigen gefunden, werden alle Dateien auf dem Laufwerk indiziert und alle einzelnen Wörter aus jeder Datei gesammelt, um sie als Passwörter zu testen. Wenn dies nicht funktioniert, werden alle gefundenen Wörter in umgekehrter Reihenfolge getestet und das Laufwerk nach ungenutzten Bereichen und gelöschten Dateien durchsucht, und die darin enthaltenen Wörter werden ausprobiert. In erstaunlich vielen Fällen lassen sich die Dateien auf diese Weise entschlüsseln.
+> Automatisierte Entschlüsselungssysteme verwenden eine clevere Taktik, um diesen Vorgang zu beschleunigen. Wird eine kennwortgeschützte Datei auf der Festplatte eines Verdächtigen gefunden, werden alle Dateien auf dem Laufwerk indiziert und alle einzelnen Wörter aus jeder Datei gesammelt, um sie als Kennwörter zu testen. Wenn dies nicht funktioniert, werden alle gefundenen Wörter in umgekehrter Reihenfolge getestet und das Laufwerk nach ungenutzten Bereichen und gelöschten Dateien durchsucht, und die darin enthaltenen Wörter werden ausprobiert. In erstaunlich vielen Fällen lassen sich die Dateien auf diese Weise entschlüsseln.
 
 Noch bessere Erfolgsaussichten biete jedoch eine andere Methode:
 
@@ -95,7 +95,7 @@ Auch der Laptop von Ross Ulbricht, dem Betreiber der Darknet-Plattform "Silk Roa
 
 Trotz allem gilt das Fazit des [OWASP Password Storage Cheat Sheets](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) (das sich zwar an Onlinedienste richtet, sich aber auf die Verschlüsselung gespeicherter Daten übertragen lässt):
 
-> Starke Passwörter, die mit modernen Hashing-Algorithmen und unter Verwendung bewährter Hashing-Verfahren gespeichert werden, sollten für einen Angreifer praktisch unmöglich zu knacken sein.
+> Starke Kennwörter, die mit modernen Hashing-Algorithmen und unter Verwendung bewährter Hashing-Verfahren gespeichert werden, sollten für einen Angreifer praktisch unmöglich zu knacken sein.
 
 <h2 id="recommendations">Empfehlungen</h2>
 
