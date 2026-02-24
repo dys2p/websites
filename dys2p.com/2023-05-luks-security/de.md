@@ -69,7 +69,7 @@ Einen Eindruck über die Methoden und Wege, Passwörter und Passphrasen zu erlan
 > - Kryptoanalyse (mathematische Schwäche, Reduzierung des Schlüsselraums)
 > - Auffinden von Passwörtern, die zuvor gespeichert, geschrieben oder übertragen wurden
 > - Wiederverwendung von Passwörtern über mehrere Konten oder Geräte hinweg
-> - Rechtliche Verpflichtung zur Vorlage von Passwörtern vor Gericht (Anmkerung: Gibt es in einigen Ländern.)
+> - Rechtliche Verpflichtung zur Vorlage von Passwörtern vor Gericht (Anmerkung: Gibt es in einigen Ländern.)
 > - Kooperativer Systembesitzer oder Komplize mit dem Passwort
 > - Schlüsselsicherung/-entnahme in Unternehmensumgebungen
 > - Ausnutzung von Geräten, Schwachstellen oder Hintertüren
@@ -111,7 +111,7 @@ mjg59 schreibt (übersetzt):
 
 > Stellen Sie zunächst sicher, dass Sie eine möglichst aktuelle Version Ihrer Distribution verwenden. Wenn Sie Werkzeuge haben, die das LUKS2-Format unterstützen, bedeutet das nicht, dass Ihre Distribution das alles integriert hat, und alte Versionen Ihrer Distribution erlauben es Ihnen vielleicht, Ihr LUKS-Setup zu aktualisieren, ohne das ein Booten von diesem Format zu unterstützen. Wenn Sie außerdem ein verschlüsseltes `/boot` verwenden, sollten Sie jetzt damit aufhören - sehr aktuelle Versionen von grub2 unterstützen LUKS2, aber nicht argon2id, und das macht Ihr System unbootbar.
 >
-> Als nächstes müssen Sie herausfinden, welches Gerät unter /dev zu Ihrer verschlüsselten Partition gehört. Führen Sie folgene Eingabe aus
+> Als nächstes müssen Sie herausfinden, welches Gerät unter /dev zu Ihrer verschlüsselten Partition gehört. Führen Sie folgende Eingabe aus
 >
 > `lsblk`
 >
@@ -139,7 +139,7 @@ mjg59 schreibt (übersetzt):
 >
 > `sudo cryptsetup luksDump /dev/whatever`
 >
-> und suchen Sie nach der PBKDF: Zeile in jedem Keyslot (achten Sie nur auf die Keyslots, ignorieren Sie alle Verweise auf pbkdf2, die nach der `Digests:`-Zeile kommen). Wenn die PBKDF entweder "pbkdf2" oder "argon2i" lautet, sollten Sie sie in argon2id umwandeln. Führen Sie dazu Folgendes aus
+> und suchen Sie nach der Zeile `PBKDF:` in jedem Keyslot (achten Sie nur auf die Keyslots, ignorieren Sie alle Verweise auf pbkdf2, die nach der Zeile `Digests:` kommen). Wenn die PBKDF entweder "pbkdf2" oder "argon2i" lautet, sollten Sie sie in argon2id umwandeln. Führen Sie dazu Folgendes aus
 >
 > `sudo cryptsetup luksConvertKey /dev/whatever --pbkdf argon2id`
 >
@@ -337,9 +337,9 @@ Für jene, die sich nicht allein auf ein Verfahren verlassen möchten, empfehlen
 
 <h3 id="unlocked-devices">Schutzmaßnahmen gegen Zugriffe auf entsperrte Geräte</h3>
 
-Eine solche zweistufige Verschlüsselung kann auch gegen Zugriffe auf entsperrte Geräte helfen, indem besonders schützenswerte Inhalte seperat verschlüsselt sind und nur entschlüsselt werden, wenn es erforderlich ist.
+Eine solche zweistufige Verschlüsselung kann auch gegen Zugriffe auf entsperrte Geräte helfen, indem besonders schützenswerte Inhalte separat verschlüsselt sind und nur entschlüsselt werden, wenn es erforderlich ist.
 
-Ebenfalls nützlich kann es sein, einen Computer z. B. durch den Kippschalter einer Steckdosenleiste oder das Ziehen des Netzstecker und der damit verbunden Unterbrechung der Stromversorgung auszuschalten. Bei Laptops sollte natürlich zuvor der Akku entfernt werden. Eine andere Möglichkeit, einen Computer schnell auszuschalten oder sogar zu löschen, bieten Geräte wie [BusKill](https://www.buskill.in/luks-self-destruct/).
+Ebenfalls nützlich kann es sein, einen Computer z. B. durch den Kippschalter einer Steckdosenleiste oder das Ziehen des Netzstecker und der damit verbundenen Unterbrechung der Stromversorgung auszuschalten. Bei Laptops sollte natürlich zuvor der Akku entfernt werden. Eine andere Möglichkeit, einen Computer schnell auszuschalten oder sogar zu löschen, bieten Geräte wie [BusKill](https://www.buskill.in/luks-self-destruct/).
 
 <h3 id="passphrases">Schutzmaßnahmen gegen Angriffe auf Passwörter und Passphrasen</h3>
 
