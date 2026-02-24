@@ -36,7 +36,7 @@ Auf andere Faktoren haben wir keinen oder nur bedingten Einfluss. So werden bei 
               <a href="#festplatte">Festplatte</a>
             </li>
             <li>
-              <a href="#arbeisspeicher">Arbeitsspeicher</a>
+              <a href="#arbeitsspeicher">Arbeitsspeicher</a>
             </li>
           </ul>
         </li>
