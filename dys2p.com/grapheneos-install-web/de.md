@@ -258,7 +258,7 @@ Die letzte Bootphase der Firmware vor dem Betriebssystem ist für die Verifizier
 
 <h4 id="verified-boot-key-hash">Hash des öffentlichen Verified-Boot-Schlüssels</h4>
 
-Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bit des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Bei Pixels ab der 6. Generation wird der vollständige Hashwert angezeigt, den Sie mit dem offiziellen, von GrapheneOS verifizierten Boot-Key-Hashwert vergleichen können:
+Beim Laden eines alternativen Betriebssystems zeigt das Gerät beim Booten einen gelben Hinweis mit der ID des alternativen Betriebssystems an, die auf dem SHA256-Hashwert des öffentlichen Verified-Boot-Schlüssels basiert. Bei Pixels der 4. und 5. Generation werden nur die ersten 32 Bits des Hashwerts angezeigt, sodass Sie diesen Ansatz nicht verwenden können. Bei Pixels ab der 6. Generation wird der vollständige Hashwert angezeigt, den Sie mit dem offiziellen, von GrapheneOS verifizierten Boot-Key-Hashwert vergleichen können:
 
 * Pixel 10 Pro Fold: `55a2d44103e56d5ec65496399c417987ba77730e6488fc60ba058d09fc3caee3`
 * Pixel 10 Pro XL: `141d7fc32af7958a416f2661b37cf6f27bfb376fb5ce616aeaa27a82c7a04f74`
