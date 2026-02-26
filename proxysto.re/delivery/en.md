@@ -19,7 +19,7 @@
 * **myflexbox** pick-up machine
   * only in Germany, [more than 500 locations](https://www.myflexbox.com/de-de/#myflexboxfinder)
   * no account needed
-  * A code will be sent to your e-mail address. The package will be available for collection for 3 calendar days. Shipping to a pseudonym is possible. The pick-up machines are video-monitored. Only possible for packages up to 65 x 40 x 35 cm.
+  * A code will be sent to your e-mail address. The package will be available for collection for 3 calendar days. Shipping to a pseudonym is possible. The pick-up machines are video-monitored. Only possible for packages up to 60 x 42 x 35 cm.
 
 <h2 id="sealed-shipping">Sealed shipping for selected items</h2>
 
