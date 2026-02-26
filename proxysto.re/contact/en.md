@@ -34,7 +34,7 @@ Fingerprint: `46C9 A8B2 8780 6904 3472 CFA0 76E2 D4C7 62CE 7476`
 
 `056ab54005c858e3ffd2835d68621375006bbbe412b9824fd8cf669f459ea48328`
 
-## Signal
+## Signal (Text messages only)
 
 Please use this phone number for Signal only (no SMS or calls). We use no other messengers than Signal with this number.
 
