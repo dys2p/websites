@@ -1,5 +1,6 @@
 # News
 
+* [2026-03-13 Ein Update zu unserem Proton-Angebot](2026-03-13-proton.html)
 * [2025-09-09 Gutscheincodes für Proton jetzt verfügbar](2025-09-09-proton.html)
 * [2024-05-17 Die Fehlermeldung "Your device is corrupt" auf Google-Pixel-Smartphones mit GrapheneOS](2024-05-17-android-pixel-device-corrupt.html)
 * [2023-11-25 Neue Artikel](2023-11-25-new-items.html)
