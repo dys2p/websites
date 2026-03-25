@@ -1,5 +1,7 @@
 # 2023-02-06 Neue Artikel
 
+_2023-02-06_
+
 Folgende Artikel wurden unserem Sortiment bei [shop.proxysto.re](https://shop.proxysto.re) hinzugefügt:
 
 * [10th Edition (2023) Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information von Michael Bazzell](https://shop.proxysto.re/conf/648)

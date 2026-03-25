@@ -1,5 +1,7 @@
 # Cash payments in foreign currencies
 
+_2023-04-08_
+
 Since the beginning of April 2023 it is possible to pay with cash in these foreign currencies (in addition to Euro) at [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) and [shop.proxysto.re](https://shop.proxysto.re):
 
 * AUD (Australian dollars)

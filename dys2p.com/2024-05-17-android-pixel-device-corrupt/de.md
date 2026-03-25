@@ -1,4 +1,6 @@
-# 2024-05-17 Die Fehlermeldung "Your device is corrupt" auf Google-Pixel-Smartphones mit GrapheneOS
+# Die Fehlermeldung "Your device is corrupt" auf Google-Pixel-Smartphones mit GrapheneOS
+
+_2024-05-17_
 
 Auf dem Smartphone eines Kunden, der bei uns ein [Google Pixel 6a mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/category/6) und gesperrtem Bootloader gekauft hatte, erschien vor Kurzem die Fehlermeldung _"Your device is corrupt. It can't be trusted and may not work properly. Press power button to continue."_ Die Fehlermeldung ließ sich zwar durch Drücken des Einschaltknopfs überspringen, aber GrapheneOS startete nicht.
 

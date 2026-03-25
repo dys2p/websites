@@ -1,4 +1,6 @@
-# 2023-10-25 IVPN-Guthaben neu im Sortiment
+# IVPN-Guthaben neu im Sortiment
+
+_2023-10-25_
 
 Wir haben 1-Monat-Vouchers für [IVPN](https://www.ivpn.net) Standard und Pro sowie 100-USD-Guthabenkarten für IVPN in unser Angebot bei [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) bzw. [digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion) aufgenommen.
 

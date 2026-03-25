@@ -1,4 +1,6 @@
-# 2023-11-25 Neue Artikel
+# Neue Artikel
+
+_2023-11-25_
 
 Wir haben die Oberfläche unseres [Shops für digitale Güter](https://digitalgoods.proxysto.re/de) aufgeräumt und Kategorien für Cloudspeicher und -verschlüsselung, Bildung, E-Mail-Postfächer und Aliase sowie VPN und Firewalls angelegt.
 

@@ -1,4 +1,6 @@
-# 2023-10-25 IVPN voucher codes added to our product range
+# IVPN voucher codes added to our product range
+
+_2023-10-25_
 
 We have added 1-month vouchers for [IVPN](https://www.ivpn.net) Standard and Pro, as well as 100 USD voucher codes for IVPN to our shop at [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) and [digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion).
 

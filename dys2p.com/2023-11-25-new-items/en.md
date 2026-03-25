@@ -1,4 +1,6 @@
-# 2023-11-25 New Items
+# New Items
+
+_2023-11-25_
 
 We have tidied up the user interface of our [digital goods shop](https://digitalgoods.proxysto.re/en) and created the categories _cloud storage and encryption_, _education_, _email mailboxes and aliases_, and _VPN and firewalls_.
 

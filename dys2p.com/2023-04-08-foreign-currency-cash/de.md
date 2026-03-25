@@ -1,5 +1,7 @@
 # Bargeldzahlungen in Fremdwährungen
 
+_2023-04-08_
+
 Seit Anfang April 2023 ist es möglich, neben Euro auch mit Bargeld in den nachfolgenden Währungen bei [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) und [shop.proxysto.re](https://shop.proxysto.re) zu bezahlen:
 
 * AUD (Australische Dollar)

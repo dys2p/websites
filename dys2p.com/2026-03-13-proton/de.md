@@ -1,4 +1,6 @@
-# 2026-03-13 Ein Update zu unserem Proton-Angebot
+# Ein Update zu unserem Proton-Angebot
+
+_2026-03-13_
 
 Seit [September 2025](https://dys2p.com/2025-09-09-proton.html) hatten wir auf [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re/) Guthabencodes für [Proton Mail, Proton VPN, Proton Drive und Proton Pass](https://proton.me/) im Angebot.
 

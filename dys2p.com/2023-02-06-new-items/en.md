@@ -1,4 +1,6 @@
-# 2023-02-06 New Items
+# New Items
+
+_2023-02-06_
 
 The following items have been newly added to [shop.proxysto.re](https://shop.proxysto.re):
 

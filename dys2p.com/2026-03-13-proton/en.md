@@ -1,4 +1,6 @@
-# 2026-03-13 An Update on our Proton product range
+# An Update on our Proton product range
+
+_2026-03-13_
 
 Since [September 2025](https://dys2p.com/2025-09-09-proton.html), we had been offering voucher codes for [Proton Mail, Proton VPN, Proton Drive, and Proton Pass](https://proton.me/) in our [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re/) shop.
 
