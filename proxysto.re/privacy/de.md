@@ -1,6 +1,6 @@
 # Datenschutzerklärung gemäß Artikel 13 DSGVO
 
-Verantwortlich: <span class="ritole">RbG gnisnaW &amp; nnamretI</span>, Wolfgang-Heinze-Straße 14, 04277 Leipzig, Deutschland, mail <span class="ritole">ta</span> proxysto.re
+Verantwortlich: Itermann &amp; Wansing OHG, Wolfgang-Heinze-Straße 14, 04277 Leipzig, Deutschland, mail <span class="ritole">ta</span> proxysto.re
 
 ## Onlineshops und Webseiten
 

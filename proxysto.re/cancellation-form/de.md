@@ -4,7 +4,7 @@
 
 An:
 
-<span class="ritole">RbG gnisnaW &amp; nnamretI</span><br>
+Itermann &amp; Wansing OHG
 Wolfgang-Heinze-Straße 14<br>
 04277 Leipzig<br>
 Deutschland<br>

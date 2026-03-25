@@ -1,9 +1,12 @@
 # Impressum
 
-<span class="ritole">RbG gnisnaW &amp; nnamretI</span><br>
+Itermann &amp; Wansing OHG<br>
 Wolfgang-Heinze-Straße 14<br>
 04277 Leipzig<br>
 Deutschland
+
+Registergericht: Amtsgericht Leipzig<br>
+Registernummer: HRA 19855
 
 E-Mail: mail <span class="ritole">ta</span> proxysto.re
 

@@ -3,7 +3,6 @@
 Seit Anfang April 2023 ist es möglich, neben Euro auch mit Bargeld in den nachfolgenden Währungen bei [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re) und [shop.proxysto.re](https://shop.proxysto.re) zu bezahlen:
 
 * AUD (Australische Dollar)
-* BGN (Bulgarische Lew)
 * CAD (Kanadische Dollar)
 * CHF (Schweizer Franken)
 * CNY (Chinesische Renminbi)
@@ -26,7 +25,7 @@ Seit Anfang April 2023 ist es möglich, neben Euro auch mit Bargeld in den nachf
 
 Sende uns Bargeld in einem versichertem Brief oder Paket. Nachdem wir das Geld entnommen haben, schreddern wir den Brief. Bitte beachte die Höchstgrenzen deines Postunternehmens für den Bargeldversand (z. B. Deutsche Post „Einschreiben Wert“ bis 100 Euro innerhalb Deutschlands, DHL Paket bis 500 Euro). Sende es an:
 
-Itermann & Wansing GbR<br>
+Itermann & Wansing OHG<br>
 Wolfgang-Heinze-Straße 14<br>
 04277 Leipzig<br>
 Germany

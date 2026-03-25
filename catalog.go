@@ -56,8 +56,8 @@ var messageKeyToIndex = map[string]int{
 	"Digital Goods":                   13,
 	"Germany":                         19,
 	"Got an idea or found an error? Drop us a note!": 24,
-	"Imprint":                               3,
 	"Legal":                                 0,
+	"Legal Notice":                          3,
 	"Local Store":                           12,
 	"Mon+Thu 2pm-6pm":                       21,
 	"Monero and Bitcoin":                    8,
@@ -113,30 +113,31 @@ const de_DEData string = "" + // Size: 783 bytes
 var en_USIndex = []uint32{ // 40 elements
 	// Entry 0 - 1F
 	0x00000000, 0x00000006, 0x0000001b, 0x0000002a,
-	0x00000032, 0x00000046, 0x0000004e, 0x00000053,
-	0x00000071, 0x00000084, 0x00000097, 0x000000b1,
-	0x000000b6, 0x000000c2, 0x000000d0, 0x000000dc,
-	0x000000ea, 0x000000fa, 0x00000109, 0x00000114,
-	0x0000011c, 0x0000012a, 0x0000013a, 0x00000153,
-	0x00000173, 0x000001a2, 0x000001ab, 0x000001c5,
-	0x000001eb, 0x0000020b, 0x00000229, 0x00000251,
+	0x00000037, 0x0000004b, 0x00000053, 0x00000058,
+	0x00000076, 0x00000089, 0x0000009c, 0x000000b6,
+	0x000000bb, 0x000000c7, 0x000000d5, 0x000000e1,
+	0x000000ef, 0x000000ff, 0x0000010e, 0x00000119,
+	0x00000121, 0x0000012f, 0x0000013f, 0x00000158,
+	0x00000178, 0x000001a7, 0x000001b0, 0x000001ca,
+	0x000001f0, 0x00000210, 0x0000022e, 0x00000256,
 	// Entry 20 - 3F
-	0x0000026b, 0x00000272, 0x0000027a, 0x00000285,
-	0x000002ad, 0x000002be, 0x000002da, 0x000002e7,
+	0x00000270, 0x00000277, 0x0000027f, 0x0000028a,
+	0x000002b2, 0x000002c3, 0x000002df, 0x000002ec,
 } // Size: 184 bytes
 
-const en_USData string = "" + // Size: 743 bytes
-	"\x02Legal\x02Terms and Conditions\x02Privacy policy\x02Imprint\x02Cancel" +
-	"lation Policy\x02Payment\x02Cash\x02Cash by mail in 18 currencies\x02Mon" +
-	"ero and Bitcoin\x02SEPA bank transfer\x02All Services and Projects\x02Wh" +
-	"y?\x02Local Store\x02Digital Goods\x02Online shop\x02Order Service\x02On" +
-	"line printing\x02Contact & News\x02Contact us\x02Germany\x02Opening hour" +
-	"s\x02Mon+Thu 2pm-6pm\x02Tue+Wed+Fri+Sat 10am-2pm\x02See here for short-t" +
-	"erm changes\x02Got an idea or found an error? Drop us a note!\x02Deliver" +
-	"y\x02Pickup in our local store\x02Pickup from locker in our local store" +
-	"\x02DHL parcel, franked handwritten\x02DHL parcel, franked digitally\x02" +
-	"UPS parcel directly from our contractor\x02Cash payment in our store\x02" +
-	"PayPal\x02Concept\x02Support us\x02myflexbox Locker via DPD (Germany onl" +
-	"y)\x02Battery Disposal\x02Cash payment in local store\x02Cash by mail"
+const en_USData string = "" + // Size: 748 bytes
+	"\x02Legal\x02Terms and Conditions\x02Privacy policy\x02Legal Notice\x02C" +
+	"ancellation Policy\x02Payment\x02Cash\x02Cash by mail in 18 currencies" +
+	"\x02Monero and Bitcoin\x02SEPA bank transfer\x02All Services and Project" +
+	"s\x02Why?\x02Local Store\x02Digital Goods\x02Online shop\x02Order Servic" +
+	"e\x02Online printing\x02Contact & News\x02Contact us\x02Germany\x02Openi" +
+	"ng hours\x02Mon+Thu 2pm-6pm\x02Tue+Wed+Fri+Sat 10am-2pm\x02See here for " +
+	"short-term changes\x02Got an idea or found an error? Drop us a note!\x02" +
+	"Delivery\x02Pickup in our local store\x02Pickup from locker in our local" +
+	" store\x02DHL parcel, franked handwritten\x02DHL parcel, franked digital" +
+	"ly\x02UPS parcel directly from our contractor\x02Cash payment in our sto" +
+	"re\x02PayPal\x02Concept\x02Support us\x02myflexbox Locker via DPD (Germa" +
+	"ny only)\x02Battery Disposal\x02Cash payment in local store\x02Cash by m" +
+	"ail"
 
-	// Total table size 1894 bytes (1KiB); checksum: 91B675EE
+	// Total table size 1899 bytes (1KiB); checksum: B0351D56
