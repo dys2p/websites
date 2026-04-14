@@ -40,6 +40,8 @@ Willkommen in der Praxis! Damit der Kram mit den Farbprofilen funktioniert, erwa
 
 Falls du dir Probleme mit Transparenz und Schriftarten ersparen möchtest, kannst du dein Motiv zunächst als RGB-Pixelgrafik exportieren, etwa im PNG-Format. Importiere danach die PNG-Datei in ein neues Dokument, stelle das Farbmanagement ein und exportiere es als PDF/X-3.
 
+Übrigens: Viele PDF-Betrachtungsprogramme können mit druckfertige PDF-Dateien nicht gut umgehen. Sie zeigen sie mit flauen oder anderweitig verfälschten Farben an. Lass dich davon nicht irritieren. Verlasse dich lieber auf die Vorschaufunktion deines Grafikprogramms.
+
 ## Die wichtigsten Einstellungen in Scribus
 
 [Scribus](https://www.scribus.net) ist eine freie *Desktop-Publishing*-Software. Sie eignet sich gut zum Erzeugen von druckbaren PDF-Dateien.
@@ -57,6 +59,8 @@ Achte darauf, dass der Hintergrund deiner Datei sich auch auf den Anschnitt erst
 ![Scribus: Dokument einrichten › Farbmanagement aktivieren](/static/images/scribus-farbmanagement-aktivieren.png)
 
 Öffne nun das Fenster <kbd>Datei</kbd> › <kbd>Dokument einrichten</kbd> › <kbd>Farbmanagement</kbd> und setze den Haken bei <kbd>Farbmanagement aktivieren</kbd>. Nur dann kannst du deine Datei als PDF/X-3 speichern.
+
+Für eine Vorschau der gedruckten Farben kannst du auch <kbd>Druckerfarben auf dem Bildschirm simulieren</kbd> auswählen.
 
 ![Scribus: Export, als PDF speichern](/static/images/scribus-export-1.png)
 
