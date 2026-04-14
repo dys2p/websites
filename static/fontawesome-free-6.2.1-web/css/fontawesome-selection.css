@@ -522,6 +522,12 @@ readers do not read off random characters that represent icons */
 .fa-magnifying-glass::before {
   content: "\f002"; }
 
+.fa-message::before {
+  content: "\f27a"; }
+
+.fa-pen-to-square::before {
+  content: "\f044"; }
+
 .fa-print::before {
   content: "\f02f"; }
 
@@ -539,6 +545,9 @@ readers do not read off random characters that represent icons */
 
 .fa-ticket::before {
   content: "\f145"; }
+
+.fa-toggle-on::before {
+  content: "\f205"; }
 
 .fa-trash-can::before {
   content: "\f2ed"; }
