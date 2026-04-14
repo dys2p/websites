@@ -11,24 +11,24 @@ function addToValue(id, addend) {
 //   lorem ipsum
 //   <i class="fa-solid fa-copy ms-1"></i>
 // </a>
+var copyToClipboardIcon = null;
 function copyToClipboard(elem, success, failed){
-	let icon = elem.querySelector('i');
+	// restore previous icon
+	if(copyToClipboardIcon) {
+		copyToClipboardIcon.classList.remove("fa-check");
+		copyToClipboardIcon.classList.remove("fa-xmark");
+		copyToClipboardIcon.classList.add("fa-copy");
+	}
+
+	copyToClipboardIcon = elem.querySelector('i');
 	navigator.clipboard.writeText(elem.textContent.trim()).then(
 		function() {
-			icon.classList.remove("fa-copy");
-			icon.classList.add("fa-check");
-			setTimeout(function() {
-				icon.classList.remove("fa-check");
-				icon.classList.add("fa-copy");
-			}, 3000)
+			copyToClipboardIcon.classList.remove("fa-copy");
+			copyToClipboardIcon.classList.add("fa-check");
 		},
 		function() {
-			icon.classList.remove("fa-copy");
-			icon.classList.add("fa-xmark");
-			setTimeout(function() {
-				icon.classList.remove("fa-xmark");
-				icon.classList.add("fa-copy");
-			}, 3000)
+			copyToClipboardIcon.classList.remove("fa-copy");
+			copyToClipboardIcon.classList.add("fa-xmark");
 		},
 	);
 }
