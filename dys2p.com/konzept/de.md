@@ -52,7 +52,7 @@ Ob Einkaufszettel, Liebesbriefe, medizinische Unterlagen, Rechnungen, Kalkulatio
 Nicht mehr benötigte Datenträger wie Festplatten, USB-Sticks und SD-Karten mit Zufallsdaten zu überschreiben ist eine gute Sache. Diese im Anschluss physisch zu zerstören, ist eine noch bessere, denn insbesondere Flash-Speicher lassen sich oft nicht rückstandslos überschreiben. Neben der etwas aufwendigen [Möglichkeit des Einschmelzens](https://frank.geekheim.de/?p=2423) gibt es Shredder in verschiedenen Größen, wobei wir aus Platzgründen zu einem Gerät wie dem HSM Powerline HDS 150 tendieren. Wer gleichwertige oder bessere Alternativen kennt, [kann uns gerne schreiben](https://proxysto.re/contact.html).
 
 <a href="support.html">
-	<div class="border my-3 px-4 py-3 text-center text-dark" style="background-color: #d7ffd5">
+	<div class="alert alert-primary text-center">
 		<strong>Schreddern für alle!</strong> Wir möchten einen Shredder für Papier und einen für Datenträger aufstellen – du kannst uns unterstützen.
 	</div>
 </a>

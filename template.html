@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<meta name="referrer" content="no-referrer">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="/static/bootstrap.min.css">
+		<link rel="stylesheet" href="/static/bootstrap-colormode.min.css">
 		<link rel="stylesheet" href="/static/style.css">
 		<link rel="stylesheet" href="/static/fontawesome-free-6.2.1-web/css/fontawesome-selection.css">
 		<link rel="stylesheet" href="/static/fontawesome-free-6.2.1-web/css/solid.css">
@@ -14,7 +14,7 @@
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-expand-xl bg-body-tertiary py-0" style="background-color: rgb(240,242,244) !important">
+			<nav class="navbar navbar-expand-xl bg-body-secondary py-0">
 				<div class="container-fluid">
 					<!-- checkbox -->
 					<input type="checkbox" class="toggler" aria-hidden="true" id="open-shopbar">
@@ -35,25 +35,25 @@
 					<div class="collapse navbar-collapse">
 						<div class="navbar-nav mx-auto">
 							<a class="nav-item nav-link {{if eq .Active "dys2p"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://dys2pwwos5w5kez2chufdk3b3oyj5n4n4iiseyke2tzuqahgvmovloyd.onion{{else}}https://dys2p.com{{end}}/{{.Lang.Prefix}}" id="link-dys2p">
-								<i class="fa-solid fa-flask"></i> dys2p
+								<i class="fa-solid fa-flask me-1"></i> dys2p
 							</a>
 							<a class="nav-item nav-link {{if eq .Active "why"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://proxysto.re{{end}}/{{.Lang.Prefix}}/warum.html" id="link-proxystore-why">
-								<i class="fa-solid fa-biohazard"></i> {{.Tr "Why?"}}
+								<i class="fa-solid fa-biohazard me-1"></i> {{.Tr "Why?"}}
 							</a>
 							<a class="nav-item nav-link {{if eq .Active "proxystore"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-proxystore">
-								<i class="fa-solid fa-store"></i> {{.Tr "Local Store"}}
+								<i class="fa-solid fa-store me-1"></i> {{.Tr "Local Store"}}
 							</a>
 							<a class="nav-item nav-link {{if eq .Active "digitalgoods"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion{{else}}https://digitalgoods.proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-digitalgoods">
-								<i class="fa-solid fa-ticket"></i> {{.Tr "Digital Goods"}}
+								<i class="fa-solid fa-ticket me-1"></i> {{.Tr "Digital Goods"}}
 							</a>
 							<a class="nav-item nav-link {{if eq .Active "shop"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://shop.proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://shop.proxysto.re{{end}}/{{.Lang.Prefix}}" id="link-shop">
-								<i class="fa-solid fa-cart-shopping"></i> {{.Tr "Online shop"}}
+								<i class="fa-solid fa-cart-shopping me-1"></i> {{.Tr "Online shop"}}
 							</a>
 							<a class="nav-item nav-link {{if eq .Active "order"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://order.proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion{{else}}https://order.proxysto.re{{end}}" id="link-order">
-								<i class="fa-solid fa-tags"></i> {{.Tr "Order Service"}}
+								<i class="fa-solid fa-tags me-1"></i> {{.Tr "Order Service"}}
 							</a>
 							<a class="nav-item nav-link {{if eq .Active "druck"}}active{{end}} text-body text-nowrap p-3" rel="noreferrer" href="{{if .Onion}}http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion{{else}}https://druck.proxysto.re{{end}}" id="link-druck">
-								<i class="fa-solid fa-print"></i> {{.Tr "Online printing"}}
+								<i class="fa-solid fa-print me-1"></i> {{.Tr "Online printing"}}
 							</a>
 						</div>
 					</div>

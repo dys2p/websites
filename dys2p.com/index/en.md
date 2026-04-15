@@ -1,7 +1,7 @@
 # dys2p
 
 <a href="support.html">
-	<div class="border my-3 px-4 py-3 text-center text-dark" style="background-color: #d7ffd5">
+	<div class="alert alert-primary text-center">
 		<strong>Shredding for everyone!</strong> We would like to set up a shredder for paper and a shredder for data media – you can support us.
 	</div>
 </a>
