@@ -42,7 +42,7 @@ Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr e
 	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
-**Festplattenshredder – 316 von 12.500 Euro**
+**Festplattenshredder – 319 von 12.500 Euro**
 
 <div class="progress mb-3">
 	<div class="progress-bar bg-success" role="progressbar" style="width: 2.528%"></div>
@@ -102,7 +102,7 @@ Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr e
 	</form>
 </div>
 
-Das Spendenziel für den Aktenvernichter wurde am 5. Mai 2021 durch eine Einzelspende erreicht. Wir möchten uns an dieser Stelle noch einmal herzlich dafür bedanken! Am 14. Mai 2021 hat uns der damit erworbene Aktenvernichter (Dahle 41334 CleanTEC) mit den Sicherheitsstufen P-7/F-3/T-6 erreicht. Er steht ab sofort während unserer Öffnungszeiten (im Einklang mit den jeweiligen Corona-Bestimmungen) zur freien Nutzung in unserem [Laden](https://proxysto.re) zur Verfügung.
+Das Spendenziel für den Aktenvernichter wurde am 5. Mai 2021 durch eine Einzelspende erreicht. Wir möchten uns an dieser Stelle noch einmal herzlich dafür bedanken! Am 14. Mai 2021 hat uns der damit erworbene Aktenvernichter (Dahle 41334 CleanTEC) mit den Sicherheitsstufen P-7/F-3/T-6 erreicht. Er steht ab sofort während unserer Öffnungszeiten zur freien Nutzung in unserem [Laden](https://proxysto.re) zur Verfügung.
 
 <div class="row">
 	<div class="col-sm-6 mb-3">

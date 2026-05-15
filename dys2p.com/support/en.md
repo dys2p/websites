@@ -42,7 +42,7 @@ Since both devices are not cheap, we need your support. If you would like to con
 	<div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>
 </div>
 
-**Storage device shredder – 316 of 12.500 Euro**
+**Storage device shredder – 319 of 12.500 Euro**
 
 <div class="progress mb-3">
 	<div class="progress-bar bg-success" role="progressbar" style="width: 2.528%"></div>
@@ -102,7 +102,7 @@ Since both devices are not cheap, we need your support. If you would like to con
 	</form>
 </div>
 
-The donation goal for the document shredder was reached on May 5, 2021 through a single donation. We would like to take this opportunity to thank you once again! On May 14, 2021, we received the document shredder (Dahle 41334 CleanTEC) with security levels P-7/F-3/T-6. It is now available for free use in our [store](https://proxysto.re) during our opening hours (in accordance with the Corona regulations).
+The donation goal for the document shredder was reached on May 5, 2021 through a single donation. We would like to take this opportunity to thank you once again! On May 14, 2021, we received the document shredder (Dahle 41334 CleanTEC) with security levels P-7/F-3/T-6. It is now available for free use in our [store](https://proxysto.re) during our opening hours.
 
 <div class="row">
 	<div class="col-sm-6 mb-3">
