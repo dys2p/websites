@@ -19,7 +19,8 @@
 * **myflexbox**-Abholautomat via DPD
   * nur in Deutschland, [mehr als 500 Standorte](https://www.myflexbox.com/de-de/#myflexboxfinder)
   * kein Account nötig
-  * Ein Abholcode wird an die angegebene E-Mail-Adresse gesendet. Das Paket liegt 3 Kalendertage lang zur Abholung bereit. Versand an Pseudonym ist möglich. Die Abholautomaten sind videoüberwacht. Nur möglich für Sendungen bis maximal 60 x 42 x 35 cm.
+  * Ein Abholcode wird an die angegebene E-Mail-Adresse gesendet. Das Paket liegt 3 Kalendertage lang zur Abholung bereit. Die Abholautomaten sind videoüberwacht. Nur möglich für Sendungen bis maximal 60 x 42 x 35 cm.
+  * Versand an Pseudonym ist möglich. Falls das Paket stattdessen an einen Paketshop zugestellt wird und du es dort nicht abholen kannst, dauert es etwa 14 Tage, bis es wieder zu uns zurück kommt und wir es erneut versenden können.
 
 <h2 id="sealed-shipping">Versiegelter Versand für ausgewählte Artikel</h2>
 
