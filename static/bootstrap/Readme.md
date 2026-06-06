@@ -4,9 +4,7 @@
 * extract `bootstrap-5.3.6/scss`
 * modify `scss/bootstrap.scss`
   * remove:
-    * transitions
     * dropdown
-    * close
     * toasts
     * modal
     * tooltip
