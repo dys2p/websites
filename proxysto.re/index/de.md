@@ -56,7 +56,7 @@ Während unserer Öffnungszeiten könnt ihr kostenfrei oder gegen einen geringen
 			<img src="/assets/images/tails.jpg" class="card-img-top" alt="Computer mit Tails">
 			<div class="card-body">
 				<h3 class="card-title">Tails-Computer</h3>
-				<p class="card-text">Dieser Computer hat keine Festplatte. Auf ihm startet das Betriebssystem <a href="https://tails.net/">Tails</a> von einer DVD. Damit kannst du dich anonym im Internet bewegen. Eine Kabine schützt dich dabei vor neugierigen Blicken.</p>
+				<p class="card-text">Dieser Computer hat keine Festplatte. Auf ihm startet das Betriebssystem <a href="https://tails.net/">Tails</a>. Damit kannst du dich anonym im Internet bewegen. Eine Kabine schützt dich dabei vor neugierigen Blicken.</p>
 			</div>
 		</div>
 	</div>
@@ -74,7 +74,7 @@ Während unserer Öffnungszeiten könnt ihr kostenfrei oder gegen einen geringen
 			<img src="/assets/images/copier.jpg" class="card-img-top" alt="Kopiergerät">
 			<div class="card-body">
 				<h3 class="card-title">Kopierer</h3>
-				<p class="card-text">Druckt, scannt und kopiert DIN A3 und A4, schwarz-weiß und in Farbe. Du kannst einen USB-Stick anschließen oder ihn mit dem Tails-Computer verbinden.</p>
+				<p class="card-text">Druckt, scannt und kopiert DIN A3 und A4, schwarz-weiß und in Farbe. Du kannst einen USB-Stick anschließen oder von unserem Computer aus drucken.</p>
 			</div>
 		</div>
 	</div>

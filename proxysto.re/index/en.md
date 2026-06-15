@@ -56,7 +56,7 @@ You can use these devices free of charge or for a small fee during our opening h
 			<img src="/assets/images/tails.jpg" class="card-img-top" alt="Computer with Tails">
 			<div class="card-body">
 				<h3 class="card-title">Tails Computer</h3>
-				<p class="card-text">This Computer has no hard drive. It's booting the <a href="https://tails.net/">Tails</a> operating system from a DVD, allowing you to move anonymously on the Internet. A cabin protects you from prying eyes.</p>
+				<p class="card-text">This Computer has no hard drive. It's booting the <a href="https://tails.net/">Tails</a> operating system, allowing you to move anonymously on the Internet. A cabin protects you from prying eyes.</p>
 			</div>
 		</div>
 	</div>
@@ -74,7 +74,7 @@ You can use these devices free of charge or for a small fee during our opening h
 			<img src="/assets/images/copier.jpg" class="card-img-top" alt="Multi-function printer">
 			<div class="card-body">
 				<h3 class="card-title">Multi-function Printer</h3>
-				<p class="card-text">Prints, scans and copies A3 and A4, black and white and color. You can attach an USB stick or connect it to the Tails computer.</p>
+				<p class="card-text">Prints, scans and copies A3 and A4, black and white and color. You can attach an USB stick or print from our computer.</p>
 			</div>
 		</div>
 	</div>
