@@ -85,7 +85,7 @@ body {
 footer {
 	flex-grow: 1;
 
-	font-size: small;
+	font-size: 0.875rem;
 	margin-top: 2em;
 	padding: 2em 0.75em 0.75em 0.75em;
 }
