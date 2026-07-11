@@ -41,10 +41,11 @@ Die Sprechstunde findet **jeden 1. und 3. Montag im Monat** von **16:00 bis 18:0
 
 Die nächsten Termine:
 
-* 01.06.2026
-* 15.06.2026
-* 06.07.2026
 * 20.07.2026
+* 03.08.2026
+* 17.08.2026
+* 07.09.2026
+* 21.09.2026
 
 Keine Zeit am Montag oder wir konnten dir nicht helfen? Dann schau doch bei der [Techniksprechstunde in der Dezentrale](https://dezentrale.space/events/techniksprechstunde/) vorbei. Diese findet jeden Donnerstag von 17:30 Uhr bis 21:00 Uhr statt.
 
