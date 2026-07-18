@@ -2,14 +2,12 @@
 
 ## GrapheneOS
 
-For every sale of a [smartphone with pre-installed GrapheneOS](https://shop.proxysto.re/i/pixel/) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
+For every sale of a [smartphone with pre-installed GrapheneOS](https://shop.proxysto.re/i/pixel) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
 
+* 2026: [2180 EUR](/assets/images/donations/2026-07/grapheneos.png)
 * 2025: [3040 EUR](/assets/images/donations/2025-12/grapheneos.png)
 * 2024: [1340 EUR](/assets/images/donations/2025-01/grapheneos.png)
-* 2023: 240 EUR
-  * [160 EUR](/assets/images/donations/2024-01/grapheneos.png)
-  * [40 EUR](/assets/images/donations/2023-07/2023-06-grapheneos.png)
-  * 40 EUR
+* 2023: 240 EUR + [160 EUR](/assets/images/donations/2024-01/grapheneos.png) + [40 EUR](/assets/images/donations/2023-07/2023-06-grapheneos.png) + 40 EUR
 
 ## Book Donations
 
