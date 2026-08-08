@@ -65,6 +65,10 @@ Please use this phone number for Signal only (no SMS or calls). We use no other 
 
 Last safety number change: 2023-12-29
 
+## Threema
+
+`YN7PJU4V`
+
 ## XMPP with OTR Encryption
 
 <code>proxystore <span class="ritole">ta</span> jabber.dys2p.com</code>
@@ -89,16 +93,6 @@ digitalgoods.proxysto.re digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaa
          pay.proxysto.re ak4jf6rqm3inp3o6ide4zfjgxukpmzzlawpltt5s4iy6tys6qjp6atqd.onion
 ```
 
-## Frequently Asked Questions
-
 _Why are your Tor hidden services not using https?_
 
 Because it is not required and would be harder to implement. Read more on this topic at the Tor Project website: [HTTPS For Your Onion Service](https://community.torproject.org/onion-services/advanced/https/).
-
-_Why don't you use the messenger "Threema"?_
-
-One advantage of Threema is that users do not have to disclose their cell phone number. However, we do not like the fact that the computer version has to be activated with the smartphone every time it is started. That currently makes it too cumbersome for us to use.
-
-_Why don't you use OMEMO encryption for Jabber?_
-
-The clients we tested were either incompatible with each other or did not meet our requirements. For example, storing the chat history could not be disabled on some clients.
