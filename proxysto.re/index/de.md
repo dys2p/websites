@@ -8,38 +8,38 @@
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://digitalgoods.proxysto.re"><i class="fa-solid fa-ticket"></i> Digitale Güter</a>
+				<a class="card-link stretched-link" href="https://digitalgoods.proxystore.de"><i class="fa-solid fa-ticket"></i> Digitale Güter</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> Onlineshop</a>
+				<a class="card-link stretched-link" href="https://shop.proxystore.de"><i class="fa-solid fa-cart-shopping"></i> Onlineshop</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://order.proxysto.re/"><i class="fa-solid fa-tags"></i> Bestellservice</a>
+				<a class="card-link stretched-link" href="https://order.proxystore.de/"><i class="fa-solid fa-tags"></i> Bestellservice</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://druck.proxysto.re/"><i class="fa-solid fa-print"></i> Onlinedruckerei</a>
+				<a class="card-link stretched-link" href="https://druck.proxystore.de/"><i class="fa-solid fa-print"></i> Onlinedruckerei</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) und Produkten aus [unserem Onlineshop](https://shop.proxysto.re) ist vollumfänglich in unserem Ladengeschäft erhältlich. Auch Aufträge aus [unserem Bestellservice](https://order.proxysto.re) und [unserem Onlinedruck-Service](https://druck.proxysto.re) kannst du hier bezahlen und abholen.
+Unser Angebot an [digitalen Gütern](https://digitalgoods.proxystore.de) und Produkten aus [unserem Onlineshop](https://shop.proxystore.de) ist vollumfänglich in unserem Ladengeschäft erhältlich. Auch Aufträge aus [unserem Bestellservice](https://order.proxystore.de) und [unserem Onlinedruck-Service](https://druck.proxystore.de) kannst du hier bezahlen und abholen.
 
 ## Bücher und Broschüren
 
-Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein [kleines Büchersortiment vorrätig](https://shop.proxysto.re/category/7). Für jedes Buch, das ihr direkt bei uns kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und [hier veröffentlicht](spendenverlauf.html). Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
+Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein [kleines Büchersortiment vorrätig](https://shop.proxystore.de/category/7). Für jedes Buch, das ihr direkt bei uns kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und [hier veröffentlicht](spendenverlauf.html). Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
 
 ## Veranstaltungen
 

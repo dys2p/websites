@@ -1,6 +1,6 @@
 # Contact us
 
-Please understand that our contact options are only intended for questions, comments, and support regarding our offers and products. General technical questions can only be answered at our regular [cryptoparty and tech talk](https://proxysto.re/en/cryptoparty.html) in our local store.
+Please understand that our contact options are only intended for questions, comments, and support regarding our offers and products. General technical questions can only be answered at our regular [cryptoparty and tech talk](https://proxystore.de/en/cryptoparty.html) in our local store.
 
 ## E-Mail
 
@@ -86,11 +86,11 @@ Last safety number change: 2023-12-29
 The addresses themselves are the fingerprints.
 
 ```
-digitalgoods.proxysto.re digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion
-               dys2p.com dys2pwwos5w5kez2chufdk3b3oyj5n4n4iiseyke2tzuqahgvmovloyd.onion
-             proxysto.re proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion
-       druck.proxysto.re print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion
-         pay.proxysto.re ak4jf6rqm3inp3o6ide4zfjgxukpmzzlawpltt5s4iy6tys6qjp6atqd.onion
+digitalgoods.proxystore.de digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion
+                 dys2p.com dys2pwwos5w5kez2chufdk3b3oyj5n4n4iiseyke2tzuqahgvmovloyd.onion
+             proxystore.de proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion
+       druck.proxystore.de print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion
+         pay.proxystore.de ak4jf6rqm3inp3o6ide4zfjgxukpmzzlawpltt5s4iy6tys6qjp6atqd.onion
 ```
 
 _Why are your Tor hidden services not using https?_

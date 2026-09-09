@@ -8,11 +8,11 @@
 
 ## Angebote
 
-* [ProxyStore Ladengeschäft](https://proxysto.re): Schreddere Dokumente, nutze unser Tails-Terminal, drucke oder kopiere, nimm dir eine Broschüre oder kaufe ein.
-* [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re/) ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)): VPN, E-Mail und mehr – kaufe Coupons für datenschutzfreundliche Anbieter.
-* [druck.proxysto.re](https://druck.proxysto.re) ([onion](http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion/)): Bestelle ganz komfortabel in unserer Onlinedruckerei – datensparsam oder anonym.
-* [order.proxysto.re](https://order.proxysto.re) ([onion](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion/)): Privatsphäre-freundlicher Bestellservice. Wir bestellen Waren für dich – datensparsam oder anonym.
-* [shop.proxysto.re](https://shop.proxysto.re): Hier findest du Hardware, Bücher, Datenschutz-Zubehör und Guthabenkarten für Mullvad VPN. Außerden Outdoorbedarf, Mittel zur physischen Selbstverteidigung und Pyrotechnik.
+* [ProxyStore Ladengeschäft](https://proxystore.de): Schreddere Dokumente, nutze unser Tails-Terminal, drucke oder kopiere, nimm dir eine Broschüre oder kaufe ein.
+* [digitalgoods.proxystore.de](https://digitalgoods.proxystore.de/) ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)): VPN, E-Mail und mehr – kaufe Coupons für datenschutzfreundliche Anbieter.
+* [druck.proxystore.de](https://druck.proxystore.de) ([onion](http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion/)): Bestelle ganz komfortabel in unserer Onlinedruckerei – datensparsam oder anonym.
+* [order.proxystore.de](https://order.proxystore.de) ([onion](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion/)): Privatsphäre-freundlicher Bestellservice. Wir bestellen Waren für dich – datensparsam oder anonym.
+* [shop.proxystore.de](https://shop.proxystore.de): Hier findest du Hardware, Bücher, Datenschutz-Zubehör und Guthabenkarten für Mullvad VPN. Außerden Outdoorbedarf, Mittel zur physischen Selbstverteidigung und Pyrotechnik.
 
 ## Projekte
 

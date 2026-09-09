@@ -8,11 +8,11 @@
 
 ## Services
 
-* [ProxyStore local store](https://proxysto.re): Shred documents, use our Tails computer, print or copy stuff, grab some brochures or buy goods.
-* [digitalgoods.proxysto.re](https://digitalgoods.proxysto.re/) ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)): VPN, email and more – buy coupons for privacy-friendly services.
-* [druck.proxysto.re](https://druck.proxysto.re) ([onion](http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion/)): Conveniently print your own designs in our online printing shop – data-minimizing or anonymously.
-* [order.proxysto.re](https://order.proxysto.re) ([onion](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion/)): Privacy-friendly order service. We order goods for you – data-minimizing or anonymously.
-* [shop.proxysto.re](https://shop.proxysto.re/): Get hardware, books, privacy gadgets and scratch-off voucher cards for Mullvad VPN. Plus physical self-defense and outdoor stuff and pyrotechnics.
+* [ProxyStore local store](https://proxystore.de): Shred documents, use our Tails computer, print or copy stuff, grab some brochures or buy goods.
+* [digitalgoods.proxystore.de](https://digitalgoods.proxystore.de/) ([onion](http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/)): VPN, email and more – buy coupons for privacy-friendly services.
+* [druck.proxystore.de](https://druck.proxystore.de) ([onion](http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion/)): Conveniently print your own designs in our online printing shop – data-minimizing or anonymously.
+* [order.proxystore.de](https://order.proxystore.de) ([onion](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion/)): Privacy-friendly order service. We order goods for you – data-minimizing or anonymously.
+* [shop.proxystore.de](https://shop.proxystore.de/): Get hardware, books, privacy gadgets and scratch-off voucher cards for Mullvad VPN. Plus physical self-defense and outdoor stuff and pyrotechnics.
 
 ## Projects
 

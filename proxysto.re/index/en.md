@@ -8,38 +8,38 @@
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://digitalgoods.proxysto.re"><i class="fa-solid fa-ticket"></i> Digital Goods</a>
+				<a class="card-link stretched-link" href="https://digitalgoods.proxystore.de"><i class="fa-solid fa-ticket"></i> Digital Goods</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> Online Shop</a>
+				<a class="card-link stretched-link" href="https://shop.proxystore.de"><i class="fa-solid fa-cart-shopping"></i> Online Shop</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://order.proxysto.re/"><i class="fa-solid fa-tags"></i> Order Service</a>
+				<a class="card-link stretched-link" href="https://order.proxystore.de/"><i class="fa-solid fa-tags"></i> Order Service</a>
 			</div>
 		</div>
 	</div>
 	<div class="col-lg">
 		<div class="card border-success bg-body-tertiary mb-3 p-2 justify-content-center align-items-center">
 			<div class="card-body">
-				<a class="card-link stretched-link" href="https://druck.proxysto.re/"><i class="fa-solid fa-print"></i> Online Printing</a>
+				<a class="card-link stretched-link" href="https://druck.proxystore.de/"><i class="fa-solid fa-print"></i> Online Printing</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-Our range of [digital goods](https://digitalgoods.proxysto.re) and products from [our online shop](https://shop.proxysto.re) is fully available in our local store. You can also pay and pick up orders from [our order service](https://order.proxysto.re) and [our online printing service](https://druck.proxysto.re) here.
+Our range of [digital goods](https://digitalgoods.proxystore.de) and products from [our online shop](https://shop.proxystore.de) is fully available in our local store. You can also pay and pick up orders from [our order service](https://order.proxystore.de) and [our online printing service](https://druck.proxystore.de) here.
 
 ## Books and brochures
 
-In addition to some brochures on data security and digital self-defense, we also have [a small range of books in stock](https://shop.proxysto.re/category/7). For every book you buy directly from us, we donate five percent of the book price to a total of five selected projects. The projects will be selected for a minimum of three months. The donations (one percent for each project) will be transferred every three months and [published here](spendenverlauf.html). The current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
+In addition to some brochures on data security and digital self-defense, we also have [a small range of books in stock](https://shop.proxystore.de/category/7). For every book you buy directly from us, we donate five percent of the book price to a total of five selected projects. The projects will be selected for a minimum of three months. The donations (one percent for each project) will be transferred every three months and [published here](spendenverlauf.html). The current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
 
 ## Events
 

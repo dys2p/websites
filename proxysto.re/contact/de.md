@@ -1,6 +1,6 @@
 # Kontakt
 
-Bitte hab Verständnis dafür, dass unsere Kontaktmöglichkeiten nur für Fragen, Hinweise und Support zu unseren Angeboten und Produkten gedacht sind. Zeit für allgemeine Technik-Fragen haben wir leider nur im Rahmen unserer [regelmäßigen Technik-Sprechstunde](https://proxysto.re/de/cryptoparty.html) in unserem Ladengeschäft.
+Bitte hab Verständnis dafür, dass unsere Kontaktmöglichkeiten nur für Fragen, Hinweise und Support zu unseren Angeboten und Produkten gedacht sind. Zeit für allgemeine Technik-Fragen haben wir leider nur im Rahmen unserer [regelmäßigen Technik-Sprechstunde](https://proxystore.de/de/cryptoparty.html) in unserem Ladengeschäft.
 
 ## E-Mail
 
@@ -86,11 +86,11 @@ Letzte Änderung der Sicherheitsnummer: 2023-12-29
 Die Adressen sind gleichzeitig die Fingerprints.
 
 ```
-digitalgoods.proxysto.re digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion
-               dys2p.com dys2pwwos5w5kez2chufdk3b3oyj5n4n4iiseyke2tzuqahgvmovloyd.onion
-             proxysto.re proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion
-       druck.proxysto.re print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion
-         pay.proxysto.re ak4jf6rqm3inp3o6ide4zfjgxukpmzzlawpltt5s4iy6tys6qjp6atqd.onion
+digitalgoods.proxystore.de digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion
+                 dys2p.com dys2pwwos5w5kez2chufdk3b3oyj5n4n4iiseyke2tzuqahgvmovloyd.onion
+             proxystore.de proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion
+       druck.proxystore.de print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion
+         pay.proxystore.de ak4jf6rqm3inp3o6ide4zfjgxukpmzzlawpltt5s4iy6tys6qjp6atqd.onion
 ```
 
 _Warum verwenden eure Tor Hidden Services kein https?_
