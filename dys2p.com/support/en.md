@@ -6,7 +6,7 @@ If you like our projects and ideas, we would appreciate a small tip. This way yo
 
 <div class="my-4 text-center">
 	<!-- don't repeat style and script -->
-	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
+	<form method="POST" action="https://pay.proxystore.de/api/v1/invoices" class="btcpay-form btcpay-form--block">
 	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
 	  <input type="hidden" name="orderId" value="Contribution" />
 	  <input type="hidden" name="checkoutDesc" value="Contribution – Thank you very much!" />
@@ -24,7 +24,7 @@ If you like our projects and ideas, we would appreciate a small tip. This way yo
 		  <option value="BTC">BTC</option>
 		</select>
 	  </div>
-	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
+	  <input type="image" class="submit" name="submit" src="https://pay.proxystore.de/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
 	</form>
 </div>
 
@@ -32,9 +32,9 @@ If you like our projects and ideas, we would appreciate a small tip. This way yo
 
 _Leipzig, April 6, 2021_
 
-We would like to set up a shredder for paper and a shredder for data media in our [store location](https://proxysto.re). Both will be usable during opening hours free of charge or at cost price (for maintenance and waste disposal). As described in our [concept](konzept.html), we have a document shredder of the highest security level (P-7/F-3) and the hard disk shredder "HSM Powerline HDS 150" in mind.
+We would like to set up a shredder for paper and a shredder for data media in our [store location](https://proxystore.de). Both will be usable during opening hours free of charge or at cost price (for maintenance and waste disposal). As described in our [concept](konzept.html), we have a document shredder of the highest security level (P-7/F-3) and the hard disk shredder "HSM Powerline HDS 150" in mind.
 
-Since both devices are not cheap, we need your support. If you would like to contribute to the funding, you can do so with cash at our site, by bank transfer (account details available [on request](https://proxysto.re/contact.html)) or in the cryptocurrencies Monero and Bitcoin. If you happen to have a comparable shredder to give away, we would of course be grateful for that as well.
+Since both devices are not cheap, we need your support. If you would like to contribute to the funding, you can do so with cash at our site, by bank transfer (account details available [on request](https://proxystore.de/contact.html)) or in the cryptocurrencies Monero and Bitcoin. If you happen to have a comparable shredder to give away, we would of course be grateful for that as well.
 
 **Document shredder – 1.000 of 1.000 Euro**
 
@@ -80,7 +80,7 @@ Since both devices are not cheap, we need your support. If you would like to con
 			}
 		}
 	</script>
-	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
+	<form method="POST" action="https://pay.proxystore.de/api/v1/invoices" class="btcpay-form btcpay-form--block">
 	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
 	  <input type="hidden" name="orderId" value="Shredder" />
 	  <input type="hidden" name="checkoutDesc" value="Shredder – Thank you very much!" />
@@ -98,11 +98,11 @@ Since both devices are not cheap, we need your support. If you would like to con
 		  <option value="BTC">BTC</option>
 		</select>
 	  </div>
-	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
+	  <input type="image" class="submit" name="submit" src="https://pay.proxystore.de/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
 	</form>
 </div>
 
-The donation goal for the document shredder was reached on May 5, 2021 through a single donation. We would like to take this opportunity to thank you once again! On May 14, 2021, we received the document shredder (Dahle 41334 CleanTEC) with security levels P-7/F-3/T-6. It is now available for free use in our [store](https://proxysto.re) during our opening hours.
+The donation goal for the document shredder was reached on May 5, 2021 through a single donation. We would like to take this opportunity to thank you once again! On May 14, 2021, we received the document shredder (Dahle 41334 CleanTEC) with security levels P-7/F-3/T-6. It is now available for free use in our [store](https://proxystore.de) during our opening hours.
 
 <div class="row">
 	<div class="col-sm-6 mb-3">

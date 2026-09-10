@@ -1,5 +1,6 @@
 # News
 
+* [2026-09-09 New Website Address, everything else stays the same](2026-09-09-new-domain.html)
 * [2026-03-13 An Update on our Proton product range](2026-03-13-proton.html)
 * [2025-09-09 Proton voucher codes now on sale](2025-09-09-proton.html)
 * [2024-05-17 Fixing the "Your device is corrupt" error on Google Pixel smartphones with GrapheneOS](2024-05-17-android-pixel-device-corrupt.html)

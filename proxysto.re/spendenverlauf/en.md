@@ -2,7 +2,7 @@
 
 ## GrapheneOS
 
-For every sale of a [smartphone with pre-installed GrapheneOS](https://shop.proxysto.re/i/pixel) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
+For every sale of a [smartphone with pre-installed GrapheneOS](https://shop.proxystore.de/i/pixel) we donate 20.00 EUR to [GrapheneOS](https://grapheneos.org).
 
 * 2026: [2180 EUR](/assets/images/donations/2026-07/grapheneos.png)
 * 2025: [3040 EUR](/assets/images/donations/2025-12/grapheneos.png)
@@ -11,7 +11,7 @@ For every sale of a [smartphone with pre-installed GrapheneOS](https://shop.prox
 
 ## Book Donations
 
-For every new book you buy [directly from us](https://shop.proxysto.re/category/7), we will donate five percent of the book price to a total of five selected projects. Projects will be selected for at least six months. The donations (one percent for each project) will be sent every six months and published here.
+For every new book you buy [directly from us](https://shop.proxystore.de/category/7), we will donate five percent of the book price to a total of five selected projects. Projects will be selected for at least six months. The donations (one percent for each project) will be sent every six months and published here.
 
 Current project selection: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
@@ -94,7 +94,7 @@ For every sale of a smartphone with pre-installed DivestOS we had planned to don
 
 ## Tails
 
-For every sale of a [USB stick with pre-installed Tails](https://shop.proxysto.re/conf/990) we donate 2,00 EUR to [Tails](https://tails.net/).
+For every sale of a [USB stick with pre-installed Tails](https://shop.proxystore.de/conf/990) we donate 2,00 EUR to [Tails](https://tails.net/).
 
 * 2024: [10 EUR](/assets/images/donations/2025-04/tails.png)
 

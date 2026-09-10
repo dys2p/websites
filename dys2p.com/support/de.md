@@ -6,7 +6,7 @@ Falls euch unsere Projekte und Ideen gefallen, freuen wir uns über eine kleine 
 
 <div class="my-4 text-center">
 	<!-- don't repeat style and script -->
-	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
+	<form method="POST" action="https://pay.proxystore.de/api/v1/invoices" class="btcpay-form btcpay-form--block">
 	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
 	  <input type="hidden" name="orderId" value="Contribution" />
 	  <input type="hidden" name="checkoutDesc" value="Contribution – Thank you very much!" />
@@ -24,7 +24,7 @@ Falls euch unsere Projekte und Ideen gefallen, freuen wir uns über eine kleine 
 		  <option value="BTC">BTC</option>
 		</select>
 	  </div>
-	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
+	  <input type="image" class="submit" name="submit" src="https://pay.proxystore.de/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
 	</form>
 </div>
 
@@ -32,9 +32,9 @@ Falls euch unsere Projekte und Ideen gefallen, freuen wir uns über eine kleine 
 
 _Leipzig, den 6. April 2021_
 
-Wir möchten in unserem [Ladenlokal](https://proxysto.re) einen Shredder für Papier und einen Shredder für Datenträger aufstellen. Beide werden während der Öffnungszeiten kostenfrei oder zum Selbstkostenpreis (für Wartungsarbeiten und die Entsorgung der Abfälle) nutzbar sein. Wie in unserem [Konzept](konzept.html) beschrieben, schwebt uns ein Aktenvernichter der höchsten Sicherheitsstufe (P-7/F-3) und ein Festplattenvernichter "HSM Powerline HDS 150" vor.
+Wir möchten in unserem [Ladenlokal](https://proxystore.de) einen Shredder für Papier und einen Shredder für Datenträger aufstellen. Beide werden während der Öffnungszeiten kostenfrei oder zum Selbstkostenpreis (für Wartungsarbeiten und die Entsorgung der Abfälle) nutzbar sein. Wie in unserem [Konzept](konzept.html) beschrieben, schwebt uns ein Aktenvernichter der höchsten Sicherheitsstufe (P-7/F-3) und ein Festplattenvernichter "HSM Powerline HDS 150" vor.
 
-Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr euch an der Finanzierung beteiligen möchtet, könnt ihr dies mit Bargeld bei uns vor Ort, per Banküberweisung (Kontodaten [auf Anfrage](https://proxysto.re/contact.html)) oder in den Kryptowährungen Monero und Bitcoin tun. Falls ihr zufällig einen vergleichbaren Shredder zu verschenken habt, wären wir natürlich auch dafür dankbar.
+Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr euch an der Finanzierung beteiligen möchtet, könnt ihr dies mit Bargeld bei uns vor Ort, per Banküberweisung (Kontodaten [auf Anfrage](https://proxystore.de/contact.html)) oder in den Kryptowährungen Monero und Bitcoin tun. Falls ihr zufällig einen vergleichbaren Shredder zu verschenken habt, wären wir natürlich auch dafür dankbar.
 
 **Aktenvernichter – 1.000 von 1.000 Euro**
 
@@ -80,7 +80,7 @@ Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr e
 			}
 		}
 	</script>
-	<form method="POST" action="https://pay.proxysto.re/api/v1/invoices" class="btcpay-form btcpay-form--block">
+	<form method="POST" action="https://pay.proxystore.de/api/v1/invoices" class="btcpay-form btcpay-form--block">
 	  <input type="hidden" name="storeId" value="53wEhRv1kSEYRWR5q82UrF56eWSSDRH7bL4iq1RYqoJt" />
 	  <input type="hidden" name="orderId" value="Shredder" />
 	  <input type="hidden" name="checkoutDesc" value="Shredder – Thank you very much!" />
@@ -98,11 +98,11 @@ Da beide Geräte nicht billig sind, brauchen wir eure Unterstützung. Wenn ihr e
 		  <option value="BTC">BTC</option>
 		</select>
 	  </div>
-	  <input type="image" class="submit" name="submit" src="https://pay.proxysto.re/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
+	  <input type="image" class="submit" name="submit" src="https://pay.proxystore.de/img/paybutton/pay.svg" style="width:209px" alt="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor">
 	</form>
 </div>
 
-Das Spendenziel für den Aktenvernichter wurde am 5. Mai 2021 durch eine Einzelspende erreicht. Wir möchten uns an dieser Stelle noch einmal herzlich dafür bedanken! Am 14. Mai 2021 hat uns der damit erworbene Aktenvernichter (Dahle 41334 CleanTEC) mit den Sicherheitsstufen P-7/F-3/T-6 erreicht. Er steht ab sofort während unserer Öffnungszeiten zur freien Nutzung in unserem [Laden](https://proxysto.re) zur Verfügung.
+Das Spendenziel für den Aktenvernichter wurde am 5. Mai 2021 durch eine Einzelspende erreicht. Wir möchten uns an dieser Stelle noch einmal herzlich dafür bedanken! Am 14. Mai 2021 hat uns der damit erworbene Aktenvernichter (Dahle 41334 CleanTEC) mit den Sicherheitsstufen P-7/F-3/T-6 erreicht. Er steht ab sofort während unserer Öffnungszeiten zur freien Nutzung in unserem [Laden](https://proxystore.de) zur Verfügung.
 
 <div class="row">
 	<div class="col-sm-6 mb-3">

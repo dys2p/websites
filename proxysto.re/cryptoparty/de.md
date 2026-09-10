@@ -37,7 +37,7 @@ Die Sprechstunde ist dafür gedacht, gemeinsam und begleitend etwas zu lernen un
 
 ## Wann und wo?
 
-Die Sprechstunde findet **jeden 1. und 3. Montag im Monat** von **16:00 bis 18:00 Uhr** im **[ProxyStore](https://proxysto.re/de/)** statt. Unsere Räume sind leider **nicht rollstuhlgerecht**.
+Die Sprechstunde findet **jeden 1. und 3. Montag im Monat** von **16:00 bis 18:00 Uhr** im **[ProxyStore](https://proxystore.de)** statt. Unsere Räume sind leider **nicht rollstuhlgerecht**.
 
 Die nächsten Termine:
 

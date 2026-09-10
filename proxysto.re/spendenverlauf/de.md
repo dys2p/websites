@@ -2,7 +2,7 @@
 
 ## GrapheneOS
 
-Für jeden Verkauf eines [Smartphones mit vorinstalliertem GrapheneOS](https://shop.proxysto.re/i/pixel) spenden wir 20,00 EUR an [GrapheneOS](https://grapheneos.org).
+Für jeden Verkauf eines [Smartphones mit vorinstalliertem GrapheneOS](https://shop.proxystore.de/i/pixel) spenden wir 20,00 EUR an [GrapheneOS](https://grapheneos.org).
 
 * 2026: [2180 EUR](/assets/images/donations/2026-07/grapheneos.png)
 * 2025: [3040 EUR](/assets/images/donations/2025-12/grapheneos.png)
@@ -11,7 +11,7 @@ Für jeden Verkauf eines [Smartphones mit vorinstalliertem GrapheneOS](https://s
 
 ## Bücherspenden
 
-Für jedes neue Buch, das ihr [direkt bei uns](https://shop.proxysto.re/category/7) kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens sechs Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle sechs Monate übermittelt und hier veröffentlicht.
+Für jedes neue Buch, das ihr [direkt bei uns](https://shop.proxystore.de/category/7) kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens sechs Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle sechs Monate übermittelt und hier veröffentlicht.
 
 Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.net/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
@@ -94,7 +94,7 @@ Für jeden Verkauf eines Smartphones mit vorinstalliertem DivestOS wollten wir 2
 
 ## Tails
 
-Für jeden Verkauf eines [USB-Stick mit vorinstalliertem Tails](https://shop.proxysto.re/conf/990) spenden wir 2,00 EUR an [Tails](https://tails.net/).
+Für jeden Verkauf eines [USB-Stick mit vorinstalliertem Tails](https://shop.proxystore.de/conf/990) spenden wir 2,00 EUR an [Tails](https://tails.net/).
 
 * 2024: [10 EUR](/assets/images/donations/2025-04/tails.png)
 
