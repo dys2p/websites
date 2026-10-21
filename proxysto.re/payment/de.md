@@ -22,7 +22,7 @@ Wir bearbeiten Bestellungen ausschließlich gegen Vorkasse. Dazu bieten wir aktu
   * SEK (Schwedische Kronen)
   * TWD (Taiwan-Dollar)
   * USD (US-Dollar)
-* **Kryptowährungen**: [Monero](https://www.getmonero.org/de/) (XMR) und [Bitcoin](https://bitcoin.org/de/) (BTC)
+* **Kryptowährungen**: [Monero](https://www.getmonero.org/de/) (XMR) und [Bitcoin](https://bitcoin.org/de/) (BTC) über unseren eigenen BTCPay Server
 * **SEPA-Banküberweisung** auf unser Geschäftskonto. Beachte die dabei anfallenden Metadaten.
 * **Bareinzahlung bei einer Bank** auf unser Geschäftskonto. Die Verfügbarkeit dieser Option und die Höhe der Gebühren unterscheiden sich von Bank zu Bank und teilweise sogar zwischen den Angestellten.
 * **PayPal** (teilweise). Wir übermitteln nur die Bestellnummer und den Wert an PayPal.

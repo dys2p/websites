@@ -22,7 +22,7 @@ We process orders against prepayment only. We currently offer the following paym
   * SEK (Swedish krona)
   * TWD (New Taiwan dollars)
   * USD (United States dollars)
-* **Cryptocurrencies**: [Monero](https://www.getmonero.org/) (XMR) and [Bitcoin](https://bitcoin.org/) (BTC)
+* **Cryptocurrencies**: [Monero](https://www.getmonero.org/) (XMR) and [Bitcoin](https://bitcoin.org/) (BTC) via our BTCPay Server instance
 * **SEPA bank transfer** to our bank account. Note the metadata involved in this process.
 * **Cash deposit at a bank** to our bank account. The availability of this option and the amount of the fees differ from bank to bank and sometimes even between bank employees.
 * **PayPal** (in some shops). We submit only the order number and the payment amount to PayPal.
