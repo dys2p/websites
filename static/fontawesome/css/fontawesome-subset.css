@@ -4,6 +4,34 @@
  * Copyright 2026 Fonticons, Inc.
  */
 :root, :host {
+  --fa-family-brands: 'Font Awesome 7 Brands';
+  --fa-font-brands: normal 400 1em/1 var(--fa-family-brands);
+}
+
+@font-face {
+  font-family: "Font Awesome 7 Brands";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-brands-400.woff2");
+}
+.fab,
+.fa-brands,
+.fa-classic.fa-brands {
+  --fa-family: var(--fa-family-brands);
+  --fa-style: 400;
+}
+
+.fa-tor-browser {
+  --fa: "\e838";
+}
+
+/*!
+ * Font Awesome Free 7.3.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2026 Fonticons, Inc.
+ */
+:root, :host {
   --fa-family-classic: 'Font Awesome 7 Free';
   --fa-font-solid: normal 900 1em/1 var(--fa-family-classic);
   /* deprecated: this older custom property will be removed next major release */
@@ -991,6 +1019,10 @@
   --fa: "\f00d";
 }
 
+.fa-gear {
+  --fa: "\f013";
+}
+
 .fa-house {
   --fa: "\f015";
 }
@@ -999,12 +1031,20 @@
   --fa: "\f029";
 }
 
+.fa-tag {
+  --fa: "\f02b";
+}
+
 .fa-tags {
   --fa: "\f02c";
 }
 
 .fa-print {
   --fa: "\f02f";
+}
+
+.fa-pen-to-square {
+  --fa: "\f044";
 }
 
 .fa-cart-shopping {
@@ -1031,12 +1071,20 @@
   --fa: "\f145";
 }
 
+.fa-trash {
+  --fa: "\f1f8";
+}
+
 .fa-trash-can {
   --fa: "\f2ed";
 }
 
 .fa-rotate {
   --fa: "\f2f1";
+}
+
+.fa-left-right {
+  --fa: "\f337";
 }
 
 .fa-store {
