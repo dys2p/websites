@@ -12,6 +12,7 @@ Die Integritätsprüfung eines Tails-Sticks ist **nur von einem anderen Betriebs
 
 | Tails-Version | Befehl                                                                                        | Prüfsumme                                                                                                                                                                                                        |
 | ------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7.16          | `sudo head --bytes 1901068288 /dev/$(lsblk -ndo pkname /dev/disk/by-label/TAILS) | sha256sum` | 7bef45b9aad430e6c2bbfd78c30c5a7ad2f143d498a002b96b88814a18c52a1d |
 | 7.15          | `sudo head --bytes 1889533952 /dev/$(lsblk -ndo pkname /dev/disk/by-label/TAILS) | sha256sum` | 2bad37833f2e44abbf68646a460759c26d1fc32589c2e0437099743bc6b6197b |
 | 7.13          | `sudo head --bytes 1877999616 /dev/$(lsblk -ndo pkname /dev/disk/by-label/TAILS) | sha256sum` | 8c4e63c7c47a000335bf2e66158c0d062c063619599e45d717759d8f1621f468 |
 | 7.12          | `sudo head --bytes 1877999616 /dev/$(lsblk -ndo pkname /dev/disk/by-label/TAILS) | sha256sum` | bb6b85f632648253ecd1e5446e319f78c00a5ebab751b09951a3c6140d1948a0 |
